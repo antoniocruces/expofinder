@@ -1,0 +1,3288 @@
+{
+    "response": {
+        "elements": {
+            "items": [
+                {
+                    "first_checkin_id": 201952879,
+                    "recent_checkin_id": 201952879,
+                    "rating_score": 4.25,
+                    "first_had": "Fri, 10 Jul 2015 19:23:07 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 208,
+                        "element_name": "90 Shilling",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-odell90-Shilling.jpg",
+                        "element_abv": 5.3,
+                        "element_ibu": 27,
+                        "element_slug": "odell-brewing-co-90-shilling",
+                        "element_style": "Scotch Ale / Wee Heavy",
+                        "element_description": "We introduced 90 Shilling, our flagship element, at our opening party in 1989. For a while, we'd been wondering - what would happen if we lightened up the traditional Scottish ale? The result is an irresistibly smooth and delicious medium-bodied amber ale. The name 90 Shilling comes from the Scottish method of taxing element. Only the highest quality elements were taxed 90 Shillings. A shilling was a British coin used from 1549 to 1982. We think you'll find this original ale brilliantly refreshing, and worth every shilling.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.677,
+                        "rating_count": 38122
+                    },
+                    "expofinder": {
+                        "expofinder_id": 7296,
+                        "expofinder_name": "Odell Brewing Co.",
+                        "expofinder_slug": "odell-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-OdellBrewingCo_7296.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "OdellBrewing",
+                            "facebook": "http://www.facebook.com/OdellBrewingCo?ref=ts",
+                            "instagram": "",
+                            "url": "http://odellbrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Fort Collins",
+                            "expofinder_state": "CO",
+                            "lat": 40.5888,
+                            "lng": -105.062
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 201325724,
+                    "recent_checkin_id": 201325724,
+                    "rating_score": 4,
+                    "first_had": "Wed, 08 Jul 2015 20:16:02 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 149795,
+                        "element_name": "Naked Nun",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_149795_sm_7b4f468122b61b459c10d9526e47a5.jpeg",
+                        "element_abv": 5.8,
+                        "element_ibu": 0,
+                        "element_slug": "adelbert-s-expofinder-naked-nun",
+                        "element_style": "Witbier",
+                        "element_description": "This ale has a well-rounded aroma of citrus notes, clove, and apple. It is refreshing and soft, with balanced hints of bitter orange peel and coriander. It finishes dry and clean, making it perfect for pairing with lighter foods such as mussels, salmon, and chicken.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.556,
+                        "rating_count": 4778
+                    },
+                    "expofinder": {
+                        "expofinder_id": 20007,
+                        "expofinder_name": "Adelbert's expofinder",
+                        "expofinder_slug": "adelberts-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-adelbertsexpofinder_20007.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "adelbertselement",
+                            "facebook": "http://www.facebook.com/adelbertselement",
+                            "instagram": "adelbertselement",
+                            "url": "http://www.adelbertselement.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Austin",
+                            "expofinder_state": "TX",
+                            "lat": 30.3827,
+                            "lng": -97.7202
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 200889282,
+                    "recent_checkin_id": 200889282,
+                    "rating_score": 4,
+                    "first_had": "Mon, 06 Jul 2015 21:44:07 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 699009,
+                        "element_name": "(512) White IPA",
+                        "element_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-element-default.png",
+                        "element_abv": 5.2,
+                        "element_ibu": 30,
+                        "element_slug": "512-brewing-company-512-white-ipa",
+                        "element_style": "White IPA",
+                        "element_description": "White IPA",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.501,
+                        "rating_count": 1738
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1,
+                        "expofinder_name": "(512) Brewing Company",
+                        "expofinder_slug": "512-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-512BrewingCompany_1.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "512brewing",
+                            "facebook": "https://www.facebook.com/512brewing",
+                            "instagram": "512brewing",
+                            "url": "512brewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Austin",
+                            "expofinder_state": "TX",
+                            "lat": 30.2236,
+                            "lng": -97.7697
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 199295589,
+                    "recent_checkin_id": 199295589,
+                    "rating_score": 4.25,
+                    "first_had": "Fri, 03 Jul 2015 12:27:34 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 8745,
+                        "element_name": "Weihenstephaner Hefeweissbier",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-8745_3a3cd_sm.jpeg",
+                        "element_abv": 5.4,
+                        "element_ibu": 14,
+                        "element_slug": "bayerische-staatsbrauerei-weihenstephan-weihenstephaner-hefeweissbier",
+                        "element_style": "Hefeweizen",
+                        "element_description": "Our golden-yellow wheat element, with its fine-pored white foam, smells of cloves and impresses consumers with its refreshing banana flavour. It is full bodied and with a smooth yeast taste. To be enjoyed at any time (always a pleasure / enjoyment), goes excellently with fish and seafood, with spicy cheese and especially with the traditional Bavarian veal sausage. Brewed according to our centuries-old brewing tradition on the Weihenstephan hill.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.851,
+                        "rating_count": 88437
+                    },
+                    "expofinder": {
+                        "expofinder_id": 88,
+                        "expofinder_name": "Bayerische Staatsbrauerei Weihenstephan",
+                        "expofinder_slug": "bayerische-staatsbrauerei-weihenstephan",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-88_5be77.jpeg",
+                        "country_name": "Germany",
+                        "contact": {
+                            "twitter": "weihenstephan",
+                            "facebook": "http://www.facebook.com/weihenstephan",
+                            "instagram": "",
+                            "url": "http://www.weihenstephaner.de"
+                        },
+                        "location": {
+                            "expofinder_city": "Freising",
+                            "expofinder_state": "Bavaria",
+                            "lat": 48.3952,
+                            "lng": 11.7289
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 197551002,
+                    "recent_checkin_id": 197551002,
+                    "rating_score": 3.75,
+                    "first_had": "Sat, 27 Jun 2015 18:26:51 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 8554,
+                        "element_name": "Lost Gold IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-8554_54aed_sm.jpeg",
+                        "element_abv": 6.6,
+                        "element_ibu": 62,
+                        "element_slug": "real-ale-brewing-company-lost-gold-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "Texas has more buried treasure than any other state. (Seriously, Google it.) That fact was the inspiration for Lost Gold. English Crystal malts give this IPA a rich golden-orange hue and a subtle, yet firm, malt background. Bright and citrusy with grapefruit notes, Lost Gold features an abundance of American hops that always mark the spot. Don’t worry, however, you won’t have to hunt for this treasured favorite. It’s available year round all over Texas.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.611,
+                        "rating_count": 9735
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1044,
+                        "expofinder_name": "Real Ale Brewing Company",
+                        "expofinder_slug": "real-ale-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-1044_fcb79.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "RealAleBrewing",
+                            "facebook": "https://www.facebook.com/pages/Real-Ale-Brewing-Company/85360426538",
+                            "instagram": "RealAleBrewing",
+                            "url": "http://www.realalebrewing.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Blanco",
+                            "expofinder_state": "TX",
+                            "lat": 30.1133,
+                            "lng": -98.4128
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 192211813,
+                    "recent_checkin_id": 192211813,
+                    "rating_score": 4.25,
+                    "first_had": "Fri, 12 Jun 2015 18:10:16 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 473207,
+                        "element_name": "Fanboy",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_473207_sm_a018c2584af40a0d2aad2cb341f60f.jpeg",
+                        "element_abv": 8.48,
+                        "element_ibu": 70,
+                        "element_slug": "elevation-element-company-fanboy",
+                        "element_style": "Imperial / Double IPA",
+                        "element_description": "This American Oak Aged Double IPA brings forward notes of pine, tangerine, citrus and grapefruit with subtle notes of vanilla and oak.  The element pours a beautiful copper with a slightly off white head and lacing that seems to last for ever.  It hits the palate with an inconceivable balance between citrus, tropical fruits, pine, oak, whiskey and vanilla and lingering bitterness.  With a medium mouth feel this is a perfect element for those cool fall nights.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.927,
+                        "rating_count": 2305
+                    },
+                    "expofinder": {
+                        "expofinder_id": 23218,
+                        "expofinder_name": "Elevation element Company",
+                        "expofinder_slug": "elevation-element-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-elevationelementcompany_23218.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "elevationelementco",
+                            "facebook": "http://www.facebook.com/elevationelementco",
+                            "instagram": "",
+                            "url": "http://www.elevationelementco.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Poncha Springs",
+                            "expofinder_state": "CO",
+                            "lat": 38.5182,
+                            "lng": -106.065
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 185190984,
+                    "recent_checkin_id": 185190984,
+                    "rating_score": 3.75,
+                    "first_had": "Fri, 22 May 2015 23:08:29 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 377178,
+                        "element_name": "Radial IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-377178_b04ba_sm.jpeg",
+                        "element_abv": 6.8,
+                        "element_ibu": 98,
+                        "element_slug": "infusion-brewing-company-radial-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "Radial is our way of the thanking the West Coast for providing us with an incredible IPA. This Brash element is light in color and packed full of hoppy goodness. With over 22 pounds of American hops, this should please even the craziest hophead.\n6.8-7%",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.646,
+                        "rating_count": 963
+                    },
+                    "expofinder": {
+                        "expofinder_id": 31802,
+                        "expofinder_name": "Infusion Brewing Company",
+                        "expofinder_slug": "infusion-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-InfusionBrewingCompany_31802.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "InfusionBrewing",
+                            "facebook": "http://www.facebook.com/InfusionBrewing?rf=394464617267081",
+                            "instagram": "infusionbrewingco",
+                            "url": "http://www.infusionbrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Benson",
+                            "expofinder_state": "NE",
+                            "lat": 41.2847,
+                            "lng": -96.0079
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 183727942,
+                    "recent_checkin_id": 188115300,
+                    "rating_score": 3.25,
+                    "first_had": "Sun, 17 May 2015 18:16:44 -0500",
+                    "count": 2,
+                    "element": {
+                        "bid": 223,
+                        "element_name": "Skinny Dip",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-223_6522a_sm.jpeg",
+                        "element_abv": 4.2,
+                        "element_ibu": 22,
+                        "element_slug": "new-belgium-brewing-company-skinny-dip",
+                        "element_style": "Pale Lager",
+                        "element_description": "Ever tried a Skinny Dip? You wouldn't be alone. Featured by both Men's Journal and the Today Show as a favorite summer brew, this full-bodied, highly drinkable element makes a splash in our seasonal line-up.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.319,
+                        "rating_count": 38057
+                    },
+                    "expofinder": {
+                        "expofinder_id": 905,
+                        "expofinder_name": "New Belgium Brewing Company",
+                        "expofinder_slug": "new-belgium-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-905_2ddc7.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "newbelgium",
+                            "facebook": "http://www.facebook.com/newbelgium",
+                            "instagram": "newbelgium",
+                            "url": "http://www.newbelgium.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Fort Collins",
+                            "expofinder_state": "CO",
+                            "lat": 40.5934,
+                            "lng": -105.067
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 182767384,
+                    "recent_checkin_id": 182767384,
+                    "rating_score": 3.75,
+                    "first_had": "Fri, 15 May 2015 20:36:11 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 557976,
+                        "element_name": "Icy Bay IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-557976_7206b_sm.jpeg",
+                        "element_abv": 6.2,
+                        "element_ibu": 65,
+                        "element_slug": "alaskan-brewing-co-icy-bay-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "Alaskan Icy Bay IPA is made from glacier-fed water and a blend of Cascade, Bravo, Calypso, Summit and Apollo hops and premium two-row pale and specialty malts.\n",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.541,
+                        "rating_count": 19060
+                    },
+                    "expofinder": {
+                        "expofinder_id": 17,
+                        "expofinder_name": "Alaskan Brewing Co.",
+                        "expofinder_slug": "alaskan-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-17_9a0f2.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "alaskanbrewing",
+                            "facebook": "http://www.facebook.com/AlaskanBrewingCo",
+                            "instagram": "",
+                            "url": "http://www.alaskanelement.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Juneau",
+                            "expofinder_state": "AK",
+                            "lat": 58.3568,
+                            "lng": -134.489
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 181789451,
+                    "recent_checkin_id": 181789451,
+                    "rating_score": 4,
+                    "first_had": "Tue, 12 May 2015 18:12:04 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 409154,
+                        "element_name": "FreakyFISH Belgian Double IPA",
+                        "element_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-element-default.png",
+                        "element_abv": 0,
+                        "element_ibu": 0,
+                        "element_slug": "telluride-brewing-company-freakyfish-belgian-double-ipa",
+                        "element_style": "Belgian IPA",
+                        "element_description": "",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.853,
+                        "rating_count": 131
+                    },
+                    "expofinder": {
+                        "expofinder_id": 17414,
+                        "expofinder_name": "Telluride Brewing Company",
+                        "expofinder_slug": "telluride-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-TellurideBrewingCompany_17414.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "",
+                            "facebook": "",
+                            "instagram": "",
+                            "url": ""
+                        },
+                        "location": {
+                            "expofinder_city": "Telluride",
+                            "expofinder_state": "CO",
+                            "lat": 37.9448,
+                            "lng": -107.882
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 181754885,
+                    "recent_checkin_id": 181754885,
+                    "rating_score": 2.75,
+                    "first_had": "Tue, 12 May 2015 16:51:18 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 833450,
+                        "element_name": "Nadare",
+                        "element_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-element-default.png",
+                        "element_abv": 5.2,
+                        "element_ibu": 0,
+                        "element_slug": "platt-park-brewing-company-nadare",
+                        "element_style": "American Light Lager",
+                        "element_description": "",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.118,
+                        "rating_count": 188
+                    },
+                    "expofinder": {
+                        "expofinder_id": 127814,
+                        "expofinder_name": "Platt Park Brewing Company",
+                        "expofinder_slug": "platt-park-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-127814_3d421.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "plattparkbrew",
+                            "facebook": "https://www.facebook.com/plattparkbrewing",
+                            "instagram": "plattpark",
+                            "url": "www.plattparkbrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Denver",
+                            "expofinder_state": "CO",
+                            "lat": 39.6826,
+                            "lng": -104.981
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 181754423,
+                    "recent_checkin_id": 181754423,
+                    "rating_score": 3.25,
+                    "first_had": "Tue, 12 May 2015 16:50:24 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 697096,
+                        "element_name": "Gump's Lager",
+                        "element_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-element-default.png",
+                        "element_abv": 4.9,
+                        "element_ibu": 26,
+                        "element_slug": "platt-park-brewing-company-gump-s-lager",
+                        "element_style": "Vienna Lager",
+                        "element_description": "Our GABF Silver Medal Winning Lager. A refreshing Vienna style Lager, with a fine balance of malt and hops. Brewed with 100% Germanic malts.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.404,
+                        "rating_count": 387
+                    },
+                    "expofinder": {
+                        "expofinder_id": 127814,
+                        "expofinder_name": "Platt Park Brewing Company",
+                        "expofinder_slug": "platt-park-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-127814_3d421.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "plattparkbrew",
+                            "facebook": "https://www.facebook.com/plattparkbrewing",
+                            "instagram": "plattpark",
+                            "url": "www.plattparkbrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Denver",
+                            "expofinder_state": "CO",
+                            "lat": 39.6826,
+                            "lng": -104.981
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 181753990,
+                    "recent_checkin_id": 181753990,
+                    "rating_score": 4,
+                    "first_had": "Tue, 12 May 2015 16:49:20 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 671165,
+                        "element_name": "Phaded",
+                        "element_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-element-default.png",
+                        "element_abv": 5,
+                        "element_ibu": 0,
+                        "element_slug": "platt-park-brewing-company-phaded",
+                        "element_style": "American Pale Ale",
+                        "element_description": "",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.545,
+                        "rating_count": 452
+                    },
+                    "expofinder": {
+                        "expofinder_id": 127814,
+                        "expofinder_name": "Platt Park Brewing Company",
+                        "expofinder_slug": "platt-park-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-127814_3d421.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "plattparkbrew",
+                            "facebook": "https://www.facebook.com/plattparkbrewing",
+                            "instagram": "plattpark",
+                            "url": "www.plattparkbrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Denver",
+                            "expofinder_state": "CO",
+                            "lat": 39.6826,
+                            "lng": -104.981
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 181753389,
+                    "recent_checkin_id": 181753389,
+                    "rating_score": 3,
+                    "first_had": "Tue, 12 May 2015 16:47:22 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 697145,
+                        "element_name": "Astronaut Amber",
+                        "element_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-element-default.png",
+                        "element_abv": 5.1,
+                        "element_ibu": 0,
+                        "element_slug": "denver-pearl-brewing-company-astronaut-amber",
+                        "element_style": "American Amber / Red Ale",
+                        "element_description": "Malty amber enjoyed throughout the galaxy!",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.286,
+                        "rating_count": 336
+                    },
+                    "expofinder": {
+                        "expofinder_id": 127814,
+                        "expofinder_name": "Platt Park Brewing Company",
+                        "expofinder_slug": "platt-park-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-127814_3d421.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "plattparkbrew",
+                            "facebook": "https://www.facebook.com/plattparkbrewing",
+                            "instagram": "plattpark",
+                            "url": "www.plattparkbrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Denver",
+                            "expofinder_state": "CO",
+                            "lat": 39.6826,
+                            "lng": -104.981
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 181752172,
+                    "recent_checkin_id": 181752172,
+                    "rating_score": 4,
+                    "first_had": "Tue, 12 May 2015 16:44:03 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 961509,
+                        "element_name": "Tropical Snow Dance",
+                        "element_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-element-default.png",
+                        "element_abv": 6.9,
+                        "element_ibu": 90,
+                        "element_slug": "platt-park-brewing-company-tropical-snow-dance",
+                        "element_style": "American IPA",
+                        "element_description": "A true West Coast IPA, brewed with only Mosaic hops, offers a crisp balance of grapefruit notes, with a delicious floral aroma. It packs a punch with the IBU’s in a tropical range.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.699,
+                        "rating_count": 389
+                    },
+                    "expofinder": {
+                        "expofinder_id": 127814,
+                        "expofinder_name": "Platt Park Brewing Company",
+                        "expofinder_slug": "platt-park-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-127814_3d421.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "plattparkbrew",
+                            "facebook": "https://www.facebook.com/plattparkbrewing",
+                            "instagram": "plattpark",
+                            "url": "www.plattparkbrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Denver",
+                            "expofinder_state": "CO",
+                            "lat": 39.6826,
+                            "lng": -104.981
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 181751425,
+                    "recent_checkin_id": 181751425,
+                    "rating_score": 3.75,
+                    "first_had": "Tue, 12 May 2015 16:42:25 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 778331,
+                        "element_name": "Platt Park Porter",
+                        "element_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-element-default.png",
+                        "element_abv": 5,
+                        "element_ibu": 35,
+                        "element_slug": "denver-pearl-brewing-company-platt-park-porter",
+                        "element_style": "Porter",
+                        "element_description": "",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.636,
+                        "rating_count": 171
+                    },
+                    "expofinder": {
+                        "expofinder_id": 127814,
+                        "expofinder_name": "Platt Park Brewing Company",
+                        "expofinder_slug": "platt-park-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-127814_3d421.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "plattparkbrew",
+                            "facebook": "https://www.facebook.com/plattparkbrewing",
+                            "instagram": "plattpark",
+                            "url": "www.plattparkbrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Denver",
+                            "expofinder_state": "CO",
+                            "lat": 39.6826,
+                            "lng": -104.981
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 181696097,
+                    "recent_checkin_id": 181696097,
+                    "rating_score": 4,
+                    "first_had": "Tue, 12 May 2015 12:05:59 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 662965,
+                        "element_name": "River North IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-662965_fb1f1_sm.jpeg",
+                        "element_abv": 6,
+                        "element_ibu": 0,
+                        "element_slug": "river-north-expofinder-river-north-ipa",
+                        "element_style": "Belgian IPA",
+                        "element_description": "",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.505,
+                        "rating_count": 1949
+                    },
+                    "expofinder": {
+                        "expofinder_id": 23833,
+                        "expofinder_name": "River North expofinder",
+                        "expofinder_slug": "river-north-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-RiverNorthexpofinder_23833.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "rivernorthbrew",
+                            "facebook": "http://www.facebook.com/rivernorthexpofinder",
+                            "instagram": "",
+                            "url": "http://www.rivernorthexpofinder.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Denver",
+                            "expofinder_state": "CO",
+                            "lat": 39.7585,
+                            "lng": -104.989
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 181531579,
+                    "recent_checkin_id": 181531579,
+                    "rating_score": 4,
+                    "first_had": "Mon, 11 May 2015 15:18:36 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 10290,
+                        "element_name": "Isadore Java Porter",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-IsadoreJavaPorter_10290.jpeg",
+                        "element_abv": 6,
+                        "element_ibu": 0,
+                        "element_slug": "mountain-sun-pub-expofinder-isadore-java-porter",
+                        "element_style": "Porter",
+                        "element_description": "A rich, creamy ale infused with a generous amount of coffee.  The Porter was developed by Mountain Sun brewers weary of drinking stout for breakfast.  The result is an ale where coffer aromas mingle perfectly with a roasted, hop finish.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.85,
+                        "rating_count": 1008
+                    },
+                    "expofinder": {
+                        "expofinder_id": 891,
+                        "expofinder_name": "Mountain Sun Pub & expofinder",
+                        "expofinder_slug": "mountain-sun-pub-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-MountainSunPubexpofinder_891.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "mountainsunpub",
+                            "facebook": "http://www.facebook.com/mountainsunpub",
+                            "instagram": "",
+                            "url": "http://www.mountainsunpub.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Boulder",
+                            "expofinder_state": "CO",
+                            "lat": 40.019,
+                            "lng": -105.275
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 181529093,
+                    "recent_checkin_id": 181529093,
+                    "rating_score": 3.5,
+                    "first_had": "Mon, 11 May 2015 15:05:00 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 10293,
+                        "element_name": "Illusion Dweller IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-IllusionDwellerIPA_10293.jpeg",
+                        "element_abv": 6.4,
+                        "element_ibu": 0,
+                        "element_slug": "mountain-sun-pub-expofinder-illusion-dweller-ipa",
+                        "element_style": "English IPA",
+                        "element_description": "Just like one of our best climbs in Joshua Tree, this I.P.A. is chock full of UK Kent Golding hops.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.585,
+                        "rating_count": 1290
+                    },
+                    "expofinder": {
+                        "expofinder_id": 891,
+                        "expofinder_name": "Mountain Sun Pub & expofinder",
+                        "expofinder_slug": "mountain-sun-pub-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-MountainSunPubexpofinder_891.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "mountainsunpub",
+                            "facebook": "http://www.facebook.com/mountainsunpub",
+                            "instagram": "",
+                            "url": "http://www.mountainsunpub.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Boulder",
+                            "expofinder_state": "CO",
+                            "lat": 40.019,
+                            "lng": -105.275
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 181522366,
+                    "recent_checkin_id": 181522366,
+                    "rating_score": 4.25,
+                    "first_had": "Mon, 11 May 2015 14:25:43 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 12632,
+                        "element_name": "Mountain Sun FYIPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-FYIPA_12632.jpeg",
+                        "element_abv": 7.5,
+                        "element_ibu": 0,
+                        "element_slug": "mountain-sun-pub-expofinder-fyipa",
+                        "element_style": "American IPA",
+                        "element_description": "",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.916,
+                        "rating_count": 2094
+                    },
+                    "expofinder": {
+                        "expofinder_id": 891,
+                        "expofinder_name": "Mountain Sun Pub & expofinder",
+                        "expofinder_slug": "mountain-sun-pub-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-MountainSunPubexpofinder_891.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "mountainsunpub",
+                            "facebook": "http://www.facebook.com/mountainsunpub",
+                            "instagram": "",
+                            "url": "http://www.mountainsunpub.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Boulder",
+                            "expofinder_state": "CO",
+                            "lat": 40.019,
+                            "lng": -105.275
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 180778441,
+                    "recent_checkin_id": 180778441,
+                    "rating_score": 4.25,
+                    "first_had": "Sat, 09 May 2015 14:57:47 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 52024,
+                        "element_name": "Fire Eagle",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-austinelementworksFireEagle.jpg",
+                        "element_abv": 6.4,
+                        "element_ibu": 70,
+                        "element_slug": "austin-elementworks-fire-eagle",
+                        "element_style": "American IPA",
+                        "element_description": "Hoppy, Bold, & American. Flavor swoops in (cue EAGLE SCREAM), grabs you by the face and flies you through the hop rainbow. At the peak of the ride it swoops back to earth and gently drops you back on your bar stool where you are refreshed, excited and ready to ride again. It’s hoppy, bold and American. ABV 6.4 - Three before you start hugging the elderly.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.671,
+                        "rating_count": 9639
+                    },
+                    "expofinder": {
+                        "expofinder_id": 11819,
+                        "expofinder_name": "Austin elementworks",
+                        "expofinder_slug": "austin-elementworks",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-austinelementworks_11819.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "Austinelementworks",
+                            "facebook": "http://www.facebook.com/Austinelementworks",
+                            "instagram": "Austinelementworks",
+                            "url": "http://www.austinelementworks.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Austin",
+                            "expofinder_state": "TX",
+                            "lat": 30.3798,
+                            "lng": -97.7302
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 180447813,
+                    "recent_checkin_id": 180447813,
+                    "rating_score": 3,
+                    "first_had": "Fri, 08 May 2015 19:54:13 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 1078359,
+                        "element_name": "Envy Apple Cider",
+                        "element_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-element-default.png",
+                        "element_abv": 0,
+                        "element_ibu": 0,
+                        "element_slug": "lyons-haus-envy-apple-cider",
+                        "element_style": "Cider",
+                        "element_description": "Dry, low ABV",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 0,
+                        "rating_count": 1
+                    },
+                    "expofinder": {
+                        "expofinder_id": 182705,
+                        "expofinder_name": "Lyons Haus",
+                        "expofinder_slug": "lyons-haus",
+                        "expofinder_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-expofinder-default.png",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "",
+                            "facebook": "",
+                            "instagram": "",
+                            "url": ""
+                        },
+                        "location": {
+                            "expofinder_city": "",
+                            "expofinder_state": "",
+                            "lat": 0,
+                            "lng": 0
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 179184580,
+                    "recent_checkin_id": 179184580,
+                    "rating_score": 4,
+                    "first_had": "Sun, 03 May 2015 18:47:30 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 18545,
+                        "element_name": "Summer Love",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-victorySummerLoveB.jpg",
+                        "element_abv": 5.2,
+                        "element_ibu": 25,
+                        "element_slug": "victory-brewing-company-summer-love",
+                        "element_style": "Golden Ale",
+                        "element_description": "With the sublime, earthy familiarity of noble, American and German hops backed up by fresh and clean German malts, Summer Love Ale® ends with a surprising burst of lemony refreshment from fistfuls of American whole flower hops. Love Summer, now.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.43,
+                        "rating_count": 63557
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1326,
+                        "expofinder_name": "Victory Brewing Company",
+                        "expofinder_slug": "victory-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-1326_aa6a2.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "Victoryelement",
+                            "facebook": "https://www.facebook.com/victoryelement",
+                            "instagram": "victoryelement",
+                            "url": "http://victoryelement.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Downingtown",
+                            "expofinder_state": "PA",
+                            "lat": 40.0061,
+                            "lng": -75.6942
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 179178024,
+                    "recent_checkin_id": 179178024,
+                    "rating_score": 3.5,
+                    "first_had": "Sun, 03 May 2015 18:32:50 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 75531,
+                        "element_name": "Weisse Versa Wheat",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-WeisseVersaWheat_75531.jpeg",
+                        "element_abv": 5.2,
+                        "element_ibu": 20,
+                        "element_slug": "karbach-brewing-co-weisse-versa-wheat",
+                        "element_style": "Witbier",
+                        "element_description": "Sometimes, the obvious is ingenious.  It might also settle the argument...the fantastic flavors found in a Bavarian hefeweizen?  Or, the intriguing spices that a Belgian white embodies?  Which is better?  Turns out, both.  At the same time.\n",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.592,
+                        "rating_count": 9696
+                    },
+                    "expofinder": {
+                        "expofinder_id": 14665,
+                        "expofinder_name": "Karbach Brewing Co",
+                        "expofinder_slug": "karbach-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-KarbachBrewingCo_14665.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "karbachbrewing",
+                            "facebook": "http://www.facebook.com/karbachbrewing",
+                            "instagram": "",
+                            "url": "http://www.karbachbrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Houston",
+                            "expofinder_state": "TX",
+                            "lat": 29.8058,
+                            "lng": -95.4606
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 177877019,
+                    "recent_checkin_id": 177877019,
+                    "rating_score": 3,
+                    "first_had": "Thu, 30 Apr 2015 20:56:48 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 3776,
+                        "element_name": "#9",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-magicHat9.jpg",
+                        "element_abv": 5.1,
+                        "element_ibu": 20,
+                        "element_slug": "magic-hat-brewing-company-9",
+                        "element_style": "American Pale Ale",
+                        "element_description": "\"A element Cloaked in Secrecy\"\n\nAn ale whose mysterious and unusual palate will swirl across your tongue and ask more than it answers. A sort of dry, crisp, refreshing, not-quite pale ale. #9 is really impossible to describe because there's never been anything else quite like it.\n\nOur secret ingredient introduces a most unusual aroma profile which is balanced with a residual sweetness. Our gateway element, # 9 is very accessible, appealing to a broad range of pallets.\n\nMalts:\nPale & Crystal\n\nHops:\nApollo & Cascade",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.544,
+                        "rating_count": 134439
+                    },
+                    "expofinder": {
+                        "expofinder_id": 812,
+                        "expofinder_name": "Magic Hat Brewing Company",
+                        "expofinder_slug": "magic-hat-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-magicHat.jpg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "magichat",
+                            "facebook": "http://facebook.com/magichatbrewing",
+                            "instagram": "magichatbrewing",
+                            "url": "http://www.magichat.net/"
+                        },
+                        "location": {
+                            "expofinder_city": "South Burlington",
+                            "expofinder_state": "VT",
+                            "lat": 44.4284,
+                            "lng": -73.2132
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 177350575,
+                    "recent_checkin_id": 177350575,
+                    "rating_score": 4,
+                    "first_had": "Tue, 28 Apr 2015 19:23:53 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 568188,
+                        "element_name": "Hop Hunter IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-568188_36653_sm.jpeg",
+                        "element_abv": 6.2,
+                        "element_ibu": 60,
+                        "element_slug": "sierra-nevada-brewing-co-hop-hunter-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "Hop Hunter IPA harnesses the complex flavors of just-picked hops through an all-new method of steam distilling wet hops before they even leave the fields. This revolutionary technique captures and intensifies the natural flavors, creating a unique and intensely aromatic element. Our custom process gathers pure hop oil which, when combined with traditional whole-cone hops in the brew kettle and in our Hop Torpedo, makes for an incredible IPA experience.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.778,
+                        "rating_count": 87004
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1142,
+                        "expofinder_name": "Sierra Nevada Brewing Co.",
+                        "expofinder_slug": "sierra-nevada-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-1142_f241d.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "SierraNevada",
+                            "facebook": "http://www.facebook.com/sierranevadaelement",
+                            "instagram": "sierranevada",
+                            "url": "http://www.sierranevada.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Chico",
+                            "expofinder_state": "CA",
+                            "lat": 39.7242,
+                            "lng": -121.815
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 177085694,
+                    "recent_checkin_id": 177085694,
+                    "rating_score": 3.5,
+                    "first_had": "Mon, 27 Apr 2015 13:58:34 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 479634,
+                        "element_name": "Porter Culture",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-479634_07408_sm.jpeg",
+                        "element_abv": 6.56,
+                        "element_ibu": 0,
+                        "element_slug": "hops-grain-porter-culture",
+                        "element_style": "Baltic Porter",
+                        "element_description": "",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.777,
+                        "rating_count": 2517
+                    },
+                    "expofinder": {
+                        "expofinder_id": 17860,
+                        "expofinder_name": "Hops & Grain",
+                        "expofinder_slug": "hops-grain",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-HopsGrain_17860.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "hopsandgrain",
+                            "facebook": "http://www.facebook.com/pages/Hops-and-Grain/190074009287",
+                            "instagram": "hopsandgrain",
+                            "url": "http://www.hopsandgrain.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Austin",
+                            "expofinder_state": "TX",
+                            "lat": 30.2583,
+                            "lng": -97.7126
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 177081277,
+                    "recent_checkin_id": 177081277,
+                    "rating_score": 3.5,
+                    "first_had": "Mon, 27 Apr 2015 13:26:04 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 1353,
+                        "element_name": "Goose IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-1353_c463c_sm.jpeg",
+                        "element_abv": 5.9,
+                        "element_ibu": 55,
+                        "element_slug": "goose-island-element-co-goose-ipa",
+                        "element_style": "English IPA",
+                        "element_description": "Our India Pale Ale recalls a time when ales shipped from England to India were highly hopped to preserve their distinct taste during the long journey. The result is a hop lover’s dream with a fruity aroma, set off by a dry malt middle, and long hop finish.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.502,
+                        "rating_count": 162952
+                    },
+                    "expofinder": {
+                        "expofinder_id": 2898,
+                        "expofinder_name": "Goose Island element Co.",
+                        "expofinder_slug": "goose-island-element-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-2898_79a14.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "GooseIsland",
+                            "facebook": "http://www.facebook.com/gooseislandelement",
+                            "instagram": "gooseislandelement",
+                            "url": "http://www.gooseisland.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Chicago",
+                            "expofinder_state": "IL",
+                            "lat": 41.8871,
+                            "lng": -87.6721
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 176927870,
+                    "recent_checkin_id": 176927870,
+                    "rating_score": 2.5,
+                    "first_had": "Sun, 26 Apr 2015 18:16:17 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 10887,
+                        "element_name": "Dos Equis Special Lager",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-CerveceriaDosEquisSL.jpg",
+                        "element_abv": 4.45,
+                        "element_ibu": 0,
+                        "element_slug": "cerveceria-cuauhtemoc-moctezuma-s-a-de-c-v-dos-equis-special-lager",
+                        "element_style": "North American Adjunct Lager",
+                        "element_description": "Pale malt, sweet bread, and toasted cereal. A slightly dry finish that doesn't last long.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.042,
+                        "rating_count": 117568
+                    },
+                    "expofinder": {
+                        "expofinder_id": 360,
+                        "expofinder_name": "Cervecería Cuauhtémoc Moctezuma S.A. de C.V.",
+                        "expofinder_slug": "cerveceria-cuauhtemoc-moctezuma-sa-de-cv",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-360_7cfc5.jpeg",
+                        "country_name": "Mexico",
+                        "contact": {
+                            "twitter": "cuamocmx",
+                            "facebook": "https://www.facebook.com/cuamocmx",
+                            "instagram": "",
+                            "url": "http://www.cuamoc.com/es"
+                        },
+                        "location": {
+                            "expofinder_city": "Monterrey",
+                            "expofinder_state": "Nuevo León",
+                            "lat": 25.6949,
+                            "lng": -100.317
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 176432052,
+                    "recent_checkin_id": 176432052,
+                    "rating_score": 3.5,
+                    "first_had": "Sat, 25 Apr 2015 17:53:00 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 26414,
+                        "element_name": "Headwaters Pale Ale",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-26414_e78f5_sm.jpeg",
+                        "element_abv": 5.1,
+                        "element_ibu": 30,
+                        "element_slug": "victory-brewing-company-headwaters-pale-ale",
+                        "element_style": "American Pale Ale",
+                        "element_description": "15th Anniversary element\n\nThis firmly crisp and aromatically arousing pale ale integrates a softly supportive malt base with underlies streams of herbal hop complexity.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.562,
+                        "rating_count": 44004
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1326,
+                        "expofinder_name": "Victory Brewing Company",
+                        "expofinder_slug": "victory-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-1326_aa6a2.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "Victoryelement",
+                            "facebook": "https://www.facebook.com/victoryelement",
+                            "instagram": "victoryelement",
+                            "url": "http://victoryelement.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Downingtown",
+                            "expofinder_state": "PA",
+                            "lat": 40.0061,
+                            "lng": -75.6942
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 176383053,
+                    "recent_checkin_id": 176383053,
+                    "rating_score": 4,
+                    "first_had": "Sat, 25 Apr 2015 16:54:51 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 33708,
+                        "element_name": "Blur Texas Hefe",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-33708_beb45_sm.jpeg",
+                        "element_abv": 4.6,
+                        "element_ibu": 12,
+                        "element_slug": "circle-brewing-co-blur-texas-hefe",
+                        "element_style": "Hefeweizen",
+                        "element_description": "Blur is a unique blend of traditional Bavarian styling with a little Texan ingenuity. This Texas twist on the German wheat element brings a hint of caramel to a crisp and refreshing style. The citrus aroma plays off the light and creamy body to create a element that has no rival whether you enjoy it in the sun or in the shade.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.607,
+                        "rating_count": 3054
+                    },
+                    "expofinder": {
+                        "expofinder_id": 7620,
+                        "expofinder_name": "Circle Brewing Co.",
+                        "expofinder_slug": "circle-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-7620_a445a.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "circlebrew",
+                            "facebook": "http://www.facebook.com/circlebrewing",
+                            "instagram": "",
+                            "url": "http://www.circlebrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Austin",
+                            "expofinder_state": "TX",
+                            "lat": 30.3911,
+                            "lng": -97.7159
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 175809482,
+                    "recent_checkin_id": 184403901,
+                    "rating_score": 4,
+                    "first_had": "Fri, 24 Apr 2015 17:31:52 -0500",
+                    "count": 3,
+                    "element": {
+                        "bid": 193821,
+                        "element_name": "Four Squared",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-193821_9daed_sm.jpeg",
+                        "element_abv": 5.6,
+                        "element_ibu": 42,
+                        "element_slug": "real-ale-brewing-company-four-squared",
+                        "element_style": "American Pale Ale",
+                        "element_description": "To celebrate the expofinder’s 16th 42 anniversary, we created this pale ale — a nod to our top-selling element, Firemans #4. We start with components of our Firemans recipe, increase the gravity, augment with pale crystal malt and additional hop varieties, and finish with a significant dry-hop. The result is an ale with a clean, dry finish and a substantial tropical hop flavor and aroma. If you think this ale is awesome, just wait until our 64th 43 anniversary.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.668,
+                        "rating_count": 7635
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1044,
+                        "expofinder_name": "Real Ale Brewing Company",
+                        "expofinder_slug": "real-ale-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-1044_fcb79.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "RealAleBrewing",
+                            "facebook": "https://www.facebook.com/pages/Real-Ale-Brewing-Company/85360426538",
+                            "instagram": "RealAleBrewing",
+                            "url": "http://www.realalebrewing.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Blanco",
+                            "expofinder_state": "TX",
+                            "lat": 30.1133,
+                            "lng": -98.4128
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 174736797,
+                    "recent_checkin_id": 174736797,
+                    "rating_score": 3.5,
+                    "first_had": "Sun, 19 Apr 2015 22:23:29 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 165577,
+                        "element_name": "The One They Call Zoe",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_165577_sm_914a7139a390d9669c9001053f3217.jpeg",
+                        "element_abv": 5.2,
+                        "element_ibu": 18,
+                        "element_slug": "hops-grain-the-one-they-call-zoe",
+                        "element_style": "Pale Lager",
+                        "element_description": "The One They Call Zoe is an interesting breed of element. Brewed in a mildly traditional manner, it’s very similar to many of the German lagers of the old world but dry-hopped to add an extra layer of complexity. Zoe is based on pale and Vienna malts, light to golden in color with a beautiful white layer of foam resting on top, constantly delivering floral and citrus dry-hop aromatics with every sip. This element is meant to be paired with, well, life! It’s also meant to be paired with a few more. With notes of lightly toasted bread, floral hops and an incredibly smooth finish we hope that Zoe is everything that you've been searching for in a pale lager.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.7,
+                        "rating_count": 5885
+                    },
+                    "expofinder": {
+                        "expofinder_id": 17860,
+                        "expofinder_name": "Hops & Grain",
+                        "expofinder_slug": "hops-grain",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-HopsGrain_17860.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "hopsandgrain",
+                            "facebook": "http://www.facebook.com/pages/Hops-and-Grain/190074009287",
+                            "instagram": "hopsandgrain",
+                            "url": "http://www.hopsandgrain.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Austin",
+                            "expofinder_state": "TX",
+                            "lat": 30.2583,
+                            "lng": -97.7126
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 174736740,
+                    "recent_checkin_id": 174736740,
+                    "rating_score": 4,
+                    "first_had": "Sun, 19 Apr 2015 22:23:18 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 5737,
+                        "element_name": "(512) IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_5737_54419584ff7aae45eafe7c6e1d66.jpeg",
+                        "element_abv": 7,
+                        "element_ibu": 65,
+                        "element_slug": "512-brewing-company-512-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "(512) India Pale Ale is a big, aggressively dry-hopped American IPA with smooth bitterness (~65 IBU) balanced by medium maltiness. Organic 2-row malted barley, loads of hops, and great Austin water create an ale with apricot and vanilla aromatics that lure you in for more.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.761,
+                        "rating_count": 12869
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1,
+                        "expofinder_name": "(512) Brewing Company",
+                        "expofinder_slug": "512-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-512BrewingCompany_1.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "512brewing",
+                            "facebook": "https://www.facebook.com/512brewing",
+                            "instagram": "512brewing",
+                            "url": "512brewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Austin",
+                            "expofinder_state": "TX",
+                            "lat": 30.2236,
+                            "lng": -97.7697
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 173338637,
+                    "recent_checkin_id": 176890735,
+                    "rating_score": 4,
+                    "first_had": "Thu, 16 Apr 2015 19:52:04 -0500",
+                    "count": 4,
+                    "element": {
+                        "bid": 111659,
+                        "element_name": "Greenhouse IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_111659_sm_efc17e072e9d2341ca923a3e483ac7.jpeg",
+                        "element_abv": 7.6,
+                        "element_ibu": 55,
+                        "element_slug": "hops-grain-greenhouse-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "This IPA is unlike any other. Every month we will release this brew to the marketplace with a very noticeable change in aroma and flavor. “Each release will showcase different hop varieties while maintaining the exact same grain bill, water profile, yeast strain and kettle hop additions. The only change we make for each release is with dry-hopping that is done after fermentation causing each release to be dynamically different in flavor and aroma,” says owner Josh Hare of the new brew. One release per month, 300 cases per release, 12 releases per year—with each smelling and tasting different from the last. This is a tribute to the versatility of one of Hops & Grain’s favorite plants. And fans must act quickly to snag each release, as the most each account will receive is ten cases. \nTo learn more about the specific hop varieties used and the intention for their use, visit: www.hopsandgrain/green-house-ipa/.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.828,
+                        "rating_count": 3978
+                    },
+                    "expofinder": {
+                        "expofinder_id": 17860,
+                        "expofinder_name": "Hops & Grain",
+                        "expofinder_slug": "hops-grain",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-HopsGrain_17860.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "hopsandgrain",
+                            "facebook": "http://www.facebook.com/pages/Hops-and-Grain/190074009287",
+                            "instagram": "hopsandgrain",
+                            "url": "http://www.hopsandgrain.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Austin",
+                            "expofinder_state": "TX",
+                            "lat": 30.2583,
+                            "lng": -97.7126
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 172623628,
+                    "recent_checkin_id": 172623628,
+                    "rating_score": 4,
+                    "first_had": "Mon, 13 Apr 2015 16:00:23 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 8477,
+                        "element_name": "Oatmeal Stout",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-8477_38776_sm.jpeg",
+                        "element_abv": 5.1,
+                        "element_ibu": 36,
+                        "element_slug": "summit-brewing-company-oatmeal-stout",
+                        "element_style": "Oatmeal Stout",
+                        "element_description": "While its cascading rich black color will be familiar to Stout enthusiasts, ours is decidedly different. It's made with naked oats from the UK, for one. Smooth and slightly sweet, with hints of coffee, caramel and chocolate. Sold only on draught in select places.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.727,
+                        "rating_count": 10060
+                    },
+                    "expofinder": {
+                        "expofinder_id": 2396,
+                        "expofinder_name": "Summit Brewing Company",
+                        "expofinder_slug": "summit-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-summitbrewingcompany_2396.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "summitelement",
+                            "facebook": "http://www.facebook.com/summitbrewingcompany",
+                            "instagram": "summitelement",
+                            "url": "http://www.summitbrewing.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "St. Paul",
+                            "expofinder_state": "MN",
+                            "lat": 44.9139,
+                            "lng": -93.1396
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 172620618,
+                    "recent_checkin_id": 172620618,
+                    "rating_score": 3.5,
+                    "first_had": "Mon, 13 Apr 2015 15:42:15 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 3140,
+                        "element_name": "Extra Pale Ale (EPA)",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_3140_sm_a927abb9d6174146e4dff7d35d6be4.jpeg",
+                        "element_abv": 5.2,
+                        "element_ibu": 45,
+                        "element_slug": "summit-brewing-company-extra-pale-ale-epa",
+                        "element_style": "English Pale Ale",
+                        "element_description": "A pioneer in craft element (hey, that rhymes), Summit EPA has been gracing the pint glasses of serious brew lovers since 1986. Bronze color. Gold medal-winning flavor. With caramel, biscuity malts superbly balanced with an earthy hop bite and juicy citrus.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.522,
+                        "rating_count": 24559
+                    },
+                    "expofinder": {
+                        "expofinder_id": 2396,
+                        "expofinder_name": "Summit Brewing Company",
+                        "expofinder_slug": "summit-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-summitbrewingcompany_2396.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "summitelement",
+                            "facebook": "http://www.facebook.com/summitbrewingcompany",
+                            "instagram": "summitelement",
+                            "url": "http://www.summitbrewing.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "St. Paul",
+                            "expofinder_state": "MN",
+                            "lat": 44.9139,
+                            "lng": -93.1396
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 172617549,
+                    "recent_checkin_id": 172617549,
+                    "rating_score": 3,
+                    "first_had": "Mon, 13 Apr 2015 15:21:56 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 6276,
+                        "element_name": "Grain Belt Nordeast",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-GrainBeltNordeast_6276.jpeg",
+                        "element_abv": 4.7,
+                        "element_ibu": 0,
+                        "element_slug": "august-schell-brewing-company-grain-belt-nordeast",
+                        "element_style": "Vienna Lager",
+                        "element_description": "Named after the hardworking neighborhood where the original Grain Belt expofinder established its roots back in 1893. ‘Nordeast’ is an endearing term which comes from the Northern and Eastern European immigrants and their language which helped shape Northeast Minneapolis. This amber American Lager is our way of honoring the storied past of Grain Belt and the people who helped to make it legendary! Cheers!\n\nGrain Belt Nordeast is an American Amber lager and is the newest member to the Grain Belt Family. It has a light maltiness and hop aroma with a mild bitterness. Smooth taste with an excellent drinkability.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.356,
+                        "rating_count": 11297
+                    },
+                    "expofinder": {
+                        "expofinder_id": 4905,
+                        "expofinder_name": "August Schell Brewing Company",
+                        "expofinder_slug": "august-schell-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-4905_3cfb7.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "schellsexpofinder",
+                            "facebook": "http://www.facebook.com/pages/August-Schell-Brewing-Company/47056987065",
+                            "instagram": "schellselement",
+                            "url": "http://www.schellsexpofinder.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "New Ulm",
+                            "expofinder_state": "MN",
+                            "lat": 44.2896,
+                            "lng": -94.449
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 172611267,
+                    "recent_checkin_id": 172611267,
+                    "rating_score": 4.5,
+                    "first_had": "Mon, 13 Apr 2015 14:39:47 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 7808,
+                        "element_name": "Furious",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_7808_sm_2fc6d05467299ca91110b10c9a9c27.jpeg",
+                        "element_abv": 6.5,
+                        "element_ibu": 100,
+                        "element_slug": "surly-brewing-company-furious",
+                        "element_style": "American IPA",
+                        "element_description": "Like Hops? You’ll like this fire-hued element. This is the element I have always dreamed of making. This is the element that would come to mind while spending the last two years tearing down walls, hanging sheetrock, moving kegs, power washing the ceilings, arguing with various agencies, and cutting the water main. Without Golden Promise malt, made by family-owned Simpsons Malt, Furious would just be pissed offed. From Scotland, this malt is still produced in the tradition of turning over the barley by hand, resulting in a malt that is unsurpassed in its quality. Golden Promise is also used extensively by premium whisky distilleries such as The Macallan. This malt provides the backbone for the intense hop character. Four American hop varieties are used at a rate of over three pounds per barrel. The result is a rich malt sweetness infused with bright hop flavor and aroma from beginning to end. Oh yeah, it’s about 6% alcohol and around 100 IBUs. ",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 4.012,
+                        "rating_count": 44470
+                    },
+                    "expofinder": {
+                        "expofinder_id": 2609,
+                        "expofinder_name": "Surly Brewing Company",
+                        "expofinder_slug": "surly-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-Surly.jpg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "surlybrewing",
+                            "facebook": "http://www.facebook.com/surlybrewing",
+                            "instagram": "Surlybrewing",
+                            "url": "www.surlybrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Minneapolis",
+                            "expofinder_state": "MN",
+                            "lat": 44.9733,
+                            "lng": -93.2086
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 169216603,
+                    "recent_checkin_id": 169216603,
+                    "rating_score": 4.5,
+                    "first_had": "Fri, 03 Apr 2015 18:53:56 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 1000491,
+                        "element_name": "Stone Enjoy By 04.20.15 IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-1000491_836ac_sm.jpeg",
+                        "element_abv": 9.4,
+                        "element_ibu": 88,
+                        "element_slug": "stone-brewing-co-stone-enjoy-by-04-20-15-ipa",
+                        "element_style": "Imperial / Double IPA",
+                        "element_description": "Alabama\nArizona\nCalifornia\nConnecticut\nDelaware\nFlorida\nIowa\nIdaho\nIndiana\nKansas\nKentucky\nMassachusetts\nMaryland\nMissouri\nNorth Carolina\nNebraska\nNew Hampshire\nNew York\nOhio\nOregon\nPennsylvania\nRhode Island\nSouth Carolina\nVermont\nWashington\nAlberta\nBritish Columbia\nPuerto Rico\n",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 4.172,
+                        "rating_count": 44627
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1204,
+                        "expofinder_name": "Stone Brewing Co.",
+                        "expofinder_slug": "stone-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-stone.jpg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "StoneBrewingCo",
+                            "facebook": "http://www.facebook.com/StoneBrewingCo",
+                            "instagram": "StoneBrewingCo",
+                            "url": "http://www.stonebrew.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Escondido",
+                            "expofinder_state": "CA",
+                            "lat": 33.1157,
+                            "lng": -117.12
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 168015035,
+                    "recent_checkin_id": 168015035,
+                    "rating_score": 3.5,
+                    "first_had": "Sun, 29 Mar 2015 21:07:48 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 475462,
+                        "element_name": "Shiner White Wing",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_475462_sm_1b6b40363714ba702501904c33b746.jpeg",
+                        "element_abv": 4.7,
+                        "element_ibu": 0,
+                        "element_slug": "spoetzl-expofinder-shiner-white-wing",
+                        "element_style": "Witbier",
+                        "element_description": "",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.435,
+                        "rating_count": 29312
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1179,
+                        "expofinder_name": "Spoetzl expofinder",
+                        "expofinder_slug": "spoetzl-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-Spoetzlexpofinder_1179.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "Shinerelement",
+                            "facebook": "http://www.facebook.com/Shinerelement",
+                            "instagram": "",
+                            "url": "http://shiner.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Shiner",
+                            "expofinder_state": "TX",
+                            "lat": 29.4291,
+                            "lng": -97.1705
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 167606511,
+                    "recent_checkin_id": 167606511,
+                    "rating_score": 3.5,
+                    "first_had": "Sat, 28 Mar 2015 20:38:11 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 800417,
+                        "element_name": "Hop Czar Cascadian Dark IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-800417_223f2_sm.jpeg",
+                        "element_abv": 7.5,
+                        "element_ibu": 85,
+                        "element_slug": "bridgeport-brewing-co-hop-czar-cascadian-dark-ipa",
+                        "element_style": "Black IPA / Cascadian Dark Ale",
+                        "element_description": "",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.535,
+                        "rating_count": 1640
+                    },
+                    "expofinder": {
+                        "expofinder_id": 3787,
+                        "expofinder_name": "BridgePort Brewing Co.",
+                        "expofinder_slug": "bridgeport-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-BridgePortBrewingCo_3787.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "bridgeportbrew",
+                            "facebook": "http://www.facebook.com/BridgePortBrewingCompany",
+                            "instagram": "",
+                            "url": "http://www.bridgeportbrew.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Portland",
+                            "expofinder_state": "OR",
+                            "lat": 45.5315,
+                            "lng": -122.682
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 167548587,
+                    "recent_checkin_id": 167548587,
+                    "rating_score": 3,
+                    "first_had": "Sat, 28 Mar 2015 19:28:30 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 576306,
+                        "element_name": "Roundhead Red",
+                        "element_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-element-default.png",
+                        "element_abv": 5.3,
+                        "element_ibu": 22,
+                        "element_slug": "solid-rock-brewing-roundhead-red",
+                        "element_style": "Irish Red Ale",
+                        "element_description": "Roundhead Red is Solid Rock’s version of the classic Irish-style ale. Copper-colored with rich caramel notes, this easy-drinking brew delivers a nice pale malt sweetness up front while stout grains add color and a characteristically roasted, dry finish. Top that with just the right amount of Northdown hops and you have a nicely balanced brew.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.427,
+                        "rating_count": 890
+                    },
+                    "expofinder": {
+                        "expofinder_id": 113514,
+                        "expofinder_name": "Solid Rock Brewing",
+                        "expofinder_slug": "solid-rock-brewing",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-113514_58755.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "",
+                            "facebook": "",
+                            "instagram": "",
+                            "url": "solidrockbrewing.com/index.php"
+                        },
+                        "location": {
+                            "expofinder_city": "Spicewood",
+                            "expofinder_state": "TX",
+                            "lat": 30.3792,
+                            "lng": -98.0433
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 167438522,
+                    "recent_checkin_id": 167489471,
+                    "rating_score": 5,
+                    "first_had": "Sat, 28 Mar 2015 17:19:25 -0500",
+                    "count": 2,
+                    "element": {
+                        "bid": 8056,
+                        "element_name": "90 Minute IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-dfh90MinIPA.jpg",
+                        "element_abv": 9,
+                        "element_ibu": 90,
+                        "element_slug": "dogfish-head-craft-expofinder-90-minute-ipa",
+                        "element_style": "Imperial / Double IPA",
+                        "element_description": "Esquire Magazine calls our 90 Minute IPA \"perhaps the best IPA in America.\" An imperial IPA best savored from a snifter, 90 Minute has a great malt backbone that stands up to the extreme hopping rate.\n90 Minute IPA was the first element we continuously hopped, allowing for a pungent, but not crushing, hop flavor.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 4.114,
+                        "rating_count": 164492
+                    },
+                    "expofinder": {
+                        "expofinder_id": 459,
+                        "expofinder_name": "Dogfish Head Craft expofinder",
+                        "expofinder_slug": "dogfish-head-craft-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-459_b3e4d.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "dogfishelement",
+                            "facebook": "http://www.facebook.com/dogfishheadelement",
+                            "instagram": "dogfishelement",
+                            "url": "http://www.dogfish.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Milton",
+                            "expofinder_state": "DE",
+                            "lat": 38.7776,
+                            "lng": -75.3099
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 167019688,
+                    "recent_checkin_id": 167019688,
+                    "rating_score": 4,
+                    "first_had": "Fri, 27 Mar 2015 19:57:08 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 37182,
+                        "element_name": "Independence Pale",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-37182_04791_sm.jpeg",
+                        "element_abv": 5.6,
+                        "element_ibu": 65,
+                        "element_slug": "independence-brewing-co-independence-pale",
+                        "element_style": "American Pale Ale",
+                        "element_description": "Bright, bold, and hoppy…Independence Pale is a true Texas Pale Ale. Bright golden in color, it’s brewed with the finest pale malts and Pacific Northwest hops. Then it’s dry-hopped with generous amounts of Cascade hops, along with a touch of Summit and Delta hops for a distinctive citrus aroma and dry finish with just the right lingering grapefruity hop flavor.\n\nInspired by the unlikely heroes of Texas who had the courage, tenacity and self-reliance to go into the wild in search of something better. Independence Pale Ale is a tribute to unlikely heroes – ordinary men and women who were willing to take a stand. It’s for the battle cry of Gonzales, “Come and take it!” It’s for Angelina Eberly, the inn keeper who saved Austin with a single cannon shot.\n\nRaise your glass to Independence – a element as free as Texas!",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.426,
+                        "rating_count": 1386
+                    },
+                    "expofinder": {
+                        "expofinder_id": 2252,
+                        "expofinder_name": "Independence Brewing Co.",
+                        "expofinder_slug": "independence-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-2252_bb773.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "indybrewing",
+                            "facebook": "http://www.facebook.com/independencebrewing",
+                            "instagram": "indybrewing",
+                            "url": "http://www.independencebrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Austin",
+                            "expofinder_state": "TX",
+                            "lat": 30.2131,
+                            "lng": -97.7358
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 166958640,
+                    "recent_checkin_id": 166958640,
+                    "rating_score": 3.5,
+                    "first_had": "Fri, 27 Mar 2015 18:38:28 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 9613,
+                        "element_name": "Bootlegger Brown Ale",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-9613_b5d45_sm.jpeg",
+                        "element_abv": 5.5,
+                        "element_ibu": 0,
+                        "element_slug": "independence-brewing-co-bootlegger-brown-ale",
+                        "element_style": "American Brown Ale",
+                        "element_description": "Smooth, chocolatey, and easy-drinking... Brewed with the finest two-row barley and Belgian chocolate malt, Bootlegger has a distinctive, chocolatey flavor. Bootlegger is medium-bodied and filtered for a clean, laid-back finish.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.521,
+                        "rating_count": 3069
+                    },
+                    "expofinder": {
+                        "expofinder_id": 2252,
+                        "expofinder_name": "Independence Brewing Co.",
+                        "expofinder_slug": "independence-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-2252_bb773.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "indybrewing",
+                            "facebook": "http://www.facebook.com/independencebrewing",
+                            "instagram": "indybrewing",
+                            "url": "http://www.independencebrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Austin",
+                            "expofinder_state": "TX",
+                            "lat": 30.2131,
+                            "lng": -97.7358
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 166639488,
+                    "recent_checkin_id": 166639488,
+                    "rating_score": 4,
+                    "first_had": "Thu, 26 Mar 2015 19:06:35 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 12553,
+                        "element_name": "Convict Hill",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-12553_d5cf5_sm.jpeg",
+                        "element_abv": 8.5,
+                        "element_ibu": 55,
+                        "element_slug": "independence-brewing-co-convict-hill",
+                        "element_style": "Oatmeal Stout",
+                        "element_description": "Flaked oats add a rich, creamy body to balance the sharp roasted barley of this imperial stout.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.802,
+                        "rating_count": 6489
+                    },
+                    "expofinder": {
+                        "expofinder_id": 2252,
+                        "expofinder_name": "Independence Brewing Co.",
+                        "expofinder_slug": "independence-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-2252_bb773.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "indybrewing",
+                            "facebook": "http://www.facebook.com/independencebrewing",
+                            "instagram": "indybrewing",
+                            "url": "http://www.independencebrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Austin",
+                            "expofinder_state": "TX",
+                            "lat": 30.2131,
+                            "lng": -97.7358
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 166026089,
+                    "recent_checkin_id": 166026089,
+                    "rating_score": 4,
+                    "first_had": "Mon, 23 Mar 2015 19:21:21 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 912763,
+                        "element_name": "element Camp Hoppy Lager (2015)",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-912763_3c966_sm.jpeg",
+                        "element_abv": 7,
+                        "element_ibu": 55,
+                        "element_slug": "sierra-nevada-brewing-co-element-camp-hoppy-lager-2015",
+                        "element_style": "IPL (India Pale Lager)",
+                        "element_description": "Last summer we teamed up with San Diego’s Ballast Point for a hop-head twist on a crisp lager. We remixed this encore which is loaded with whole-cone hops in the brew kettle in our Hop Torpedo to deliver a bold aroma back by smooth malt flavor.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.645,
+                        "rating_count": 73998
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1142,
+                        "expofinder_name": "Sierra Nevada Brewing Co.",
+                        "expofinder_slug": "sierra-nevada-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-1142_f241d.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "SierraNevada",
+                            "facebook": "http://www.facebook.com/sierranevadaelement",
+                            "instagram": "sierranevada",
+                            "url": "http://www.sierranevada.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Chico",
+                            "expofinder_state": "CA",
+                            "lat": 39.7242,
+                            "lng": -121.815
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 165844966,
+                    "recent_checkin_id": 165844966,
+                    "rating_score": 4,
+                    "first_had": "Sun, 22 Mar 2015 19:17:09 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 814227,
+                        "element_name": "Singletrack Rye Pale Ale",
+                        "element_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-element-default.png",
+                        "element_abv": 4.9,
+                        "element_ibu": 0,
+                        "element_slug": "boulder-element-company-singletrack-rye-pale-ale",
+                        "element_style": "English Pale Ale",
+                        "element_description": "Medium-bodied English pale ale brewed with rya and Carmel malt",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.321,
+                        "rating_count": 769
+                    },
+                    "expofinder": {
+                        "expofinder_id": 160,
+                        "expofinder_name": "Boulder element Company",
+                        "expofinder_slug": "boulder-element-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-BoulderelementCompany_160.jpg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "BoulderelementCo",
+                            "facebook": "http://www.facebook.com/pages/Boulder-element-Company/103112543061715",
+                            "instagram": "",
+                            "url": "http://www.boulderelement.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Boulder",
+                            "expofinder_state": "CO",
+                            "lat": 40.0267,
+                            "lng": -105.248
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 164869929,
+                    "recent_checkin_id": 164869929,
+                    "rating_score": 3.5,
+                    "first_had": "Fri, 20 Mar 2015 19:33:53 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 4488,
+                        "element_name": "Shiner Bock",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-4488_3b1ec_sm.jpeg",
+                        "element_abv": 4.4,
+                        "element_ibu": 13,
+                        "element_slug": "spoetzl-expofinder-shiner-bock",
+                        "element_style": "Bock",
+                        "element_description": "Bock reflects the tradition of genuine Bavarian elements as a brew only a craftsman like Kosmos Spoetzl, trained in the \"Old Country,\" could bring to life. With its deep amber color, distinctive rich flavor and full body, Shiner Bock demonstrates the care of a handcrafted brewing process to bring forth a mellow taste free of the bitter aftertaste found in many micro, specialty and imported elements. Just think of it as Shiner smooth. ",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.425,
+                        "rating_count": 96983
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1179,
+                        "expofinder_name": "Spoetzl expofinder",
+                        "expofinder_slug": "spoetzl-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-Spoetzlexpofinder_1179.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "Shinerelement",
+                            "facebook": "http://www.facebook.com/Shinerelement",
+                            "instagram": "",
+                            "url": "http://shiner.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Shiner",
+                            "expofinder_state": "TX",
+                            "lat": 29.4291,
+                            "lng": -97.1705
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 161456871,
+                    "recent_checkin_id": 161456871,
+                    "rating_score": 4,
+                    "first_had": "Sun, 08 Mar 2015 18:22:15 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 73130,
+                        "element_name": "Hopadillo IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-HopadilloIPA_73130.jpeg",
+                        "element_abv": 6.6,
+                        "element_ibu": 65,
+                        "element_slug": "karbach-brewing-co-hopadillo-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "He lurks in the shadows, waiting in bold anticipation.  He's surprisingly bitter.  Bitter about something.  Legend has it that he feasts on those with fresh hops coursing through their veins.  This dry-hopped, Texas IPA has a flavor as defiant as the Hopadillo himself.  It's packed with the bracing bitterness of hops from around the world that this creature craves.  He's comin' to get ya.  You've been warned...\n",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.692,
+                        "rating_count": 18053
+                    },
+                    "expofinder": {
+                        "expofinder_id": 14665,
+                        "expofinder_name": "Karbach Brewing Co",
+                        "expofinder_slug": "karbach-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-KarbachBrewingCo_14665.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "karbachbrewing",
+                            "facebook": "http://www.facebook.com/karbachbrewing",
+                            "instagram": "",
+                            "url": "http://www.karbachbrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Houston",
+                            "expofinder_state": "TX",
+                            "lat": 29.8058,
+                            "lng": -95.4606
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 155497658,
+                    "recent_checkin_id": 155497658,
+                    "rating_score": 3,
+                    "first_had": "Sun, 15 Feb 2015 19:02:08 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 6344,
+                        "element_name": "Singha",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-6344_b24ef_sm.jpeg",
+                        "element_abv": 5,
+                        "element_ibu": 20,
+                        "element_slug": "boon-rawd-expofinder-singha",
+                        "element_style": "Pale Lager",
+                        "element_description": "Thai Lager element ",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 2.968,
+                        "rating_count": 41971
+                    },
+                    "expofinder": {
+                        "expofinder_id": 152,
+                        "expofinder_name": "Boon Rawd expofinder",
+                        "expofinder_slug": "boon-rawd-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-BoonRawdexpofinder_152.jpeg",
+                        "country_name": "Thailand",
+                        "contact": {
+                            "twitter": "singhaclub",
+                            "facebook": "https://www.facebook.com/firstthaiexpofinder",
+                            "instagram": "",
+                            "url": "http://www.boonrawd.co.th/"
+                        },
+                        "location": {
+                            "expofinder_city": "10300 Bangkok",
+                            "expofinder_state": "",
+                            "lat": 13.787,
+                            "lng": 100.515
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 153779169,
+                    "recent_checkin_id": 153779169,
+                    "rating_score": 3.5,
+                    "first_had": "Mon, 09 Feb 2015 21:28:42 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 6905,
+                        "element_name": "Shiner Holiday Cheer",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-ShinerHolidayCheer_6905.jpeg",
+                        "element_abv": 5.4,
+                        "element_ibu": 0,
+                        "element_slug": "spoetzl-expofinder-shiner-holiday-cheer",
+                        "element_style": "Dunkelweizen",
+                        "element_description": "Ale brewed with peaches and pecans",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.562,
+                        "rating_count": 44856
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1179,
+                        "expofinder_name": "Spoetzl expofinder",
+                        "expofinder_slug": "spoetzl-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-Spoetzlexpofinder_1179.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "Shinerelement",
+                            "facebook": "http://www.facebook.com/Shinerelement",
+                            "instagram": "",
+                            "url": "http://shiner.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Shiner",
+                            "expofinder_state": "TX",
+                            "lat": 29.4291,
+                            "lng": -97.1705
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 153680071,
+                    "recent_checkin_id": 153680071,
+                    "rating_score": 3.5,
+                    "first_had": "Mon, 09 Feb 2015 14:03:20 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 6497,
+                        "element_name": "Firemans #4",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-6497_fbed6_sm.jpeg",
+                        "element_abv": 5.1,
+                        "element_ibu": 23,
+                        "element_slug": "real-ale-brewing-company-firemans-4",
+                        "element_style": "American Blonde Ale",
+                        "element_description": "Named as a tribute to our good friends (and bad ass bike makers) at Fireman Texas Cruzer and because it was the fourth year-round element we created, Firemans #4 is our most popular and best-selling element to date. With an ever-drinkable balance of smooth malt and zesty hops, this refreshing blonde is perfect on a hot day or paired with spicy food. It’s no wonder why so many Texans love it. Take one for a spin at a watering hole near you and, if you’re looking for an awesome bike, we invite you to check out Firemans Texas Cruzer at firemansbikes.com.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.419,
+                        "rating_count": 22683
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1044,
+                        "expofinder_name": "Real Ale Brewing Company",
+                        "expofinder_slug": "real-ale-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-1044_fcb79.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "RealAleBrewing",
+                            "facebook": "https://www.facebook.com/pages/Real-Ale-Brewing-Company/85360426538",
+                            "instagram": "RealAleBrewing",
+                            "url": "http://www.realalebrewing.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Blanco",
+                            "expofinder_state": "TX",
+                            "lat": 30.1133,
+                            "lng": -98.4128
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 150915644,
+                    "recent_checkin_id": 150915644,
+                    "rating_score": 4.5,
+                    "first_had": "Sat, 31 Jan 2015 10:45:56 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 3952,
+                        "element_name": "60 Minute IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-dfh60MinIPA.jpg",
+                        "element_abv": 6,
+                        "element_ibu": 60,
+                        "element_slug": "dogfish-head-craft-expofinder-60-minute-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "Our flagship element. A session India Pale Ale brewed with Warrior, Amarillo & 'Mystery Hop X.' A powerful East Coast I.P.A. with a lot of citrusy hop character. THE session element for element geeks like us!",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.894,
+                        "rating_count": 162001
+                    },
+                    "expofinder": {
+                        "expofinder_id": 459,
+                        "expofinder_name": "Dogfish Head Craft expofinder",
+                        "expofinder_slug": "dogfish-head-craft-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-459_b3e4d.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "dogfishelement",
+                            "facebook": "http://www.facebook.com/dogfishheadelement",
+                            "instagram": "dogfishelement",
+                            "url": "http://www.dogfish.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Milton",
+                            "expofinder_state": "DE",
+                            "lat": 38.7776,
+                            "lng": -75.3099
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 150261358,
+                    "recent_checkin_id": 150261358,
+                    "rating_score": 4,
+                    "first_had": "Wed, 28 Jan 2015 20:10:31 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 62,
+                        "element_name": "Oatmeal Stout",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-OatmealStout_62.jpeg",
+                        "element_abv": 4.95,
+                        "element_ibu": 36,
+                        "element_slug": "breckenridge-expofinder-oatmeal-stout",
+                        "element_style": "Oatmeal Stout",
+                        "element_description": "Rich, round and roasted, our Oatmeal Stout is satisfaction in a glass. It's a bold, smooth-bodied concoction that oozes dark-roasted coffee aromas and flavors of espresso and semi-sweet chocolate. We round out these heady pleasures with a dose of flaked oatmeal for a creamy body and a semi-dry finish.\n\nUnforgettable.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.529,
+                        "rating_count": 24691
+                    },
+                    "expofinder": {
+                        "expofinder_id": 236,
+                        "expofinder_name": "Breckenridge expofinder",
+                        "expofinder_slug": "breckenridge-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-Breckenridgeexpofinder_236.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "BreckBrew",
+                            "facebook": "http://www.facebook.com/Breckenridgeexpofinder",
+                            "instagram": "BreckBrew",
+                            "url": "http://www.breckbrew.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Denver",
+                            "expofinder_state": "CO",
+                            "lat": 39.724,
+                            "lng": -105
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 149758790,
+                    "recent_checkin_id": 149758790,
+                    "rating_score": 4,
+                    "first_had": "Sun, 25 Jan 2015 19:58:09 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 172056,
+                        "element_name": "Blood And Honey",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-172056_21cfd_sm.jpeg",
+                        "element_abv": 7,
+                        "element_ibu": 20,
+                        "element_slug": "revolver-brewing-blood-and-honey",
+                        "element_style": "American Pale Wheat Ale",
+                        "element_description": "An unfiltered deep golden ale made with malted two row barley and wheat. The brew is finished with Blood Orange zest, local Fall Creek Farms Honey and other spices that bring special flavors to this unique element.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.817,
+                        "rating_count": 19801
+                    },
+                    "expofinder": {
+                        "expofinder_id": 30341,
+                        "expofinder_name": "Revolver Brewing",
+                        "expofinder_slug": "revolver-brewing",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-RevolverBrewing_30341.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "RevolverBrewing",
+                            "facebook": "http://www.facebook.com/RevolverBrewing",
+                            "instagram": "",
+                            "url": "http://www.revolverbrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Granbury",
+                            "expofinder_state": "TX",
+                            "lat": 32.4189,
+                            "lng": -97.6699
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 149331808,
+                    "recent_checkin_id": 180033912,
+                    "rating_score": 3.5,
+                    "first_had": "Sat, 24 Jan 2015 18:28:18 -0600",
+                    "count": 3,
+                    "element": {
+                        "bid": 956113,
+                        "element_name": "Stout Roscoe",
+                        "element_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-element-default.png",
+                        "element_abv": 0,
+                        "element_ibu": 0,
+                        "element_slug": "lyons-haus-stout-roscoe",
+                        "element_style": "Oatmeal Stout",
+                        "element_description": "",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 0,
+                        "rating_count": 1
+                    },
+                    "expofinder": {
+                        "expofinder_id": 182705,
+                        "expofinder_name": "Lyons Haus",
+                        "expofinder_slug": "lyons-haus",
+                        "expofinder_label": "https://untappd.akamaized.net/site/assets/images/temp/badge-expofinder-default.png",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "",
+                            "facebook": "",
+                            "instagram": "",
+                            "url": ""
+                        },
+                        "location": {
+                            "expofinder_city": "",
+                            "expofinder_state": "",
+                            "lat": 0,
+                            "lng": 0
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 148016146,
+                    "recent_checkin_id": 148016146,
+                    "rating_score": 3.5,
+                    "first_had": "Mon, 19 Jan 2015 13:23:13 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 6106,
+                        "element_name": "Agave Wheat",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-AgaveWheat_6106.jpeg",
+                        "element_abv": 4.2,
+                        "element_ibu": 9,
+                        "element_slug": "breckenridge-expofinder-agave-wheat",
+                        "element_style": "American Pale Wheat Ale",
+                        "element_description": "Agave complements the refreshingly light quality of our wheat and adds a subtle note of flavor that expands this element’s uplifting taste profile. It is familiar, yet creative.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.468,
+                        "rating_count": 39971
+                    },
+                    "expofinder": {
+                        "expofinder_id": 236,
+                        "expofinder_name": "Breckenridge expofinder",
+                        "expofinder_slug": "breckenridge-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-Breckenridgeexpofinder_236.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "BreckBrew",
+                            "facebook": "http://www.facebook.com/Breckenridgeexpofinder",
+                            "instagram": "BreckBrew",
+                            "url": "http://www.breckbrew.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Denver",
+                            "expofinder_state": "CO",
+                            "lat": 39.724,
+                            "lng": -105
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 144533042,
+                    "recent_checkin_id": 144533042,
+                    "rating_score": 4,
+                    "first_had": "Mon, 05 Jan 2015 21:32:41 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 423,
+                        "element_name": "Inversion IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-deschutesInversion-IPA.jpg",
+                        "element_abv": 6.8,
+                        "element_ibu": 80,
+                        "element_slug": "deschutes-expofinder-inversion-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "Enter, if you will, all the glorious aromatic complexity of the hop.  This big, bold IPA’s intense multi-hop kick gets a subtle dose of restraint from select Crystal and Caramel malts.  For discriminating hop heads.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.604,
+                        "rating_count": 53698
+                    },
+                    "expofinder": {
+                        "expofinder_id": 441,
+                        "expofinder_name": "Deschutes expofinder",
+                        "expofinder_slug": "deschutes-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-441_8b2ad.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "deschuteselement",
+                            "facebook": "http://www.facebook.com/deschutes.expofinder",
+                            "instagram": "deschuteselement",
+                            "url": "http://www.deschutesexpofinder.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Bend",
+                            "expofinder_state": "OR",
+                            "lat": 44.0468,
+                            "lng": -121.322
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 141513317,
+                    "recent_checkin_id": 193954174,
+                    "rating_score": 4,
+                    "first_had": "Sat, 27 Dec 2014 18:18:40 -0600",
+                    "count": 2,
+                    "element": {
+                        "bid": 4509,
+                        "element_name": "IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-4509_1ce65_sm.jpeg",
+                        "element_abv": 6.2,
+                        "element_ibu": 46,
+                        "element_slug": "lagunitas-brewing-company-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "This is our unique version of an ancient style. A style as old as the ocean trade routes of the last centuries Great Ships. Not as old as the equator they had to cross twice enroute",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.802,
+                        "rating_count": 217668
+                    },
+                    "expofinder": {
+                        "expofinder_id": 765,
+                        "expofinder_name": "Lagunitas Brewing Company",
+                        "expofinder_slug": "lagunitas-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-lagunitas.jpg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "lagunitaselement",
+                            "facebook": "http://www.facebook.com/#!/LagunitasBrewingCo",
+                            "instagram": "lagunitaselement",
+                            "url": "http://www.lagunitas.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Petaluma",
+                            "expofinder_state": "CA",
+                            "lat": 38.2724,
+                            "lng": -122.662
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 141128512,
+                    "recent_checkin_id": 141128512,
+                    "rating_score": 3.5,
+                    "first_had": "Fri, 26 Dec 2014 20:02:20 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 2655,
+                        "element_name": "Schild Brau Amber",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-2655_bd539_sm.jpeg",
+                        "element_abv": 4.9,
+                        "element_ibu": 16,
+                        "element_slug": "millstream-brewing-schild-brau-amber",
+                        "element_style": "Vienna Lager",
+                        "element_description": "Easy drinking German Vienna-style lager. The roasted caramelized malt is carefully balanced with mild finishing hops.\nThe repeated awards that we have received for this element only confirm why many\npeople consider this element to be synonymous with Millstream Brewing at its best. 2010 WORLD element CUP GOLD MEDAL WINNER! GABF (Vienna Lager) medals in 2003, 04, 05, 06. A 16-time award winning brew!",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.387,
+                        "rating_count": 3240
+                    },
+                    "expofinder": {
+                        "expofinder_id": 865,
+                        "expofinder_name": "Millstream Brewing",
+                        "expofinder_slug": "millstream-brewing",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-MillstreamBrewing_865.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "millstreambrew",
+                            "facebook": "http://www.facebook.com/pages/Millstream-Brewing-Co/115712781792468",
+                            "instagram": "",
+                            "url": "http://www.millstreambrewing.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Amana",
+                            "expofinder_state": "IA",
+                            "lat": 41.7972,
+                            "lng": -91.8652
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 141009582,
+                    "recent_checkin_id": 141009582,
+                    "rating_score": 3,
+                    "first_had": "Fri, 26 Dec 2014 16:57:43 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 10238,
+                        "element_name": "Snake Hollow IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-10238_fa5ed_sm.jpeg",
+                        "element_abv": 6.5,
+                        "element_ibu": 65,
+                        "element_slug": "potosi-expofinder-snake-hollow-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "Once teaming with rattlesnakes, the Potosi valley was known as Snake Hollow.  The name lives on in our Midwest IPA.  Medium bodied and generously dry-hopped, this element boasts a bold citrus hop character, notes of grapefruit, and a clean bitter finish. (Note: New Label shown here coming soon)",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.458,
+                        "rating_count": 4487
+                    },
+                    "expofinder": {
+                        "expofinder_id": 16089,
+                        "expofinder_name": "Potosi expofinder",
+                        "expofinder_slug": "potosi-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-16089_1de21.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "potosibrewingco",
+                            "facebook": "http://www.facebook.com/Potosiexpofinder",
+                            "instagram": "Potosiexpofinder",
+                            "url": "http://www.potosiexpofinder.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Potosi",
+                            "expofinder_state": "WI",
+                            "lat": 42.6717,
+                            "lng": -90.7272
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 140885522,
+                    "recent_checkin_id": 140885522,
+                    "rating_score": 4.5,
+                    "first_had": "Fri, 26 Dec 2014 11:48:46 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 833,
+                        "element_name": "Yeti",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-GDYeti.jpg",
+                        "element_abv": 9.5,
+                        "element_ibu": 75,
+                        "element_slug": "great-divide-brewing-company-yeti",
+                        "element_style": "American Imperial / Double Stout",
+                        "element_description": "Traditionally, Imperial Stouts, the biggest and boldest of all stouts, were brewed with massive amounts of roasted malts and hops, resulting in a velvety smooth but robust element characterized by high alcohol content and extremely high hop bitterness. Meeting the challenge of this aggressive, challenging element style, Great Divide's Yeti Imperial Stout is an onslaught of the senses. An almost viscous, inky-black brew, Yeti opens with a massive, roasty, chocolate, coffee malt flavor that eventually gives way to rich toffee and burnt caramel notes. Packed with an enormous quantity of American hops, Yeti's hop profile reveals a slightly citrusy, piney, and wonderfully dry hoppy finish.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.957,
+                        "rating_count": 54219
+                    },
+                    "expofinder": {
+                        "expofinder_id": 604,
+                        "expofinder_name": "Great Divide Brewing Company",
+                        "expofinder_slug": "great-divide-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-GreatDivideBrewingCompany_604.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "greatdividebrew",
+                            "facebook": "http://www.facebook.com/greatdividebrew",
+                            "instagram": "greatdividebrew",
+                            "url": "http://greatdivide.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Denver",
+                            "expofinder_state": "CO",
+                            "lat": 39.7536,
+                            "lng": -104.988
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 139732117,
+                    "recent_checkin_id": 139732117,
+                    "rating_score": 3.5,
+                    "first_had": "Mon, 22 Dec 2014 20:30:38 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 109966,
+                        "element_name": "Slingshot",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-Slingshotdunkel_109966.jpeg",
+                        "element_abv": 5.3,
+                        "element_ibu": 22,
+                        "element_slug": "backpocket-brewing-slingshot",
+                        "element_style": "Dunkel Munich Lager",
+                        "element_description": "Don't let the Slingshot's color fool you, it has a light body, and smooth, subtle complexities that will remind you to never judge a book by its cover. Or, more likely, it'll just remind you that element is a pretty darn good thing. ",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.497,
+                        "rating_count": 4170
+                    },
+                    "expofinder": {
+                        "expofinder_id": 14975,
+                        "expofinder_name": "Backpocket Brewing",
+                        "expofinder_slug": "backpocket-brewing",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-Backpocketexpofinder_14975.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "BackpocketBrew",
+                            "facebook": "http://www.facebook.com/BackpocketBrewing",
+                            "instagram": "",
+                            "url": "http://www.backpocketbrewing.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Coralville",
+                            "expofinder_state": "IA",
+                            "lat": 41.6816,
+                            "lng": -91.5599
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 139658354,
+                    "recent_checkin_id": 139658354,
+                    "rating_score": 4,
+                    "first_had": "Mon, 22 Dec 2014 17:26:30 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 182234,
+                        "element_name": "Midwestern Pale Ale",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-MidwesternPaleAle_182234.jpeg",
+                        "element_abv": 5.2,
+                        "element_ibu": 0,
+                        "element_slug": "bell-s-expofinder-inc-midwestern-pale-ale",
+                        "element_style": "American Pale Ale",
+                        "element_description": "A blonde ale reminiscent of the golden fields of harvest – made with Michigan-grown barley and a delicious blend of pale malts with a distinctive spicy, floral aroma and taste. We invite you to reap what we've sown. \n\nBellselement.com",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.335,
+                        "rating_count": 26018
+                    },
+                    "expofinder": {
+                        "expofinder_id": 2507,
+                        "expofinder_name": "Bell's expofinder, Inc.",
+                        "expofinder_slug": "bells-expofinder-inc",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-BellsexpofinderInc_2507.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "Bellsexpofinder",
+                            "facebook": "http://www.facebook.com/BellsexpofinderInc",
+                            "instagram": "bellsexpofinder",
+                            "url": "http://www.bellselement.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Galesburg",
+                            "expofinder_state": "MI",
+                            "lat": 42.2917,
+                            "lng": -85.5872
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 139453831,
+                    "recent_checkin_id": 139453831,
+                    "rating_score": 3.5,
+                    "first_had": "Sun, 21 Dec 2014 17:58:05 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 4133,
+                        "element_name": "Two Hearted Ale",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-4133_04292_sm.jpeg",
+                        "element_abv": 7,
+                        "element_ibu": 50,
+                        "element_slug": "bell-s-expofinder-inc-two-hearted-ale",
+                        "element_style": "American IPA",
+                        "element_description": "India Pale Ale style well suited for Hemingway-esque trips to the Upper Peninsula. American malts and enormous hop additions give this element a crisp finish and incredible floral hop aroma.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 4.006,
+                        "rating_count": 193520
+                    },
+                    "expofinder": {
+                        "expofinder_id": 2507,
+                        "expofinder_name": "Bell's expofinder, Inc.",
+                        "expofinder_slug": "bells-expofinder-inc",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-BellsexpofinderInc_2507.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "Bellsexpofinder",
+                            "facebook": "http://www.facebook.com/BellsexpofinderInc",
+                            "instagram": "bellsexpofinder",
+                            "url": "http://www.bellselement.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Galesburg",
+                            "expofinder_state": "MI",
+                            "lat": 42.2917,
+                            "lng": -85.5872
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 139113428,
+                    "recent_checkin_id": 142230716,
+                    "rating_score": 4.5,
+                    "first_had": "Sat, 20 Dec 2014 19:23:46 -0600",
+                    "count": 2,
+                    "element": {
+                        "bid": 10376,
+                        "element_name": "Nutcracker Ale",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_10376_sm_3f45bab41628b9bc4ccd3aa2313a6a.jpeg",
+                        "element_abv": 7.8,
+                        "element_ibu": 38,
+                        "element_slug": "boulevard-brewing-co-nutcracker-ale",
+                        "element_style": "Winter Warmer",
+                        "element_description": "Nutcracker Ale is Boulevard’s holiday gift for real element lovers. This hearty, warming brew is a classic winter ale, deep amber in color, with hints of molasses balanced by the “spiciness” of freshly harvested Chinook hops.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.471,
+                        "rating_count": 13086
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1514,
+                        "expofinder_name": "Boulevard Brewing Co.",
+                        "expofinder_slug": "boulevard-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-boulevard.jpg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "Boulevard_element",
+                            "facebook": "http://www.facebook.com/Boulevard",
+                            "instagram": "Boulevardelement",
+                            "url": "http://www.boulevard.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Kansas City",
+                            "expofinder_state": "MO",
+                            "lat": 39.0821,
+                            "lng": -94.5965
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 139063602,
+                    "recent_checkin_id": 139063602,
+                    "rating_score": 4.5,
+                    "first_had": "Sat, 20 Dec 2014 18:06:20 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 12201,
+                        "element_name": "Bourbon Barrel Quad",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_12201_sm_183e605b7656ea1aaaf20037f6f68e.jpeg",
+                        "element_abv": 11.8,
+                        "element_ibu": 19,
+                        "element_slug": "boulevard-brewing-co-bourbon-barrel-quad",
+                        "element_style": "Belgian Strong Dark Ale",
+                        "element_description": "Based loosely on the Smokestack Series’ The Sixth Glass, this abbey-style quadrupel is separated into a number of oak bourbon barrels where it ages for varying lengths of time, some for up to three years. Cherries are added to make up for the “angel's share” of element lost during barrel aging. Selected barrels are then blended for optimum flavor. The resulting element retains only very subtle cherry characteristics, with toffee and vanilla notes coming to the fore.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 4.093,
+                        "rating_count": 6939
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1514,
+                        "expofinder_name": "Boulevard Brewing Co.",
+                        "expofinder_slug": "boulevard-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-boulevard.jpg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "Boulevard_element",
+                            "facebook": "http://www.facebook.com/Boulevard",
+                            "instagram": "Boulevardelement",
+                            "url": "http://www.boulevard.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Kansas City",
+                            "expofinder_state": "MO",
+                            "lat": 39.0821,
+                            "lng": -94.5965
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 138089741,
+                    "recent_checkin_id": 138089741,
+                    "rating_score": 4,
+                    "first_had": "Wed, 17 Dec 2014 09:52:44 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 37235,
+                        "element_name": "Black Chocolate Stout",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-37235_5f3d1_sm.jpeg",
+                        "element_abv": 10,
+                        "element_ibu": 51,
+                        "element_slug": "brooklyn-expofinder-black-chocolate-stout",
+                        "element_style": "American Imperial / Double Stout",
+                        "element_description": "Not sure of the vintage? Check-in to this one! This is the famous Brooklyn Black Chocolate Stout. In the 18th century, Catherine the Great, Empress of Russia, ordered a stout to be sent to her from England. This element was brewed strong and hoppy to survive the sea voyage, and it arrived in perfect condition. Soon \"Russian Imperial Stout\" became the toast of the Russian aristocracy. Brewed since 1994, our Black Chocolate Stout has itself become a modern classic, heralded the world over. It achieves its dark chocolate aroma and flavor through the artful blending of six malts and months of aging. Properly kept, it will improve in the bottle for many years. This stout is the toast of the winter season in many countries, and there is nothing better to enjoy with chocolate desserts, cheesecake, ice cream, fine cheeses and roaring fireplaces.\n\nMalts: American two-row pale malt, caramel malt, malted wheat and a blend of American roasted malts and barleys\n\nAdditions: Contains wheat\n\nHops: Willamette and American Fuggle",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.838,
+                        "rating_count": 48453
+                    },
+                    "expofinder": {
+                        "expofinder_id": 259,
+                        "expofinder_name": "Brooklyn expofinder",
+                        "expofinder_slug": "brooklyn-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-Brooklynexpofinder_259.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "brooklynexpofinder",
+                            "facebook": "https://www.facebook.com/thebrooklynexpofinder",
+                            "instagram": "brooklynexpofinder",
+                            "url": "http://brooklynexpofinder.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Brooklyn",
+                            "expofinder_state": "NY",
+                            "lat": 40.7215,
+                            "lng": -73.9575
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 132803674,
+                    "recent_checkin_id": 193485757,
+                    "rating_score": 4,
+                    "first_had": "Wed, 26 Nov 2014 23:36:59 -0800",
+                    "count": 2,
+                    "element": {
+                        "bid": 5558,
+                        "element_name": "Sculpin IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_5558_sm_568370b6ade3c2ed1ffd9a311fa92f.jpeg",
+                        "element_abv": 7,
+                        "element_ibu": 70,
+                        "element_slug": "ballast-point-brewing-spirits-sculpin-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "The Sculpin IPA is a testament to our humble beginnings as Home Brew Mart. Founded in 1992, the Mart continues to be a catalyst for the San Diego brewing scene, setting the trend for handcrafted ales. Inspired by our customers, employees and brewers, the Sculpin IPA is bright with aromas of apricot, peach, mango and lemon. Its lighter body also brings out the crispness of the hops. This delicious Ballast Point Ale took a Bronze Medal at the 2007 Great American element Festival in the Pro Am category. The Sculpin fish has poisonous spikes on its fins that can give a strong sting. Ironically, the meat from a Sculpin is considered some of the most tasty. Something that has a sting but tastes great, sounds like a Ballast Point India Pale Ale.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 4.07,
+                        "rating_count": 177442
+                    },
+                    "expofinder": {
+                        "expofinder_id": 68,
+                        "expofinder_name": "Ballast Point Brewing & Spirits",
+                        "expofinder_slug": "ballast-point-brewing-spirits",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-ballastpointbrewingcompany_68.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "bpbrewing",
+                            "facebook": "http://www.facebook.com/BallastPoint",
+                            "instagram": "ballastpointbrewing",
+                            "url": "http://www.ballastpoint.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "San Diego",
+                            "expofinder_state": "CA",
+                            "lat": 32.8985,
+                            "lng": -117.111
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 132803464,
+                    "recent_checkin_id": 132803464,
+                    "rating_score": 4.5,
+                    "first_had": "Wed, 26 Nov 2014 23:34:35 -0800",
+                    "count": 1,
+                    "element": {
+                        "bid": 860383,
+                        "element_name": "Stone Enjoy By 12.05.14 IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-860383_e3c5d_sm.jpeg",
+                        "element_abv": 9.4,
+                        "element_ibu": 88,
+                        "element_slug": "stone-brewing-co-stone-enjoy-by-12-05-14-ipa",
+                        "element_style": "Imperial / Double IPA",
+                        "element_description": "California release",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 4.142,
+                        "rating_count": 4012
+                    },
+                    "expofinder": {
+                        "expofinder_id": 1204,
+                        "expofinder_name": "Stone Brewing Co.",
+                        "expofinder_slug": "stone-brewing-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-stone.jpg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "StoneBrewingCo",
+                            "facebook": "http://www.facebook.com/StoneBrewingCo",
+                            "instagram": "StoneBrewingCo",
+                            "url": "http://www.stonebrew.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Escondido",
+                            "expofinder_state": "CA",
+                            "lat": 33.1157,
+                            "lng": -117.12
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 124288591,
+                    "recent_checkin_id": 124288591,
+                    "rating_score": 5,
+                    "first_had": "Fri, 24 Oct 2014 13:25:34 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 25796,
+                        "element_name": "A Little Sumpin' Sumpin' Ale",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-lagunitasLittleSumpinSumpin.jpg",
+                        "element_abv": 7.5,
+                        "element_ibu": 64,
+                        "element_slug": "lagunitas-brewing-company-a-little-sumpin-sumpin-ale",
+                        "element_style": "American Pale Wheat Ale",
+                        "element_description": "A truly unique style featuring a strong hop finish on a silky body. A filtered pale wheat ale that is great for both IPA and wheat element fans.\n",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.878,
+                        "rating_count": 145700
+                    },
+                    "expofinder": {
+                        "expofinder_id": 765,
+                        "expofinder_name": "Lagunitas Brewing Company",
+                        "expofinder_slug": "lagunitas-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-lagunitas.jpg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "lagunitaselement",
+                            "facebook": "http://www.facebook.com/#!/LagunitasBrewingCo",
+                            "instagram": "lagunitaselement",
+                            "url": "http://www.lagunitas.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Petaluma",
+                            "expofinder_state": "CA",
+                            "lat": 38.2724,
+                            "lng": -122.662
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 75382319,
+                    "recent_checkin_id": 169251956,
+                    "rating_score": 4.5,
+                    "first_had": "Sat, 22 Mar 2014 19:02:00 -0500",
+                    "count": 2,
+                    "element": {
+                        "bid": 201,
+                        "element_name": "Undercover Investigation Shut-Down Ale",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_201_sm_ac8820d05c7b51684b82d73afdff82.jpeg",
+                        "element_abv": 9.3,
+                        "element_ibu": 66,
+                        "element_slug": "lagunitas-brewing-company-undercover-investigation-shut-down-ale",
+                        "element_style": "American Strong Ale",
+                        "element_description": "An oxymoronic 'Imperial Mild' - A redux to remember the '05 St. Paddy's Day Massacre. Defiant as to style ... The brewer can say for sure it is unforgiven and unrepentant.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.895,
+                        "rating_count": 69884
+                    },
+                    "expofinder": {
+                        "expofinder_id": 765,
+                        "expofinder_name": "Lagunitas Brewing Company",
+                        "expofinder_slug": "lagunitas-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-lagunitas.jpg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "lagunitaselement",
+                            "facebook": "http://www.facebook.com/#!/LagunitasBrewingCo",
+                            "instagram": "lagunitaselement",
+                            "url": "http://www.lagunitas.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Petaluma",
+                            "expofinder_state": "CA",
+                            "lat": 38.2724,
+                            "lng": -122.662
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 68880929,
+                    "recent_checkin_id": 68880929,
+                    "rating_score": 5,
+                    "first_had": "Sat, 15 Feb 2014 17:25:02 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 10050,
+                        "element_name": "Double Jack",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-firestoneDoubleJack.jpg",
+                        "element_abv": 9.5,
+                        "element_ibu": 85,
+                        "element_slug": "firestone-walker-brewing-company-double-jack",
+                        "element_style": "Imperial / Double IPA",
+                        "element_description": "A dangerously drinkable Double IPA.  Double Jack opens up with bright grapefruit and tangerine American hop aromas. Beautifully crafted undertones of stone fruit are revealed upon first sip, followed by the essence of blue basil and pine. A sturdy pale and crystal malt backbone brings balance to high hop intensity. Complex and aggressively hopped, and flawlessly balanced.\n\nREMEMBER: Watch for bottled on dates located on the necks or bottom left corner of the label for each of our elements.  Our element is not pasteurized, so it is best when stored at 44F or below, out of light and within 120 days of the bottled on date...this ensures freshness and ultimately a great Firestone Walker element!",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 4.136,
+                        "rating_count": 73538
+                    },
+                    "expofinder": {
+                        "expofinder_id": 524,
+                        "expofinder_name": "Firestone Walker Brewing Company",
+                        "expofinder_slug": "firestone-walker-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-FirestoneWalkerBrewingCompany_524.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "FirestoneWalker",
+                            "facebook": "http://www.facebook.com/#!/firestone.walker",
+                            "instagram": "firestonewalker",
+                            "url": "http://www.firestoneelement.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Paso Robles",
+                            "expofinder_state": "CA",
+                            "lat": 35.5953,
+                            "lng": -120.694
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 64792189,
+                    "recent_checkin_id": 64792189,
+                    "rating_score": 4,
+                    "first_had": "Tue, 21 Jan 2014 20:53:53 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 6767,
+                        "element_name": "Ranger",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-_6767_sm_e693b17ef61b19443362df8e05fb33.jpeg",
+                        "element_abv": 6.5,
+                        "element_ibu": 70,
+                        "element_slug": "new-belgium-brewing-company-ranger",
+                        "element_style": "American IPA",
+                        "element_description": "Ever met a New Belgium element Ranger? They are our beloved folks out in the field. Spanning all 29 of our states from the Pacific to the Atlantic, our element Rangers do their best to protect, to pour and to partake. And explore many a element from many a expofinder, they do. \n\nBring out the hops! This clear amber beauty bursts at the starting gate with an abundance of hops: Cascade (citrus), Chinook (floral/citrus), and Simcoe (fruity) lead off the element, with Cascade added again for an intense dry hop flavor. Brewed with pale and dark caramel malts that harmonize the hop flavor from start to finish, Ranger is a sessionable splendor for all you hopinistas. Thank your element Ranger!",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.578,
+                        "rating_count": 124938
+                    },
+                    "expofinder": {
+                        "expofinder_id": 905,
+                        "expofinder_name": "New Belgium Brewing Company",
+                        "expofinder_slug": "new-belgium-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-905_2ddc7.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "newbelgium",
+                            "facebook": "http://www.facebook.com/newbelgium",
+                            "instagram": "newbelgium",
+                            "url": "http://www.newbelgium.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Fort Collins",
+                            "expofinder_state": "CO",
+                            "lat": 40.5934,
+                            "lng": -105.067
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 59809846,
+                    "recent_checkin_id": 59809846,
+                    "rating_score": 4,
+                    "first_had": "Mon, 23 Dec 2013 21:28:56 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 3770,
+                        "element_name": "Spotted Cow",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-SpottedCow_3770.jpeg",
+                        "element_abv": 5.1,
+                        "element_ibu": 0,
+                        "element_slug": "new-glarus-brewing-company-spotted-cow",
+                        "element_style": "Saison / Farmhouse Ale",
+                        "element_description": "Cask conditioned ale has been the popular choice among brews since long before prohibition. We continue this pioneer spirit with our Wisconsin farmhouse ale. Brewed with flaked barley and the finest Wisconsin malts. We even give a nod to our farmers with a little hint of corn. \n\nNaturally cloudy we allow the yeast to remain in the bottle to enhance fullness of flavors, which cannot be duplicated otherwise. \n\nExpect this ale to be fun, fruity and satisfying. You know you're in Wisconsin when you see the Spotted Cow.\n\nStyle: Naturally Cloudy Farmhouse Ale",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.856,
+                        "rating_count": 59434
+                    },
+                    "expofinder": {
+                        "expofinder_id": 907,
+                        "expofinder_name": "New Glarus Brewing Company",
+                        "expofinder_slug": "new-glarus-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-NewGlarusBrewingCompany_907.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "newglaruselement",
+                            "facebook": "http://www.facebook.com/newglarusbrewing",
+                            "instagram": "",
+                            "url": "http://www.newglarusbrewing.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "New Glarus",
+                            "expofinder_state": "WI",
+                            "lat": 42.8171,
+                            "lng": -89.6306
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 59809706,
+                    "recent_checkin_id": 59809706,
+                    "rating_score": 4,
+                    "first_had": "Mon, 23 Dec 2013 21:28:04 -0600",
+                    "count": 1,
+                    "element": {
+                        "bid": 5756,
+                        "element_name": "Raging Bitch Belgian IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-FlyingDogRagingBitch.jpg",
+                        "element_abv": 8.3,
+                        "element_ibu": 60,
+                        "element_slug": "flying-dog-expofinder-raging-bitch-belgian-ipa",
+                        "element_style": "Belgian IPA",
+                        "element_description": "Two inflammatory words... one wild drink. Nectar imprisoned in a bottle. Let it out. It is cruel to keep a wild animal locked up. Uncap it. Release it....stand back!! Wallow in its golden glow in a glass beneath a white foaming head. Remember, enjoying a RAGING BITCH, unleashed, untamed, unbridled- and in heat- is pure GONZO!! It has taken 20 years to get from there to here. Enjoy!",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.675,
+                        "rating_count": 80944
+                    },
+                    "expofinder": {
+                        "expofinder_id": 540,
+                        "expofinder_name": "Flying Dog expofinder",
+                        "expofinder_slug": "flying-dog-expofinder",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-flyingDog.jpg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "flyingdog",
+                            "facebook": "http://www.facebook.com/flyingdog",
+                            "instagram": "",
+                            "url": "http://flyingdogales.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Frederick",
+                            "expofinder_state": "MD",
+                            "lat": 39.3627,
+                            "lng": -77.4265
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 2578221,
+                    "recent_checkin_id": 2578221,
+                    "rating_score": 5,
+                    "first_had": "Sun, 23 Oct 2011 16:58:18 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 6171,
+                        "element_name": "Harvest Ale",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-HarvestAle_6171.jpeg",
+                        "element_abv": 5.7,
+                        "element_ibu": 35,
+                        "element_slug": "goose-island-element-co-harvest-ale",
+                        "element_style": "Harvest Ale",
+                        "element_description": "Brewed in honor of the Harvest season this copper colored ESB is made with Cascade hops and the richest Midwestern malts. A fruity American hop aroma and a toasty malt character make Goose Island Harvest Ale an extra special element worthy of your devotion.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.337,
+                        "rating_count": 14560
+                    },
+                    "expofinder": {
+                        "expofinder_id": 2898,
+                        "expofinder_name": "Goose Island element Co.",
+                        "expofinder_slug": "goose-island-element-co",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-2898_79a14.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "GooseIsland",
+                            "facebook": "http://www.facebook.com/gooseislandelement",
+                            "instagram": "gooseislandelement",
+                            "url": "http://www.gooseisland.com/"
+                        },
+                        "location": {
+                            "expofinder_city": "Chicago",
+                            "expofinder_state": "IL",
+                            "lat": 41.8871,
+                            "lng": -87.6721
+                        },
+                        "expofinder_active": 1
+                    }
+                },
+                {
+                    "first_checkin_id": 2406864,
+                    "recent_checkin_id": 2406864,
+                    "rating_score": 4,
+                    "first_had": "Thu, 13 Oct 2011 17:44:25 -0500",
+                    "count": 1,
+                    "element": {
+                        "bid": 16981,
+                        "element_name": "IPA",
+                        "element_label": "https://untappd.akamaized.net/site/element_logos/element-IPA_16981.jpeg",
+                        "element_abv": 6.2,
+                        "element_ibu": 65,
+                        "element_slug": "big-sky-brewing-company-ipa",
+                        "element_style": "American IPA",
+                        "element_description": "In Montana, many classic memories are made right after someone says, “Hold my element and watch this.” These bold, assertive moments deserve a bold, assertive element – Big Sky IPA. A distinct hop presence and malty backbone will leave you refreshed and ready for your moment of glory. Hang on tight and enjoy the ride.",
+                        "auth_rating": 0,
+                        "wish_list": false,
+                        "rating_score": 3.452,
+                        "rating_count": 16194
+                    },
+                    "expofinder": {
+                        "expofinder_id": 2927,
+                        "expofinder_name": "Big Sky Brewing Company",
+                        "expofinder_slug": "big-sky-brewing-company",
+                        "expofinder_label": "https://untappd.akamaized.net/site/expofinder_logos/expofinder-BigSkyBrewingCompany_2927.jpeg",
+                        "country_name": "United States",
+                        "contact": {
+                            "twitter": "BigSkyBrewing",
+                            "facebook": "http://www.facebook.com/BigSkyBrewingCompany",
+                            "instagram": "",
+                            "url": "http://www.bigskybrew.com"
+                        },
+                        "location": {
+                            "expofinder_city": "Missoula",
+                            "expofinder_state": "MT",
+                            "lat": 46.9223,
+                            "lng": -114.073
+                        },
+                        "expofinder_active": 1
+                    }
+                }
+            ]
+        }
+    }
+}

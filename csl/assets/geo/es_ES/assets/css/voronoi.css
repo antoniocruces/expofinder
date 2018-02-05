@@ -1,0 +1,87 @@
+
+/*
+ * Voronoi
+ */
+.point-cell {
+    fill: none;
+    pointer-events: all;
+    stroke: #000;
+    stroke-opacity: .2;
+}
+
+.point-cell:hover, .point-cell.selected {
+    fill: none;
+    stroke: #000;
+    stroke-opacity: .6;
+    stroke-width: 2px;
+}
+
+.point-cell.selected {
+    stroke-opacity: 1;
+    stroke-width: 3px;
+}
+
+.point circle {
+    pointer-events: none;
+}
+
+#mapelm, #maptyp {
+    width: 100%;
+    min-height: 400px; 
+    max-height: 500px; 
+}
+
+#selectionselm, #selectionstyp {
+	min-height: 25px;	
+}
+
+#selectionselm input[type=checkbox], #selectionstyp input[type=checkbox] {
+  position: relative;
+}
+                
+#selectionselm .key, #selectionstyp .key {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 6px;
+    margin: 0 5px;
+}
+
+#selectionselm .keylabel, #selectionstyp .keylabel {
+    font-weight: normal !important;
+    margin-right: 5px;
+}
+
+
+#loadingelm:after, #loadingtyp:after{
+}
+
+#loadingelm.visible:after, #loadingtyp.visible:after {
+	font-family: FontAwesome;
+    content: "\f013";
+	-webkit-animation: map-spin 2s infinite linear;
+	animation: fa-spin 2s infinite linear;
+	font-size: 1.5em;
+}
+
+@-webkit-keyframes map-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+@keyframes map-spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(359deg);
+    transform: rotate(359deg);
+  }
+}
+

@@ -1,0 +1,386 @@
+/*
+
+Theme Name: CSL
+Theme URI: http://admin.expofinder.es
+Author: Antonio Cruces Rodríguez
+Author URI: http://hdplus.es
+Description: A simple and clean theme for client-server applications by HD+. Based in an original idea of Jared Erickson.
+Inspired by: "Less" (http://lessmade.com/themes/less)
+Tags: white, light, one-column, fluid-layout, responsive-layout, translation-ready, application-support
+Version: 1.1.0
+License: GNU General Public License version 2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: csl
+
+*/
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+  background-color: #f5f5f5;
+}
+
+
+/* Custom page CSS
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+body > .container {
+  padding: 60px 15px 20px 15px;
+}
+.container .text-muted {
+  margin: 20px 0;
+}
+
+.footer > .container {
+  padding-right: 15px;
+  padding-left: 15px;
+}
+
+code {
+  font-size: 80%;
+}
+
+.separate-left {
+	margin-left: 5px;
+}
+
+.separate-right {
+	margin-right: 5px;
+}
+
+.no-margin-top {
+	margin-top: 0px;
+}
+
+.margin-bottom-25 {
+	margin-bottom: 25px;
+}
+
+.margin-top-25 {
+	margin-top: 25px;
+}
+
+.border-bottom {
+	border-bottom: 1px dotted black;
+}
+
+.center-block {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+/****************************/
+.panel
+{
+    position: relative;
+}
+
+.panel-default > .panel-leftheading
+{
+    color: #333;
+    background-color: #f5f5f5;
+    border-color: #ddd;
+}
+
+.panel-primary > .panel-leftheading
+{
+    color: #fff;
+    background-color: #428bca;
+    border-color: #428bca;
+}
+
+.panel-success > .panel-leftheading
+{
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+}
+
+.panel-info > .panel-leftheading
+{
+    color: #31708f;
+    background-color: #d9edf7;
+    border-color: #bce8f1;
+}
+
+.panel-warning > .panel-leftheading
+{
+    color: #8a6d3b;
+    background-color: #fcf8e3;
+    border-color: #faebcc;
+}
+
+.panel-danger > .panel-leftheading
+{
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+}
+
+.panel-leftheading
+{
+    width: 42px;
+    padding: 10px 15px;
+    border-right: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+    border-top-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+    float: left;
+    height: 100%;
+    position: absolute;
+}
+
+.panel-lefttitle
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 15px;
+    font-size: 16px;
+    color: inherit;
+    -webkit-transform: rotate(90deg);
+    -webkit-transform-origin: left top;
+    -moz-transform: rotate(90deg);
+    -moz-transform-origin: left top;
+    -ms-transform: rotate(90deg);
+    -ms-transform-origin: left top;
+    -o-transform: rotate(90deg);
+    -o-transform-origin: left top;
+    transform: rotate(90deg);
+    transform-origin: left top;
+    position: absolute;
+    white-space: nowrap;
+}
+
+.panel-rightbody
+{
+    float: left;
+    margin-left: 45px;
+    padding: 15px;
+}
+
+/* PIVOT */
+.node {
+	border: solid 1px white;
+	font: 10px sans-serif;
+	line-height: 12px;
+	overflow: hidden;
+	position: absolute;
+	text-indent: 2px;
+}
+.c3-line, .c3-focused {stroke-width: 3px !important;}
+.c3-bar {stroke: white !important; stroke-width: 1;}
+.c3 text { font-size: 12px; color: grey;}
+.tick line {stroke: white;}
+.c3-axis path {stroke: grey;}
+.c3-circle { opacity: 1 !important; }
+
+
+.full-width-table {
+    width: 100%;
+}
+
+.alert-primary {
+    background-color: #c3daee;
+}
+
+.bg-default {
+    background-color: #f7f7f9;
+}
+
+/* Elements for home page */
+.alert-message
+{
+    margin: 20px 0;
+    padding: 20px;
+    border-left: 3px solid #eee;
+}
+.alert-message h3
+{
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.alert-message p:last-child
+{
+    margin-bottom: 0;
+}
+.alert-message code
+{
+    background-color: #fff;
+    border-radius: 3px;
+}
+.alert-message-success
+{
+    background-color: #F4FDF0;
+    border-color: #3C763D;
+}
+.alert-message-success h3
+{
+    color: #3C763D;
+}
+.alert-message-danger
+{
+    background-color: #fdf7f7;
+    border-color: #d9534f;
+}
+.alert-message-danger h3
+{
+    color: #d9534f;
+}
+.label-purple
+{
+    background-color: #e5a3ff;
+}
+.alert-message-purple
+{
+    background-color: #fbefff;
+    border-color: #682984;
+}
+.alert-message-purple h3
+{
+    color: #b44cf0;
+}
+.alert-message-warning
+{
+    background-color: #fcf8f2;
+    border-color: #f0ad4e;
+}
+.alert-message-warning h3
+{
+    color: #f0ad4e;
+}
+.alert-message-info
+{
+    background-color: #f4f8fa;
+    border-color: #5bc0de;
+}
+.alert-message-info h3
+{
+    color: #5bc0de;
+}
+.alert-message-default
+{
+    background-color: #EEE;
+    border-color: #B4B4B4;
+}
+.alert-message-default h3
+{
+    color: #000;
+}
+.alert-message-notice
+{
+    background-color: #FCFCDD;
+    border-color: #BDBD89;
+}
+.alert-message-notice h3
+{
+    color: #444;
+}
+.alert-message-primary
+{
+    background-color: #d7e6f4;
+    border-color: #2d6a9f;
+}
+.alert-message-primary h3
+{
+    color: #337ab7;
+}
+
+/* Surveys */
+#edit-slug-box, 
+#wp-admin-bar-view,
+.updated.notice.notice-success.is-dismissible p a {
+    display:none;
+}
+#copy-shortcode{
+    margin-left:10px;
+    border-radius:4px;
+    padding:5px;
+    background-color: #0085BA;
+    color:#fff;
+}
+#copy-shortcode:hover{
+    cursor:pointer;
+}
+
+.range-slider{
+    -webkit-appearance: none;
+    width: 150px;
+    height: 20px;
+    margin: 10px 50px;
+    background: linear-gradient(to right, #ececec 0%, #ececec 100%);
+    border-radius:20px!important;
+    background-size: 100% 5px;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    outline: none;
+    zoom: 130%;
+    display: block;
+    margin: auto;
+}
+ 
+.range-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    width: 15px;
+    height: 15px;
+    background: #777;
+    position: relative;
+    z-index: 3;
+    border:none!important;
+    border-radius:30px;
+}
+ 
+.range-slider::-webkit-slider-thumb:after {
+    content: " ";
+    width: 150px;
+    height: 10px;
+    position: absolute;
+    z-index: 1;
+    right: 20px;
+    top: 5px;
+}
+
+/* Images. Shadow */
+.img-shadow1{
+	-webkit-box-shadow: 0 10px 6px -6px #777;
+	   -moz-box-shadow: 0 10px 6px -6px #777;
+	        box-shadow: 0 10px 6px -6px #777;
+}
+
+.img-marginright {
+    margin-right: 15px;
+}
+
+.img-marginleft {
+    margin-left: 15px;
+}
+
+// Center block & vertical center
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.vertical-center {
+  position: absolute;
+  top: 50%;
+  left:50%;
+  transform: translate(-50%,-50%);
+}

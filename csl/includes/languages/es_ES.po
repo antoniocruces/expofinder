@@ -1,0 +1,6025 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CSL v 1.3.0 RC2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-03-29 11:28+0100\n"
+"PO-Revision-Date: 2017-03-29 11:45+0100\n"
+"Last-Translator: Grupo de Investigación iArtHis_LAB. Antonio Cruces Rodríguez "
+"<antonio.cruces@uma.es>\n"
+"Language-Team: Culturacy SL. Antonio Cruces Rodríguez <antonio.cruces@uma.es>\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:50 index.php:110
+msgid "Toggle navigation"
+msgstr "Alternar navegación"
+
+#: 404.php:64
+msgid "404 Error"
+msgstr "Error 404"
+
+#: 404.php:67
+msgid "An error has occurred!"
+msgstr "Se ha produicido un error."
+
+#: 404.php:68
+msgid "Requested page cannot be found in the system."
+msgstr "La página solicitada no ha podido ser localizada en el sistema."
+
+#: 404.php:71
+msgid ""
+"The 404 or Not Found error message is a Hypertext Transfer Protocol (HTTP) "
+"standard response code, in computer network communications, to indicate that "
+"the client was able to communicate with a given server, but the server could "
+"not find what was requested."
+msgstr ""
+"El error 404 o mensaje de página ilocalizable un un código de respuesta "
+"normalizado del Protocolo de Transferencia de Mipertexto (HTTP), en el ámbito "
+"de las comunicaciones en redes de ordenadores, para indicar que el cliente ha "
+"podido comunicarse con un servidor determinado, pero éste no ha podido "
+"encontrar lo que le ha sido solicitado."
+
+#: 404.php:74
+msgid ""
+"Probably this error is because the address in the browser has been misspelled. "
+"Check for correctness."
+msgstr ""
+"Probablemente este error es debido a que la dirección ha sido mal escrita en "
+"el navegador. Verifique que es correcta."
+
+#: 404.php:76
+msgid "Go home page"
+msgstr "In a portada"
+
+#: ___BKP_csl_cron_beagle.php:133 _csl_cron_beagle.php:509
+msgid "BEAGLE START"
+msgstr "INICIO DE BEAGLE"
+
+#: ___BKP_csl_cron_beagle.php:135 _csl_cron_beagle.php:511
+msgid "SELECTED URIS"
+msgstr "URIS SELECCIONADAS"
+
+#: ___BKP_csl_cron_beagle.php:137 _csl_cron_beagle.php:513
+msgid "Number of selected URIs..........:"
+msgstr "Número de URIs seleccionadas.....:"
+
+#: ___BKP_csl_cron_beagle.php:201 _csl_cron_beagle.php:591
+msgid "NEW EXIBITION FOUND AND NOT SAVED (TESTING MODE)"
+msgstr "NUEVA EXPOSICIÓN ENCONTRADA Y NO GRABADO (MODO DE PRUEBA)"
+
+#: ___BKP_csl_cron_beagle.php:203 ___BKP_csl_cron_beagle.php:242
+#: _csl_cron_beagle.php:594 _csl_cron_beagle.php:634
+msgid "Total added......................:"
+msgstr "Total añadido....................:"
+
+#: ___BKP_csl_cron_beagle.php:204 ___BKP_csl_cron_beagle.php:243
+#: _csl_cron_beagle.php:595 _csl_cron_beagle.php:635
+msgid "ID...............................:"
+msgstr "ID...............................:"
+
+#: ___BKP_csl_cron_beagle.php:205 ___BKP_csl_cron_beagle.php:244
+#: _csl_cron_beagle.php:596 _csl_cron_beagle.php:636
+msgid "Title............................:"
+msgstr "Título...........................:"
+
+#: ___BKP_csl_cron_beagle.php:205 ___BKP_csl_cron_beagle.php:206
+#: ___BKP_csl_cron_beagle.php:244 ___BKP_csl_cron_beagle.php:245
+#: _csl_cron_beagle.php:596 _csl_cron_beagle.php:597 _csl_cron_beagle.php:636
+#: _csl_cron_beagle.php:637
+msgid "[Unspecified or not readable]"
+msgstr "[No especificado/a o ilegible]"
+
+#: ___BKP_csl_cron_beagle.php:206 ___BKP_csl_cron_beagle.php:245
+#: _csl_cron_beagle.php:597 _csl_cron_beagle.php:637
+msgid "Date.............................:"
+msgstr "Fecha............................:"
+
+#: ___BKP_csl_cron_beagle.php:207 ___BKP_csl_cron_beagle.php:246
+#: _csl_cron_beagle.php:598 _csl_cron_beagle.php:638
+msgid "Assessment.......................:"
+msgstr "Valoración.......................:"
+
+#: ___BKP_csl_cron_beagle.php:208 ___BKP_csl_cron_beagle.php:247
+#: _csl_cron_beagle.php:599 _csl_cron_beagle.php:639
+msgid "Keywords.........................:"
+msgstr "Palabras clave...................:"
+
+#: ___BKP_csl_cron_beagle.php:216 _csl_cron_beagle.php:608
+#: includes/csl_custom_ajax_helper.php:921
+#: includes/csl_custom_dashboard_helper.php:472
+#: includes/csl_custom_dashboard_helper.php:770
+#: includes/csl_custom_dashboard_helper.php:1155 index.php:299 index.php:397
+#: index.php:398 index.php:554
+#, php-format
+msgid "%s ago"
+msgstr "Hace %s"
+
+#: ___BKP_csl_cron_beagle.php:240 _csl_cron_beagle.php:632
+msgid "NEW EXIBITION FOUND"
+msgstr "NUEVA EXPOSICIÓN LOCALIZADA"
+
+#: ___BKP_csl_cron_beagle.php:256 _csl_cron_beagle.php:649
+msgid "UNKNOWN FAILURE"
+msgstr "FALLO DESCONOCIDO"
+
+#: ___BKP_csl_cron_beagle.php:258 ___BKP_csl_cron_beagle.php:271
+#: ___BKP_csl_cron_beagle.php:285 _csl_cron_beagle.php:651
+#: _csl_cron_beagle.php:664 _csl_cron_beagle.php:678
+msgid "Reason...........................:"
+msgstr "Razón............................:"
+
+#: ___BKP_csl_cron_beagle.php:258 _csl_cron_beagle.php:651
+msgid "Testing mode variable"
+msgstr "Variable de modo test"
+
+#: ___BKP_csl_cron_beagle.php:269 ___BKP_csl_cron_beagle.php:283
+#: _csl_cron_beagle.php:662 _csl_cron_beagle.php:676
+msgid "DISCARDED ENTRY"
+msgstr "ENTRADA DESCARTADA"
+
+#: ___BKP_csl_cron_beagle.php:286 _csl_cron_beagle.php:679
+#, php-format
+msgid "Below the minimum threshold: TO=%s, RE=%s"
+msgstr "Por debajo del umbral mínimo: TO=%s, RE=%s"
+
+#: ___BKP_csl_cron_beagle.php:304 _csl_cron_beagle.php:697
+msgid "INVALID URI"
+msgstr "URI NO VÁLIDA"
+
+#: ___BKP_csl_cron_beagle.php:306 _csl_cron_beagle.php:699
+msgid "URI..............................:"
+msgstr "URI..............................:"
+
+#: ___BKP_csl_cron_beagle.php:349 _csl_cron_beagle.php:744
+msgid "BEAGLE END"
+msgstr "FINB DE BEAGLE"
+
+#: ___BKP_csl_cron_beagle.php:351 _csl_cron_beagle.php:746
+msgid "OPERATIONS SUMMARY"
+msgstr "RESUMEN DE OPERACIONES"
+
+#: ___BKP_csl_cron_beagle.php:353 _csl_cron_beagle.php:748
+msgid "01. Total URIs to check..........:"
+msgstr "01. URIs totales a revisar.......:"
+
+#: ___BKP_csl_cron_beagle.php:354 _csl_cron_beagle.php:749
+msgid "02. Invalid URIs.................:"
+msgstr "02. URIs no válidas..............:"
+
+#: ___BKP_csl_cron_beagle.php:355 _csl_cron_beagle.php:750
+msgid "03. Valid URIs...................:"
+msgstr "03. URIs válidas.................:"
+
+#: ___BKP_csl_cron_beagle.php:356 _csl_cron_beagle.php:751
+msgid "04. Sapless URIs.................:"
+msgstr "04. URIs improductivas...........:"
+
+#: ___BKP_csl_cron_beagle.php:357 _csl_cron_beagle.php:752
+msgid "05. Total entries to check.......:"
+msgstr "05. Referencias totales a revisar:"
+
+#: ___BKP_csl_cron_beagle.php:358 _csl_cron_beagle.php:753
+msgid "06. Entries by valid URI.........:"
+msgstr "06. Referencias por URI válida...:"
+
+#: ___BKP_csl_cron_beagle.php:359 _csl_cron_beagle.php:754
+msgid "07. Sapless entries..............:"
+msgstr "07. Referencias improductivas....:"
+
+#: ___BKP_csl_cron_beagle.php:360 _csl_cron_beagle.php:755
+msgid "07. Sappy entries................:"
+msgstr "07. Referencias productivas......:"
+
+#: ___BKP_csl_cron_beagle.php:362 _csl_cron_beagle.php:757
+msgid "08. ADDED NEW ENTRIES............:"
+msgstr "08. NUEVAS REFERENCIAS AÑADIDAS..:"
+
+#: ___BKP_csl_cron_beagle.php:363 _csl_cron_beagle.php:758
+msgid "09. DISCARDED NEW ENTRIES........:"
+msgstr "09. NUEVAS REFERENCIAS RECHAZADAS:"
+
+#: ___BKP_csl_cron_beagle.php:365 _csl_cron_beagle.php:760
+msgid "10. Entries by useful URI........:"
+msgstr "10. Referencias por URI útil.....:"
+
+#: ___BKP_csl_cron_beagle.php:366 _csl_cron_beagle.php:761
+msgid "11. Operation time...............:"
+msgstr "11. Tiempo de operación..........:"
+
+#: ___BKP_csl_cron_beagle.php:367 _csl_cron_beagle.php:762
+msgid "12. Average time for single test.:"
+msgstr "12. Tiempo medio por verificación:"
+
+#: functions.php:104 includes/csl_custom_dashboard_helper.php:1736
+#: includes/csl_custom_global_helper.php:1439
+msgid "Four times a day"
+msgstr "Cada seis horas"
+
+#: functions.php:108 includes/csl_custom_dashboard_helper.php:1737
+#: includes/csl_custom_global_helper.php:1442
+msgid "Once weekly"
+msgstr "Semanalmente"
+
+#: functions.php:112 includes/csl_custom_dashboard_helper.php:1738
+#: includes/csl_custom_global_helper.php:1445
+msgid "Once a month"
+msgstr "Mensualmente"
+
+#: functions.php:829
+msgid "Demo users"
+msgstr "Usuarios demo"
+
+#: functions.php:840
+msgid "Test authors"
+msgstr "Autores de prueba"
+
+#: functions.php:855
+msgid "Test contributors"
+msgstr "Colaboradores de prueba"
+
+#: functions.php:866
+msgid "Test subscribers"
+msgstr "Suscriptores de prueba"
+
+#: functions.php:1032
+msgid ""
+"\"Important Notice.\\n\\nYou are about trying to access a restricted area of ​​"
+"this site. You are only authorized to access to information held in this area "
+"if you have a username and password. Otherwise, you should leave the area "
+"immediately. Access to restricted areas at this site is recorded, and the "
+"records are checked daily. Unauthorized access is a flagrant violation of the "
+"rules of the European Union (Directive 95/46 / EC, because the authorship of "
+"this application is made in Spain, a member of the EU), the Spanish "
+"legislation on data security ('Law 15/1999, of December 13, Protection of "
+"Personal Data' and 'Royal Decree 1720/2007 of 21 December, approving the "
+"Regulations implementing the Data Protection Act') and local laws the country "
+"or region where you are running the 'software' (in this case, Spain). Any "
+"suspected violation of these restrictions will be communicated immediately to "
+"the Europol Cybersecurity Group (EC3) and the local prosecutor, from Spain in "
+"this case, and requested relevant judicial and policing actions.\""
+msgstr ""
+"\"Aviso de seguridad.\\n\\nEstá a punto de acceder  a una zona restringida de "
+"esta sede. Usted solamente tendrá autorización para acceder a la información "
+"contenida aquí si dispone de un nombre de usuario y una contraseña facilitados "
+"por la administración del sistema. En caso contrario, debe abandonar el área "
+"inmediatamente. El acceso a zonas restringidas en esta sede queda almacenado, "
+"y su registro es verificado diariamente. El acceso no autorizado constituye "
+"una flagrante violación de las reglas de la Unión Europea (Directiva 95/46/EC, "
+"debido a que el autor de esta aplicación reside y es ciudadano de España, un "
+"país perteneciente a la UE), la legislación española sobre seguridad de datos "
+"('Ley Orgánica 15/1999, de 13 de diciembre, de Protección de Datos de Carácter "
+"Personal' y 'Real Decreto 1720/2007, de 21 de diciembre, por el que se aprueba "
+"el Reglamento de desarrollo de la Ley Orgánica 15/1999, de 13 de diciembre, de "
+"protección de datos de carácter personal'), así como las leyes locales del "
+"país o región en la cual se ejecuta el 'software' (en este caso, España). La "
+"menor sospecha de violación de cualquiera de estas restricciones será "
+"inmediatamente comunicada a Grupo de Ciberseguridad de Europol (EC3) y a la "
+"fiscalía local, en este caso de España, e instadas las pertinentes acciones "
+"judiciales y policiales.\""
+
+#: functions.php:1062
+#, php-format
+msgid "Trying to start session from %s whit IP address %s using %s"
+msgstr "Intentando conectar desde %s con dirección IP %s usando %s"
+
+#: functions.php:1072
+#, php-format
+msgid ""
+"Welcome to security login screen. Fill out the form to access system and "
+"please read carefully our <i class=\"fa fa-shield\" style=\"color: #2d99e5; "
+"margin-right: 2px;\"></i><a onclick=\"sec_messg();\" style=\"cursor:help;"
+"\">Security & Legal Warning</a>.%s"
+msgstr ""
+"Bienvenido a la pantalla de conexión. Cumplimente el formulario para acceder "
+"al sistema y lea cuidadosamente la <i class=\"fa fa-shield\" style=\"color: "
+"#2d99e5; margin-right: 2px;\"></i><a onclick=\"sec_messg();\" style=\"cursor:"
+"help;\">advertencia legal de seguridad</a>.%s"
+
+#: functions.php:1073
+msgid "Remote data"
+msgstr "Datos de acceso"
+
+#: functions.php:1102
+msgid "Primary"
+msgstr "Primario"
+
+#: functions.php:1103
+msgid "Secondary"
+msgstr "Secundario"
+
+#: functions.php:1117
+#, php-format
+msgid "Page %s"
+msgstr "Página %s"
+
+#: functions.php:1134
+msgid "Read more"
+msgstr "Seguir leyendo"
+
+#: functions.php:1223
+msgctxt "post type general name"
+msgid "Entities"
+msgstr "Entidades"
+
+#: functions.php:1224
+msgctxt "post type singular name"
+msgid "Entity"
+msgstr "Entidad"
+
+#: functions.php:1225
+msgctxt "admin menu"
+msgid "Entities"
+msgstr "Entidades"
+
+#: functions.php:1226
+msgctxt "add new on admin bar"
+msgid "Entity"
+msgstr "Entidad"
+
+#: functions.php:1227 functions.php:1653 functions.php:1890 functions.php:2201
+#: functions.php:2379 functions.php:3035
+msgid "Add new record"
+msgstr "Nuevo registro"
+
+#: functions.php:1228
+msgid "Add new entity"
+msgstr "Añadir nueva entidad"
+
+#: functions.php:1229
+msgid "New entity"
+msgstr "Nueva entidad"
+
+#: functions.php:1230
+msgid "Edit entity"
+msgstr "Modificar entidad"
+
+#: functions.php:1231
+msgid "View entity"
+msgstr "Ver entidad"
+
+#: functions.php:1232
+msgid "All entities"
+msgstr "Todas las entidades"
+
+#: functions.php:1233
+msgid "Search entities"
+msgstr "Buscar entidades"
+
+#: functions.php:1234
+msgid "Parent entity:"
+msgstr "Entidad ancestro:"
+
+#: functions.php:1235
+msgid "No entities found"
+msgstr "No se ha encontrado ninguna entidad"
+
+#: functions.php:1236
+msgid "No entities found in Trash"
+msgstr "No se ha encontrado ninguna entidad en la papelera"
+
+#: functions.php:1259
+msgctxt "taxonomy general name"
+msgid "Typologies"
+msgstr "Tipologías"
+
+#: functions.php:1260
+msgctxt "taxonomy singular name"
+msgid "Typology"
+msgstr "Tipología"
+
+#: functions.php:1261
+msgid "Search typologies"
+msgstr "Buscar tipologías"
+
+#: functions.php:1262
+msgid "All typologies"
+msgstr "Todas las tipologías"
+
+#: functions.php:1263 functions.php:1264
+msgid "Parent typology"
+msgstr "Tipología ancestro"
+
+#: functions.php:1265
+msgid "Edit typology"
+msgstr "Modificar tipología"
+
+#: functions.php:1266
+msgid "Update typology"
+msgstr "Actualizar tipología"
+
+#: functions.php:1267
+msgid "Add new typology"
+msgstr "Añadir nueva tipología"
+
+#: functions.php:1268
+msgid "New name for typology"
+msgstr "Nuembo nombre para la tipología"
+
+#: functions.php:1269 functions.php:1570
+#: includes/csl_custom_definitions_helper.php:449
+msgid "Typology"
+msgstr "Tipología"
+
+#: functions.php:1270
+msgid "Popular typologies"
+msgstr "Tipologías más empleadas"
+
+#: functions.php:1271
+msgid "Separate typologies with commas"
+msgstr "Separar las tipologías con comas"
+
+#: functions.php:1272
+msgid "Add or remove typologies"
+msgstr "Añadir o borrar tipologías"
+
+#: functions.php:1273
+msgid "Choose from most used typologies"
+msgstr "Elegir entre las tipologías más empleadas"
+
+#: functions.php:1274
+msgid "No typologies found"
+msgstr "No se ha localizado ninguna tipología"
+
+#: functions.php:1277
+msgid "tax_typology"
+msgstr "tax_typology"
+
+#: functions.php:1280
+msgctxt "taxonomy general name"
+msgid "Ownerships"
+msgstr "Titularidades"
+
+#: functions.php:1281
+msgctxt "taxonomy singular name"
+msgid "Ownership"
+msgstr "Titularidad"
+
+#: functions.php:1282
+msgid "Search ownerships"
+msgstr "Buscar titularidades"
+
+#: functions.php:1283
+msgid "All ownerships"
+msgstr "Todas las titularidades"
+
+#: functions.php:1284 functions.php:1285
+msgid "Parent ownership"
+msgstr "Titularidad ancestro"
+
+#: functions.php:1286
+msgid "Edit ownership"
+msgstr "Modificar titularidad"
+
+#: functions.php:1287
+msgid "Update ownership"
+msgstr "Actualizar titularidad"
+
+#: functions.php:1288
+msgid "Add new ownership"
+msgstr "Añadir nueva titularidad"
+
+#: functions.php:1289
+msgid "New name for ownership"
+msgstr "Nuevo nombre para la titularidad"
+
+#: functions.php:1290 includes/csl_custom_definitions_helper.php:450
+msgid "Ownership"
+msgstr "Titularidad"
+
+#: functions.php:1291
+msgid "Popular ownerships"
+msgstr "Titularidades más empleadas"
+
+#: functions.php:1292
+msgid "Separate ownerships with commas"
+msgstr "Separar las titularidades con comas"
+
+#: functions.php:1293
+msgid "Add or remove ownerships"
+msgstr "Añadir o borrar titularidades"
+
+#: functions.php:1294
+msgid "Choose from most used ownerships"
+msgstr "Elegir entre las titularidades más empleadas"
+
+#: functions.php:1295
+msgid "No ownerships found"
+msgstr "No se ha localizado ninguna titularidad"
+
+#: functions.php:1298
+msgid "tax_ownership"
+msgstr "tax_ownership"
+
+#: functions.php:1301
+msgctxt "taxonomy general name"
+msgid "Keywords"
+msgstr "Palabras clave"
+
+#: functions.php:1302
+msgctxt "taxonomy singular name"
+msgid "Keyword"
+msgstr "Palabra clave"
+
+#: functions.php:1303
+msgid "Search keywords"
+msgstr "Buscar palabras clave"
+
+#: functions.php:1304
+msgid "All keywords"
+msgstr "Todas las palabras clave"
+
+#: functions.php:1305 functions.php:1306
+msgid "Parent keyword"
+msgstr "Palabra clave ancestro"
+
+#: functions.php:1307
+msgid "Edit keyword"
+msgstr "Modificar palabra clave"
+
+#: functions.php:1308
+msgid "Update keyword"
+msgstr "Actualizar palabra clave"
+
+#: functions.php:1309
+msgid "Add new keyword"
+msgstr "Añadir nueva palabra clave"
+
+#: functions.php:1310
+msgid "New name for keyword"
+msgstr "Nuevo nombre parala palabra clave"
+
+#: functions.php:1311 includes/csl_custom_definitions_helper.php:451
+msgid "Keyword"
+msgstr "Palabra clave"
+
+#: functions.php:1312
+msgid "Popular keywords"
+msgstr "Palabras clave más empleadas"
+
+#: functions.php:1313
+msgid "Separate keywords with commas"
+msgstr "Separar las palabras clave con comas"
+
+#: functions.php:1314
+msgid "Add or remove keywords"
+msgstr "Añadir o borrar palabras clave"
+
+#: functions.php:1315
+msgid "Choose from most used keywords"
+msgstr "Elegir entre las palabras clave más empleadas"
+
+#: functions.php:1316
+msgid "No keywords found"
+msgstr "No se ha localizado ninguna palabra clave"
+
+#: functions.php:1319
+msgid "tax_keyword"
+msgstr "tax_keyword"
+
+#: functions.php:1324
+msgid "Identification"
+msgstr "Identificación"
+
+#: functions.php:1327 includes/csl_custom_definitions_helper.php:376
+msgid "Alternate name"
+msgstr "Nombre alternativo"
+
+#: functions.php:1328
+msgid "Enter the name of the entity in the vernacular or any alias thereof."
+msgstr ""
+"Escriba el nombre de la entidad en lengua vernácula o cualquier alias de la "
+"misma."
+
+#: functions.php:1333 functions.php:1569 functions.php:2604 functions.php:2778
+#: includes/csl_custom_ajax_helper.php:603
+#: includes/csl_custom_ajax_helper.php:647
+#: includes/csl_custom_definitions_helper.php:377
+#: includes/csl_custom_definitions_helper.php:430
+msgid "Town"
+msgstr "Localidad"
+
+#: functions.php:1334
+msgid ""
+"Enter the name of the town where the headquarters of the entity is located. "
+"Field verified by <a target=\"_blank\" href=\"http://www.geonames.org"
+"\">GeoNames</a>."
+msgstr ""
+"Escriba el nombre de la localidad donde se ubica la sede principal de la "
+"entidad. Campo verificado por <a target=\"_blank\" href=\"http://www.geonames."
+"org\">GeoNames</a>."
+
+#: functions.php:1340 functions.php:1342 functions.php:1422
+#: includes/csl_custom_definitions_helper.php:378 index.php:485
+msgid "URL"
+msgstr "URL"
+
+#: functions.php:1341
+msgid ""
+"Enter the main corporate web page URL. Field verified by direct query and "
+"results validation."
+msgstr ""
+"Escriba la dirección URL de la página web principal de la entidad. Campo "
+"verificado por consulta directa y validación de resultados."
+
+#: functions.php:1347 includes/csl_custom_definitions_helper.php:379
+#: includes/csl_custom_shortcodes_helper.php:767
+#: includes/csl_custom_shortcodes_helper.php:891 index.php:484
+msgid "EMail"
+msgstr "Correo electrónico"
+
+#: functions.php:1348
+msgid ""
+"Enter the main corporate email address. Field verified by field validation."
+msgstr ""
+"Escriba la dirección de correo electrónico principal de la entidad. Campo "
+"verificado por validación."
+
+#: functions.php:1353 includes/csl_custom_dashboard_helper.php:250
+#: includes/csl_custom_definitions_helper.php:380
+msgid "Phone"
+msgstr "Teléfono"
+
+#: functions.php:1354
+msgid ""
+"Enter the main corporate phone number (only one). Field verified by field "
+"validation."
+msgstr ""
+"Escriba el número de teléfono principal de la entidad. Campo verificado por "
+"validación."
+
+#: functions.php:1359 includes/csl_custom_definitions_helper.php:381
+msgid "Fax"
+msgstr "Fax"
+
+#: functions.php:1360
+msgid ""
+"Enter the main corporate fax number (only one). Field verified by field "
+"validation."
+msgstr ""
+"Escriba el número de fax principal de la entidad. Campo verificado por "
+"validación."
+
+#: functions.php:1366
+msgid "Description"
+msgstr "Descripción"
+
+#: functions.php:1369 includes/csl_custom_definitions_helper.php:382
+msgid "Chief executive Officer"
+msgstr "Máximo responsable"
+
+#: functions.php:1370
+msgid ""
+"Enter the name of the entity CEO, if avaliable and/or suitable. If not, is "
+"possible to set the name of the main company holding the property of the "
+"entity."
+msgstr ""
+"Escriba el nombre de la persona responsable máxima de la entidad, si se conoce "
+"y/o es procedente. Si no, es posible escribir el nombre del organismo "
+"propietario de la entidad."
+
+#: functions.php:1375 includes/csl_custom_definitions_helper.php:383
+msgid "Relationship type"
+msgstr "Tipo de relación"
+
+#: functions.php:1376
+msgid ""
+"Enter the kind of relationship between this entity and any other already saved."
+msgstr ""
+"Escriba el tipo de relación entre esta entidad y cualquier otra previamente "
+"grabada."
+
+#: functions.php:1378
+msgid "Main entity"
+msgstr "Entidad principal"
+
+#: functions.php:1379
+msgid "Secondary entity"
+msgstr "Entidad secundaria"
+
+#: functions.php:1380
+msgid "Auxiliar entity"
+msgstr "Entidad auxiliar"
+
+#: functions.php:1386 includes/csl_custom_definitions_helper.php:384
+#: index.php:491
+msgid "Parent entity"
+msgstr "Entidad matriz"
+
+#: functions.php:1387
+msgid ""
+"Enter the parent entity, if available or suitable. Field verified by internal "
+"lookup."
+msgstr ""
+"Escriba la entidad ancestro, si está disponible o es pertinente. Campo "
+"verificado por búsqueda interna en la tabla de entidades."
+
+#: functions.php:1394 functions.php:2647
+msgid "Location"
+msgstr "Ubicación"
+
+#: functions.php:1397 functions.php:2650
+#: includes/csl_custom_definitions_helper.php:385
+#: includes/csl_custom_definitions_helper.php:434 index.php:472 index.php:475
+#: index.php:479
+msgid "Coordinates"
+msgstr "Coordenadas"
+
+#: functions.php:1398 functions.php:2651
+msgid "This field is read only."
+msgstr "Este campo no puede ser modificado."
+
+#: functions.php:1403 functions.php:2656
+#: includes/csl_custom_dashboard_helper.php:253
+#: includes/csl_custom_definitions_helper.php:386
+#: includes/csl_custom_definitions_helper.php:435
+msgid "Address"
+msgstr "Dirección postal"
+
+#: functions.php:1404
+msgid ""
+"Enter the postal address where the headquarters of the entity is located. "
+"Field verified by <a target=\"_blank\" href=\"http://maps.google.com\">Google "
+"Maps</a>."
+msgstr ""
+"Escriba la dirección postal de la sede principal de la entidad. Campo "
+"verificado por <a target=\"_blank\" href=\"http://maps.google.com\">Google "
+"Maps</a>."
+
+#: functions.php:1411
+msgid "Additional network addresses"
+msgstr "Direcciones de red adicionales"
+
+#: functions.php:1414 includes/csl_custom_ajax_helper.php:827
+#: includes/csl_custom_definitions_helper.php:387 index.php:486
+msgid "RSS URI"
+msgstr "URI RSS"
+
+#: functions.php:1415
+msgid ""
+"Enter any RSS/ATOM feed URI suitable from this entity. Field verified by "
+"direct query and results validation."
+msgstr ""
+"Escriba cualquier dirección (URI) de sindicación RSS/ATOM de esta entidad. "
+"Campo verificado por consulta directa y validación de resultados."
+
+#: functions.php:1420 includes/csl_custom_definitions_helper.php:388
+#: index.php:487
+msgid "HTML URI"
+msgstr "URI HTML"
+
+#: functions.php:1421
+msgid ""
+"Enter any additional HTML URI suitable from this entity. Field verified by "
+"direct query and results validation."
+msgstr ""
+"Escriba cualquier dirección (URI) adicional HTML de esta entidad. Campo "
+"verificado por consulta directa y validación de resultados."
+
+#: functions.php:1428 functions.php:1779 functions.php:2089 functions.php:2275
+#: functions.php:3118
+msgid "Related records"
+msgstr "Registros relacionados"
+
+#: functions.php:1431
+msgid "Related exhibitions"
+msgstr "Exposiciones relacionadas"
+
+#: functions.php:1432
+msgid "List of exhibitions located using a URI of the entity."
+msgstr "Lista de exposiciones localizadas utilizando una URI de la entidad"
+
+#: functions.php:1438
+msgid "Related people"
+msgstr "Actores relacionados"
+
+#: functions.php:1439
+msgid "List of people linked up to the entity."
+msgstr "Lista de actores relacionados con la entidad"
+
+#: functions.php:1445
+msgid "Related papers"
+msgstr "Catálogos relacionados"
+
+#: functions.php:1446
+msgid "List of papers sponsored by the entity."
+msgstr "Lista de catálogos patrocinados por la entidad"
+
+#: functions.php:1452
+#, php-format
+msgid ""
+"See the <a href=\"%s?TB_iframe=true&height=600&amp;width=550\" title=\"SIRIUS-"
+"M Asessments Table. Valuation Models\" class=\"thickbox\"><strong>valuation "
+"models</strong></a> to find out which elements of the main website of the "
+"entity must be qualified."
+msgstr ""
+"Consulte los <a href=\"%s?TB_iframe=true&height=600&amp;width=550\" title="
+"\"Calificación SIRIUS-M . Modelos de valoración\" class=\"thickbox"
+"\"><strong>modelos de valoración</strong></a> para saber qué elementos hay que "
+"calificar de la sede web principal."
+
+#: functions.php:1457
+msgid "Internet assesment"
+msgstr "Valoración Internet"
+
+#: functions.php:1460 includes/csl_custom_definitions_helper.php:389
+msgid "Total rank"
+msgstr "Puntuación total"
+
+#: functions.php:1467 includes/csl_custom_definitions_helper.php:390
+msgid "General aspects"
+msgstr "Aspectos generales"
+
+#: functions.php:1473 includes/csl_custom_definitions_helper.php:391
+msgid "Identity and information"
+msgstr "Identidad e información"
+
+#: functions.php:1479 includes/csl_custom_definitions_helper.php:392
+msgid "Navigation and structure"
+msgstr "Navegación y estructura"
+
+#: functions.php:1485 includes/csl_custom_definitions_helper.php:393
+msgid "Labeling"
+msgstr "Rotulación"
+
+#: functions.php:1491 includes/csl_custom_definitions_helper.php:394
+msgid "Page layout"
+msgstr "Formato de página"
+
+#: functions.php:1497 includes/csl_custom_definitions_helper.php:395
+msgid "Understandability and ease of information"
+msgstr "Comprensibilidad y facilidad de información"
+
+#: functions.php:1503 includes/csl_custom_definitions_helper.php:396
+msgid "Control and feedback"
+msgstr "Control y retroalimentación"
+
+#: functions.php:1509 includes/csl_custom_definitions_helper.php:397
+msgid "Multimedia elements"
+msgstr "Elementos multimedios"
+
+#: functions.php:1515 includes/csl_custom_definitions_helper.php:398
+#: includes/csl_custom_post_helper.php:128
+msgid "Search"
+msgstr "Buscar"
+
+#: functions.php:1521 includes/csl_custom_definitions_helper.php:399
+msgid "Help"
+msgstr "Ayuda"
+
+#: functions.php:1527 includes/csl_custom_definitions_helper.php:400
+msgid "SEO"
+msgstr "Posicionamiento web (SEO)"
+
+#: functions.php:1533 includes/csl_custom_definitions_helper.php:401
+msgid "Social networks"
+msgstr "Redes sociales"
+
+#: functions.php:1541
+msgid "Entity status"
+msgstr "Estado de la entidad"
+
+#: functions.php:1546
+msgid "Record checkup info"
+msgstr "Información sobre la verificación del registro"
+
+#: functions.php:1547
+msgid "Record checkup"
+msgstr "Verificación del registro"
+
+#: functions.php:1554
+msgid "Working on record checkup&hellip;"
+msgstr "Verificando registro&hellip;"
+
+#: functions.php:1568 includes/csl_custom_ajax_helper.php:604
+#: includes/csl_custom_ajax_helper.php:826
+msgid "Entity"
+msgstr "Entidad"
+
+#: functions.php:1571
+msgid "Has URIs?"
+msgstr "URIs grabadas"
+
+#: functions.php:1572 functions.php:1818 functions.php:2108 functions.php:2307
+#: functions.php:2782 functions.php:3139 functions.php:3300
+#: includes/csl_custom_ajax_helper.php:605
+#: includes/csl_custom_ajax_helper.php:649
+#: includes/csl_custom_ajax_helper.php:665
+#: includes/csl_custom_ajax_helper.php:710
+#: includes/csl_custom_ajax_helper.php:755
+#: includes/csl_custom_ajax_helper.php:848
+#: includes/csl_custom_dashboard_helper.php:552
+#: includes/csl_custom_dashboard_helper.php:603
+#: includes/csl_custom_dashboard_helper.php:673
+#: includes/csl_custom_dashboard_helper.php:744
+#: includes/csl_custom_dashboard_helper.php:794
+#: includes/csl_custom_dashboard_helper.php:823
+msgid "User"
+msgstr "Usuario"
+
+#: functions.php:1573 functions.php:1819 functions.php:2109 functions.php:2308
+#: functions.php:2783 functions.php:3140 functions.php:3301
+#: includes/csl_custom_dashboard_helper.php:1134
+msgid "Date"
+msgstr "Fecha"
+
+#: functions.php:1586 functions.php:1602 functions.php:1832 functions.php:1848
+#: functions.php:2122 functions.php:2129 functions.php:2150 functions.php:2321
+#: functions.php:2337 functions.php:2842 functions.php:2849 functions.php:2856
+#: functions.php:2863 functions.php:2879 functions.php:2894 functions.php:3332
+#: includes/csl_custom_ajax_helper.php:53
+msgid "Not set"
+msgstr "[No consta]"
+
+#: functions.php:1649
+msgctxt "post type general name"
+msgid "People"
+msgstr "Actores"
+
+#: functions.php:1650
+msgctxt "post type singular name"
+msgid "Person"
+msgstr "Actor"
+
+#: functions.php:1651
+msgctxt "admin menu"
+msgid "People"
+msgstr "Actores"
+
+#: functions.php:1652
+msgctxt "add new on admin bar"
+msgid "Person"
+msgstr "Actor"
+
+#: functions.php:1654
+msgid "Add new person"
+msgstr "Añadir nuevo actor"
+
+#: functions.php:1655
+msgid "New person"
+msgstr "Nuevo actor"
+
+#: functions.php:1656
+msgid "Edit person"
+msgstr "Modificar actor"
+
+#: functions.php:1657
+msgid "View person"
+msgstr "Ver actor"
+
+#: functions.php:1658
+msgid "All people"
+msgstr "Todos los actores"
+
+#: functions.php:1659
+msgid "Search people"
+msgstr "Buscar actores"
+
+#: functions.php:1660
+msgid "Parent person:"
+msgstr "Actor ancestro:"
+
+#: functions.php:1661
+msgid "No people found"
+msgstr "No se han encontrado actores"
+
+#: functions.php:1662
+msgid "No people found in Trash"
+msgstr "No se han encontrado actores en la papelera"
+
+#: functions.php:1686
+msgctxt "taxonomy general name"
+msgid "Activities"
+msgstr "Actividades"
+
+#: functions.php:1687
+msgctxt "taxonomy singular name"
+msgid "Activity"
+msgstr "Actividad"
+
+#: functions.php:1688
+msgid "Search activities"
+msgstr "Buscar actividades"
+
+#: functions.php:1689
+msgid "All activities"
+msgstr "Todas las actividades"
+
+#: functions.php:1690 functions.php:1691
+msgid "Parent activity"
+msgstr "Actividad ancestro"
+
+#: functions.php:1692
+msgid "Edit activity"
+msgstr "Modificar actividad"
+
+#: functions.php:1693
+msgid "Update activity"
+msgstr "Actualizar actividad"
+
+#: functions.php:1694
+msgid "Add new activity"
+msgstr "Añadir nueva actividad"
+
+#: functions.php:1695
+msgid "New name for activity"
+msgstr "Nuevo nombre para actividad"
+
+#: functions.php:1696 functions.php:1817 includes/csl_custom_ajax_helper.php:711
+#: includes/csl_custom_dashboard_helper.php:382
+#: includes/csl_custom_definitions_helper.php:452
+msgid "Activity"
+msgstr "Actividad"
+
+#: functions.php:1697
+msgid "Popular activities"
+msgstr "Actividades más empleadas"
+
+#: functions.php:1698
+msgid "Separate activities with commas"
+msgstr "Separar actividades con comas"
+
+#: functions.php:1699
+msgid "Add or remove activities"
+msgstr "Añadir o borrar actividades"
+
+#: functions.php:1700
+msgid "Choose from most used activities"
+msgstr "Elegir entre las actividades más empleadas"
+
+#: functions.php:1701
+msgid "No activities found"
+msgstr "No se han encontrado actividades"
+
+#: functions.php:1704
+msgid "tax_activity"
+msgstr "tax_activity"
+
+#: functions.php:1709
+msgid "Identity"
+msgstr "Identidad"
+
+#: functions.php:1712 includes/csl_custom_definitions_helper.php:402
+msgid "Person type"
+msgstr "Tipo de actor"
+
+#: functions.php:1713
+msgid ""
+"Select whether it is an individual person, or if it is a group of persons."
+msgstr "Seleccione si se trata de un único individuo o de un grupo de personas."
+
+#: functions.php:1715
+msgid "Individual person"
+msgstr "Individuo"
+
+#: functions.php:1715
+msgid "Invidual person"
+msgstr "Individuo"
+
+#: functions.php:1716
+msgid "Group of persons"
+msgstr "Grupo de personas"
+
+#: functions.php:1722 includes/csl_custom_definitions_helper.php:403
+msgid "Last name"
+msgstr "Apellidos"
+
+#: functions.php:1723
+msgid "Enter the last name of the person."
+msgstr "Escriba los apellidos del actor."
+
+#: functions.php:1728 includes/csl_custom_definitions_helper.php:404
+msgid "First name"
+msgstr "Nombre de pila"
+
+#: functions.php:1729
+msgid "Enter the first name of the person."
+msgstr "Escriba el nombre de pila del actor."
+
+#: functions.php:1734 includes/csl_custom_definitions_helper.php:405
+msgid "Gender"
+msgstr "Sexo"
+
+#: functions.php:1735
+msgid "Mark the gender of the person."
+msgstr "Seleccione el sexo del actor."
+
+#: functions.php:1737
+msgid "Undeclared"
+msgstr "No declarado"
+
+#: functions.php:1738
+msgid "Male"
+msgstr "Masculino"
+
+#: functions.php:1739
+msgid "Female"
+msgstr "Femenino"
+
+#: functions.php:1745 includes/csl_custom_definitions_helper.php:406
+msgid "Birth date"
+msgstr "Fecha de nacimiento"
+
+#: functions.php:1746 functions.php:1752
+msgid ""
+"Enter the birth date of the person. 1 of January for any year, 1 of month for "
+"any month."
+msgstr ""
+"Escriba la fecha de nacimiento del actor. 1 de enero para cualquier año, 1 del "
+"mes para cualquier mes."
+
+#: functions.php:1751 includes/csl_custom_definitions_helper.php:407
+msgid "Death date"
+msgstr "Fecha de defunción"
+
+#: functions.php:1757 functions.php:1816
+#: includes/csl_custom_definitions_helper.php:408
+msgid "Country"
+msgstr "País"
+
+#: functions.php:1758
+msgid ""
+"Enter the country (citizenship purposes) of the person. Field verified by <a "
+"target=\"_blank\" href=\"http://www.geonames.org\">GeoNames</a>."
+msgstr ""
+"Escriba el país (a efectos de nacionalidad) del actor. Campo verificado por <a "
+"target=\"_blank\" href=\"http://www.geonames.org\">GeoNames</a>."
+
+#: functions.php:1764 includes/csl_custom_definitions_helper.php:409
+#: index.php:492
+msgid "Entity relation"
+msgstr "Relación con entidad"
+
+#: functions.php:1765
+msgid ""
+"Enter the entity with which the person is related, if applicable. Field "
+"verified by internal lookup."
+msgstr ""
+"Escriba la entidad con la que este actor se relaciona, si es procedente. Campo "
+"verificado por búsqueda interna en la tabla de entidades."
+
+#: functions.php:1771 includes/csl_custom_definitions_helper.php:410
+msgid "Person relation"
+msgstr "Relación con actor"
+
+#: functions.php:1772
+msgid ""
+"Enter other person with which the current person is related, if applicable. "
+"Could be a GROUP person. This is the right method to add people to a GROUP. "
+"Field verified by internal lookup."
+msgstr ""
+"Escriba otro actor con el que este actor se relaciona, si es procedente. Campo "
+"verificado por búsqueda interna en la tabla de actores."
+
+#: functions.php:1782
+msgid "Related exhibitions as author"
+msgstr "Lista de exposiciones como autor"
+
+#: functions.php:1783
+msgid "List of exhibitions linked up to the person as author."
+msgstr "Lista de exposiciones vinculadas al actor actuando como autor."
+
+#: functions.php:1789
+msgid "Related exhibitions as curator"
+msgstr "Lista de exposiciones como comisario"
+
+#: functions.php:1790
+msgid "List of exhibitions linked up to the person as curator."
+msgstr "Lista de exposiciones vinculadas al actor actuando como comisario."
+
+#: functions.php:1796
+msgid "Related exhibitions as collector"
+msgstr "Lista de exposiciones como coleccionista"
+
+#: functions.php:1797
+msgid "List of exhibitions linked up to the person as collector."
+msgstr "Lista de exposiciones vinculadas al actor actuando como coleccionista."
+
+#: functions.php:1803
+msgid "Related papers as author"
+msgstr "Lista de catálogos como autor"
+
+#: functions.php:1804
+msgid "List of papers linked up to the person as author."
+msgstr "Lista de catálogos vinculados al actor actuando como autor."
+
+#: functions.php:1815
+msgid "Person"
+msgstr "Actor"
+
+#: functions.php:1886
+msgctxt "post type general name"
+msgid "Papers"
+msgstr "Catálogos"
+
+#: functions.php:1887
+msgctxt "post type singular name"
+msgid "Paper"
+msgstr "Catálogo"
+
+#: functions.php:1888
+msgctxt "admin menu"
+msgid "Papers"
+msgstr "Catálogos"
+
+#: functions.php:1889
+msgctxt "add new on admin bar"
+msgid "Paper"
+msgstr "Catálogo"
+
+#: functions.php:1891
+msgid "Add new paper"
+msgstr "Añadir nuevo catálogo"
+
+#: functions.php:1892
+msgid "New paper"
+msgstr "Nuevo catálogo"
+
+#: functions.php:1893
+msgid "Edit paper"
+msgstr "Modificar catálogo"
+
+#: functions.php:1894
+msgid "View paper"
+msgstr "Ver catálogo"
+
+#: functions.php:1895
+msgid "All papers"
+msgstr "Todos los catálogos"
+
+#: functions.php:1896
+msgid "Search papers"
+msgstr "Buscar catálogos"
+
+#: functions.php:1897
+msgid "Parent paper:"
+msgstr "Catálogo ancestro:"
+
+#: functions.php:1898
+msgid "No papers found"
+msgstr "No se han encontrado catálogos"
+
+#: functions.php:1899
+msgid "No papers found in Trash"
+msgstr "No se han encontrado catálogos en la papelera"
+
+#: functions.php:1921
+msgctxt "taxonomy general name"
+msgid "Publishers"
+msgstr "Editoriales"
+
+#: functions.php:1922
+msgctxt "taxonomy singular name"
+msgid "Publisher"
+msgstr "Editorial"
+
+#: functions.php:1923
+msgid "Search publishers"
+msgstr "Buscar editoriales"
+
+#: functions.php:1924
+msgid "All publishers"
+msgstr "Todas las editoriales"
+
+#: functions.php:1925 functions.php:1926
+msgid "Parent publisher"
+msgstr "Editorial ancestro"
+
+#: functions.php:1927
+msgid "Edit publisher"
+msgstr "Modificar editorial"
+
+#: functions.php:1928
+msgid "Update publisher"
+msgstr "Actualizar editorial"
+
+#: functions.php:1929
+msgid "Add new publisher"
+msgstr "Añadir nueva editorial"
+
+#: functions.php:1930
+msgid "New name for publisher"
+msgstr "Nuevo nombre para editorial"
+
+#: functions.php:1931 functions.php:2107
+#: includes/csl_custom_definitions_helper.php:453
+msgid "Publisher"
+msgstr "Editorial"
+
+#: functions.php:1932
+msgid "Popular publishers"
+msgstr "Editoriales más empleadas"
+
+#: functions.php:1933
+msgid "Separate publishers with commas"
+msgstr "Separar editoriales con comas"
+
+#: functions.php:1934
+msgid "Add or remove publishers"
+msgstr "Añadir o borrar editoriales"
+
+#: functions.php:1935
+msgid "Choose from most used publishers"
+msgstr "Escoger entre editoriales más empleadas"
+
+#: functions.php:1936
+msgid "No publishers found"
+msgstr "No se han encontrado editoriales"
+
+#: functions.php:1939
+msgid "tax_publisher"
+msgstr "tax_publisher"
+
+#: functions.php:1942
+msgctxt "taxonomy general name"
+msgid "Catalog typologies"
+msgstr "Tipologías de catálogo"
+
+#: functions.php:1943
+msgctxt "taxonomy singular name"
+msgid "Catalog typology"
+msgstr "Tipología de catálogo"
+
+#: functions.php:1944
+msgid "Search catalog typologies"
+msgstr "Buscar tilopogías de catálogo"
+
+#: functions.php:1945
+msgid "All catalog typologies"
+msgstr "Todas las tilopogías de catálogo"
+
+#: functions.php:1946 functions.php:1947
+msgid "Parent catalog typology"
+msgstr "Tilopogía de catálogo ancestro"
+
+#: functions.php:1948
+msgid "Edit catalog typology"
+msgstr "Modificar tilopogía de catálogo"
+
+#: functions.php:1949
+msgid "Update catalog typology"
+msgstr "Actualizar tilopogía de catálogo"
+
+#: functions.php:1950
+msgid "Add new catalog typology"
+msgstr "Añadir nueva tipología de catálogo"
+
+#: functions.php:1951
+msgid "New name for catalog typology"
+msgstr "Nuevo nombre para la tipología de cagtálogo"
+
+#: functions.php:1952 includes/csl_custom_definitions_helper.php:454
+msgid "Catalog typology"
+msgstr "Tilopogía de catálogo"
+
+#: functions.php:1953
+msgid "Popular catalog typologies"
+msgstr "Tipologías de catálogo más empleadas"
+
+#: functions.php:1954
+msgid "Separate catalog typologies with commas"
+msgstr "Separar las tipologías de catálogo con comas"
+
+#: functions.php:1955
+msgid "Add or remove catalog typologies"
+msgstr "Añadir o borrar tipologías de catálogo"
+
+#: functions.php:1956
+msgid "Choose from most used catalog typologies"
+msgstr "Elegir entre las tipologías de catálogo más empleadas"
+
+#: functions.php:1957
+msgid "No catalog typologies found"
+msgstr "No se ha localizado ninguna tipología de catálogo"
+
+#: functions.php:1960
+msgid "tax_catalog_typology"
+msgstr "tax_catalog_typology"
+
+#: functions.php:1963 functions.php:3066
+msgid "Additional titles"
+msgstr "Títulos adicionales"
+
+#: functions.php:1966
+msgid "Parallel titles"
+msgstr "Títulos paralelos"
+
+#: functions.php:1967
+msgid "Enter the parallel title for the publishing."
+msgstr "Escriba el título paralelo del catálogo."
+
+#: functions.php:1973
+msgid "Statement of responsibility"
+msgstr "Mención de responsabilidad"
+
+#: functions.php:1976 functions.php:2106
+#: includes/csl_custom_definitions_helper.php:413 index.php:493
+msgid "Paper author"
+msgstr "Autor del catálogo"
+
+#: functions.php:1977
+msgid ""
+"Enter the person acting as paper author, if applicable. Field verified by "
+"internal lookup."
+msgstr ""
+"Escriba los actores autores del catálogo. Campo verificado por búsqueda "
+"interna en la tabla de actores."
+
+#: functions.php:1984 includes/csl_custom_definitions_helper.php:414
+msgid "Paper editor"
+msgstr "Editor del catálogo"
+
+#: functions.php:1985
+msgid ""
+"Enter the person acting as paper editor, if applicable. Field verified by "
+"internal lookup."
+msgstr ""
+"Escriba los actores editoras del catálogo. Campo verificado por búsqueda "
+"interna en la tabla de actores."
+
+#: functions.php:1991
+msgid "Illustrator or photographer"
+msgstr "Ilustrador o fotógrafo"
+
+#: functions.php:1992
+msgid ""
+"Enter the person acting as paper illustrator or photographer, if applicable. "
+"Field verified by internal lookup."
+msgstr ""
+"Escriba los actores ilustradores del catálogo. Campo verificado por búsqueda "
+"interna en la tabla de actores."
+
+#: functions.php:1998 includes/csl_custom_definitions_helper.php:416
+#: index.php:494
+msgid "Sponsorship"
+msgstr "Patrocinio"
+
+#: functions.php:1999
+msgid ""
+"Enter the entity acting as sponsor for the paper, if applicable. Field "
+"verified by internal lookup."
+msgstr ""
+"Escriba las entidades que actúan como patrocinadoras del catálogo, si es "
+"procedente. Campo verificado por búsqueda interna en la tabla de entidades."
+
+#: functions.php:2006
+msgid "Bibliographic record and physical description"
+msgstr "Registro bibliográfico y descripción física"
+
+#: functions.php:2009 functions.php:2549
+#: includes/csl_custom_definitions_helper.php:411
+#: includes/csl_custom_definitions_helper.php:424
+msgid "Publishing date"
+msgstr "Fecha de publicación"
+
+#: functions.php:2010
+msgid ""
+"Enter the publishing date for the paper. 1 of January for any year, 1 of month "
+"for any month."
+msgstr ""
+"Escriba la fecha de publicación del catálogo. 1 de enero para cualquier año, 1 "
+"del mes para cualquier mes."
+
+#: functions.php:2015 functions.php:2105
+#: includes/csl_custom_definitions_helper.php:412
+msgid "Publishing place"
+msgstr "Lugar de publicación"
+
+#: functions.php:2016
+msgid ""
+"Enter the publishing place. Field verified by <a target=\"_blank\" href="
+"\"http://www.geonames.org\">GeoNames</a>."
+msgstr ""
+"Escriba el lugar de publicación. Campo verificado por <a target=\"_blank\" "
+"href=\"http://www.geonames.org\">GeoNames</a>."
+
+#: functions.php:2021
+msgid "Edition statement"
+msgstr "Edición"
+
+#: functions.php:2022
+msgid "Enter the edition statement for the paper, if applicable."
+msgstr "Escriba la edición del catálogo, si es pertinente."
+
+#: functions.php:2027
+msgid "Contains images?"
+msgstr "¿Contiene imágenes?"
+
+#: functions.php:2028
+msgid ""
+"Select the appropriate response whether or not the publication contains images."
+msgstr "Elija la respuesta apropiada si el catálogo incluye o no imágenes."
+
+#: functions.php:2030
+msgid "Yes, it contains images"
+msgstr "Sí, contiene imágenes"
+
+#: functions.php:2031
+msgid "No, it does not contain images"
+msgstr "No, no contiene imágenes"
+
+#: functions.php:2037
+msgid "Index of contents"
+msgstr "Índice de contenidos"
+
+#: functions.php:2038
+msgid "Enter the index of contents for the paper, if applicable."
+msgstr "Escriba el índice de contenidos del catálogo si es pertinente."
+
+#: functions.php:2044
+msgid "Description of annex material"
+msgstr "Descripción del material anexo"
+
+#: functions.php:2045
+msgid ""
+"Enter the description of annex material for the paper, if included or "
+"applicable."
+msgstr "Escriba la descripción del material anexo del catálogo si es pertinente."
+
+#: functions.php:2051
+msgid "Facsimile link"
+msgstr "Enlace a facsímil"
+
+#: functions.php:2052
+msgid ""
+"Enter the facsimile link URL, if applicable. Field verified by direct query "
+"and results validation."
+msgstr ""
+"Escriba la dirección URL del facsímil del catálogo, si es pertinente. Campo "
+"verificado por consulta directa y validación de resultados."
+
+#: functions.php:2053
+msgid "facsimile_link"
+msgstr "facsimile_link"
+
+#: functions.php:2058
+msgid "Document location"
+msgstr "Ubicación del documento"
+
+#: functions.php:2059
+msgid ""
+"Enter the library or institution name where is located the document consulted, "
+"if applicable."
+msgstr ""
+"Escriba la biblioteca o institución donde se ubica el documento consultado, si "
+"es pertinente."
+
+#: functions.php:2065
+msgid "Artwork authors"
+msgstr "Autores de obras"
+
+#: functions.php:2068 functions.php:2707 functions.php:3079
+#: includes/csl_custom_definitions_helper.php:417
+#: includes/csl_custom_definitions_helper.php:439 index.php:498
+msgid "Artwork author"
+msgstr "Autoría"
+
+#: functions.php:2069
+msgid ""
+"Enter the person acting as one of the artwork authors included in paper, if "
+"applicable. Field verified by internal lookup."
+msgstr ""
+"Escriba el actor que actúa como uno de los autores de obras incluídas en el "
+"catálogo, si está disponible o es pertinente. Campo verificado por búsqueda "
+"interna en la tabla de actores."
+
+#: functions.php:2077
+msgid "Registered artwork"
+msgstr "Obras registradas"
+
+#: functions.php:2080
+msgid "Artwork piece"
+msgstr "Obra"
+
+#: functions.php:2081
+msgid ""
+"Enter the artwork piece included in paper, if applicable. Field verified by "
+"internal lookup."
+msgstr ""
+"Escriba la obra incluída en el catálogo, si está disponible o es pertinente. "
+"Campo verificado por búsqueda interna en la tabla de obras."
+
+#: functions.php:2092
+msgid "Related exhibitions as catalog"
+msgstr "Lista de exposiciones como catálogo"
+
+#: functions.php:2093
+msgid "List of exhibitions linked up to the paper as catalog."
+msgstr "Lista de exposiciones vinculadas al catálogo."
+
+#: functions.php:2104
+msgid "Paper"
+msgstr "Catálogo"
+
+#: functions.php:2197
+msgctxt "post type general name"
+msgid "Companies"
+msgstr "Empresas"
+
+#: functions.php:2198
+msgctxt "post type singular name"
+msgid "Company"
+msgstr "Empresa"
+
+#: functions.php:2199
+msgctxt "admin menu"
+msgid "Companies"
+msgstr "Empresas"
+
+#: functions.php:2200
+msgctxt "add new on admin bar"
+msgid "Company"
+msgstr "Empresa"
+
+#: functions.php:2202
+msgid "Add new company"
+msgstr "Añadir nueva empresa"
+
+#: functions.php:2203
+msgid "New company"
+msgstr "Nueva empresa"
+
+#: functions.php:2204
+msgid "Edit company"
+msgstr "Modificar empresa"
+
+#: functions.php:2205
+msgid "View company"
+msgstr "Ver empresa"
+
+#: functions.php:2206
+msgid "All companies"
+msgstr "Todas las empresas"
+
+#: functions.php:2207
+msgid "Search companies"
+msgstr "Buscar empresas"
+
+#: functions.php:2208
+msgid "Parent company:"
+msgstr "Empresa ancestro:"
+
+#: functions.php:2209
+msgid "No companies found"
+msgstr "No se han encontrado empresas"
+
+#: functions.php:2210
+msgid "No companies found in Trash"
+msgstr "No se han encontrado empresas en la papelera"
+
+#: functions.php:2232
+msgctxt "taxonomy general name"
+msgid "ISIC4 Categories"
+msgstr "Categorías ISIC4"
+
+#: functions.php:2233
+msgctxt "taxonomy singular name"
+msgid "ISIC4 Category"
+msgstr "Categoría ISIC4"
+
+#: functions.php:2234
+msgid "Search ISIC4 categories"
+msgstr "Buscar categorías ISIC4"
+
+#: functions.php:2235
+msgid "All ISIC4 categories"
+msgstr "Todas las categorías ISIC4"
+
+#: functions.php:2236 functions.php:2237
+msgid "Parent ISIC4 category"
+msgstr "Categoría ISIC4 ancestro"
+
+#: functions.php:2238
+msgid "Edit ISIC4 category"
+msgstr "Modificar categoría ISIC4"
+
+#: functions.php:2239
+msgid "Update ISIC4 category"
+msgstr "Actualizar categoría ISIC4"
+
+#: functions.php:2240
+msgid "Add new ISIC4 category"
+msgstr "Añadir nueva categoría ISIC4"
+
+#: functions.php:2241
+msgid "New name for ISIC4 category"
+msgstr "Nuevo nombre para categoría ISIC4"
+
+#: functions.php:2242 functions.php:2306
+#: includes/csl_custom_definitions_helper.php:455
+msgid "ISIC4 Category"
+msgstr "Categoría ISIC4"
+
+#: functions.php:2243
+msgid "Popular ISIC4 categories"
+msgstr "Categorías ISIC4 más empleadas"
+
+#: functions.php:2244
+msgid "Separate ISIC4 categories with commas"
+msgstr "Separar categorías ISIC4 con comas"
+
+#: functions.php:2245
+msgid "Add or remove  ISIC4 categories"
+msgstr "Añadir o borrar categorías ISIC4"
+
+#: functions.php:2246
+msgid "Choose from most used  ISIC4 categories"
+msgstr "Escoger entre las categorías ISIC4 más empleadas"
+
+#: functions.php:2247
+msgid "No  ISIC4 categories found"
+msgstr "No se han encontrado categorías ISIC4"
+
+#: functions.php:2250
+msgid "tax_isic4_category"
+msgstr "tax_isic4_category"
+
+#: functions.php:2253
+msgid "Location and status"
+msgstr "Ubicación y estado"
+
+#: functions.php:2256 functions.php:2305
+#: includes/csl_custom_definitions_helper.php:418
+msgid "Company headquarter place"
+msgstr "Localidad de la sede principal"
+
+#: functions.php:2257
+msgid ""
+"Enter the company headquarter place. Field verified by <a target=\"_blank\" "
+"href=\"http://www.geonames.org\">GeoNames</a>."
+msgstr ""
+"Escriba el lugar donde se ubica la sede principal de la compañía. Campo "
+"verificado por <a target=\"_blank\" href=\"http://www.geonames.org\">GeoNames</"
+"a>."
+
+#: functions.php:2263 includes/csl_custom_definitions_helper.php:419
+msgid "Company dimension"
+msgstr "Dimensión"
+
+#: functions.php:2264
+msgid "Enter the dimension range applicable to company."
+msgstr ""
+"Escriba el rango de dimensiones (en cuanto a número de empleados se refiere) "
+"aplicable a la compañía."
+
+#: functions.php:2266
+msgid "Small bussines (< 50 employees)"
+msgstr "Pequeña empresa (< 50 empleados)"
+
+#: functions.php:2267
+msgid "Medium bussines (50-200 employees)"
+msgstr "Mediana empresa (50-200 empleados)"
+
+#: functions.php:2268
+msgid "Big bussines (>200 employees)"
+msgstr "Gran empresa (> 200 empleados)"
+
+#: functions.php:2278
+msgid "Related exhibitions as company doing museography"
+msgstr "Lista de exposiciones como empresa que realiza la museografía"
+
+#: functions.php:2279
+msgid "List of exhibitions linked up to the company as maker of museography."
+msgstr ""
+"Lista de exposiciones vinculadas a la entresa actuando como creadora de la "
+"museogfrafía de la exposición."
+
+#: functions.php:2286
+msgid "Company status"
+msgstr "Estado de la empresa"
+
+#: functions.php:2291 functions.php:2292
+msgid "ISIC4 Classification"
+msgstr "Clasificación ISIC 4"
+
+#: functions.php:2304
+msgid "Company"
+msgstr "Empresa"
+
+#: functions.php:2375
+msgctxt "post type general name"
+msgid "Exhibitions"
+msgstr "Exposiciones"
+
+#: functions.php:2376
+msgctxt "post type singular name"
+msgid "Exhibition"
+msgstr "Exposición"
+
+#: functions.php:2377
+msgctxt "admin menu"
+msgid "Exhibitions"
+msgstr "Exposiciones"
+
+#: functions.php:2378
+msgctxt "add new on admin bar"
+msgid "Exhibition"
+msgstr "Exposición"
+
+#: functions.php:2380
+msgid "Add new exhibition"
+msgstr "Añadir nueva exposición"
+
+#: functions.php:2381
+msgid "New exhibition"
+msgstr "Nueva exposición"
+
+#: functions.php:2382
+msgid "Edit exhibition"
+msgstr "Modificar exposición"
+
+#: functions.php:2383
+msgid "View exhibition"
+msgstr "Ver exposición"
+
+#: functions.php:2384
+msgid "All exhibitions"
+msgstr "Todas las exposiciones"
+
+#: functions.php:2385
+msgid "Search exhibitions"
+msgstr "Buscar exposiciones"
+
+#: functions.php:2386
+msgid "Parent exhibition:"
+msgstr "Exposición ancestro:"
+
+#: functions.php:2387
+msgid "No exhibitions found"
+msgstr "No se han encontrado exposiciones"
+
+#: functions.php:2388
+msgid "No exhibitions found in Trash"
+msgstr "No se han encontrado exposiciones en la papelera"
+
+#: functions.php:2409
+#, php-format
+msgid ""
+"If you need to get some help about how to fill in the exhibitions form, %s"
+msgstr ""
+"Si necesita ayuda sobre cómo cumplimentar el formulario de exposiciones, %s"
+
+#: functions.php:2411
+msgid "Exhibitions fill in form help"
+msgstr "Exposiciones . Ayuda sobre cumplimentación"
+
+#: functions.php:2413
+msgid "press here"
+msgstr "pulse aquí"
+
+#: functions.php:2417
+msgctxt "taxonomy general name"
+msgid "Exhibition types"
+msgstr "Tipos de exposición"
+
+#: functions.php:2418
+msgctxt "taxonomy singular name"
+msgid "Exhibition type"
+msgstr "Tipo de exposición"
+
+#: functions.php:2419
+msgid "Search exhibition types"
+msgstr "Buscar tipos de exposición"
+
+#: functions.php:2420
+msgid "All exhibition types"
+msgstr "Todos los tipos de exposición"
+
+#: functions.php:2421 functions.php:2422
+msgid "Parent exhibition type"
+msgstr "Tipo de exposición ancestro"
+
+#: functions.php:2423
+msgid "Edit exhibition type"
+msgstr "Modificar tipo de exposición"
+
+#: functions.php:2424
+msgid "Update exhibition type"
+msgstr "Actualizar tipo de exposición"
+
+#: functions.php:2425
+msgid "Add new exhibition type"
+msgstr "Añadir nuevo tipo de exposición"
+
+#: functions.php:2426
+msgid "New name for exhibition type"
+msgstr "Nuevo nombre para tipo de exposición"
+
+#: functions.php:2427 functions.php:2780
+#: includes/csl_custom_definitions_helper.php:456
+msgid "Exhibition type"
+msgstr "Tipo de exposición"
+
+#: functions.php:2428
+msgid "Popular exhibition types"
+msgstr "Tipos de exposición más empleados"
+
+#: functions.php:2429
+#, php-format
+msgid "Separate exhibition types with commas. %s"
+msgstr "Separar los tipos de exposición con comas. %s"
+
+#: functions.php:2430
+msgid "Add or remove exhibition types"
+msgstr "Añadir o borrar tipos de exposición"
+
+#: functions.php:2431
+msgid "Choose from most used exhibition types"
+msgstr "Elegir entre los tipos de exposición más empleados"
+
+#: functions.php:2432
+msgid "No exhibition types found"
+msgstr "No se han encontrado tipos de exposición"
+
+#: functions.php:2435
+msgid "tax_exhibition_type"
+msgstr "tax_exhibition_type"
+
+#: functions.php:2438
+msgctxt "taxonomy general name"
+msgid "Artwork types"
+msgstr "Tipos de obras"
+
+#: functions.php:2439
+msgctxt "taxonomy singular name"
+msgid "Artwork type"
+msgstr "Tipo de obras"
+
+#: functions.php:2440
+msgid "Search artwork types"
+msgstr "Buscar tipos de obras"
+
+#: functions.php:2441
+msgid "All artwork types"
+msgstr "Todos los tipos de obras"
+
+#: functions.php:2442 functions.php:2443
+msgid "Parent artwork type"
+msgstr "Tipo de obras ancestro"
+
+#: functions.php:2444
+msgid "Edit artwork type"
+msgstr "Modificar tipo de obras"
+
+#: functions.php:2445
+msgid "Update artwork type"
+msgstr "Actualizar tipo de obras"
+
+#: functions.php:2446
+msgid "Add new artwork type"
+msgstr "Añadir nuevo tipo de obras"
+
+#: functions.php:2447
+msgid "New name for artwork type"
+msgstr "Nuevo nombre para tipo de obras"
+
+#: functions.php:2448 includes/csl_custom_definitions_helper.php:457
+msgid "Artwork type"
+msgstr "Tipo de obras"
+
+#: functions.php:2449
+msgid "Popular artwork types"
+msgstr "Tipos de obras más empleados"
+
+#: functions.php:2450
+#, php-format
+msgid "Separate artwork types with commas. %s"
+msgstr "Separar los tipos de obras con comas. %s"
+
+#: functions.php:2451
+msgid "Add or remove artwork types"
+msgstr "Añadir o borrar tipos de obras"
+
+#: functions.php:2452
+msgid "Choose from most used artwork types"
+msgstr "Elegir entre los tipos de obras más empleados"
+
+#: functions.php:2453
+msgid "No artwork types found"
+msgstr "No se han encontrado tipos de obras"
+
+#: functions.php:2456
+msgid "tax_artwork_type"
+msgstr "tax_artwork_type"
+
+#: functions.php:2459
+msgctxt "taxonomy general name"
+msgid "Topics"
+msgstr "Temas"
+
+#: functions.php:2460
+msgctxt "taxonomy singular name"
+msgid "Topic"
+msgstr "Tema"
+
+#: functions.php:2461
+msgid "Search topics"
+msgstr "Buscar temas"
+
+#: functions.php:2462
+msgid "All topics"
+msgstr "Todos los temas"
+
+#: functions.php:2463 functions.php:2464
+msgid "Parent topic"
+msgstr "Tema ancestro"
+
+#: functions.php:2465
+msgid "Edit topic"
+msgstr "Modificar tema"
+
+#: functions.php:2466
+msgid "Update topic"
+msgstr "Actualizar tema"
+
+#: functions.php:2467
+msgid "Add new topic"
+msgstr "Añadir nuevo tema"
+
+#: functions.php:2468
+msgid "New name for topic"
+msgstr "Nuevo nombre para tema"
+
+#: functions.php:2469 includes/csl_custom_definitions_helper.php:458
+msgid "Topic"
+msgstr "Tema"
+
+#: functions.php:2470
+msgid "Popular topics"
+msgstr "Temas más empleados"
+
+#: functions.php:2471
+#, php-format
+msgid "Separate topics with commas. %s"
+msgstr "Separar los temas con comas. %s"
+
+#: functions.php:2472
+msgid "Add or remove topics"
+msgstr "Añadir o borrar temas"
+
+#: functions.php:2473
+msgid "Choose from most used topics"
+msgstr "Elegir entre los temas más empleados"
+
+#: functions.php:2474
+msgid "No artwork topics found"
+msgstr "No se han encontrado temas"
+
+#: functions.php:2477
+msgid "tax_topic"
+msgstr "tax_topic"
+
+#: functions.php:2480
+msgctxt "taxonomy general name"
+msgid "Movements"
+msgstr "Movimientos"
+
+#: functions.php:2481
+msgctxt "taxonomy singular name"
+msgid "Movement"
+msgstr "Movimiento"
+
+#: functions.php:2482
+msgid "Search movements"
+msgstr "Buscar movimientos"
+
+#: functions.php:2483
+msgid "All movements"
+msgstr "Todos los movimientos"
+
+#: functions.php:2484 functions.php:2485
+msgid "Parent movement"
+msgstr "Movimiento ancestro"
+
+#: functions.php:2486
+msgid "Edit movement"
+msgstr "Modificar movimiento"
+
+#: functions.php:2487
+msgid "Update movement"
+msgstr "Actualizar movimiento"
+
+#: functions.php:2488
+msgid "Add new movement"
+msgstr "Añadir nuevo movimiento"
+
+#: functions.php:2489
+msgid "New name for movement"
+msgstr "Nuevo nombre para movimiento"
+
+#: functions.php:2490 includes/csl_custom_definitions_helper.php:459
+msgid "Movement"
+msgstr "Movimiento"
+
+#: functions.php:2491
+msgid "Popular movements"
+msgstr "Movimientos más empleados"
+
+#: functions.php:2492
+#, php-format
+msgid "Separate movements with commas. %s"
+msgstr "Separar los movimientos con comas. %s"
+
+#: functions.php:2493
+msgid "Add or remove movements"
+msgstr "Añadir o borrar movimientos"
+
+#: functions.php:2494
+msgid "Choose from most used movements"
+msgstr "Elegir entre los movimientos más empleados"
+
+#: functions.php:2495
+msgid "No artwork movements found"
+msgstr "No se han localizado movimientos"
+
+#: functions.php:2498
+msgid "tax_movement"
+msgstr "tax_movement"
+
+#: functions.php:2501
+msgctxt "taxonomy general name"
+msgid "Periods"
+msgstr "Periodos"
+
+#: functions.php:2502
+msgctxt "taxonomy singular name"
+msgid "Period"
+msgstr "Periodo"
+
+#: functions.php:2503
+msgid "Search periods"
+msgstr "Buscar periodos"
+
+#: functions.php:2504
+msgid "All periods"
+msgstr "Todos los periodos"
+
+#: functions.php:2505 functions.php:2506
+msgid "Parent period"
+msgstr "Periodo ancestro"
+
+#: functions.php:2507
+msgid "Edit period"
+msgstr "Modificar periodo"
+
+#: functions.php:2508
+msgid "Update period"
+msgstr "Actualizar periodo"
+
+#: functions.php:2509
+msgid "Add new period"
+msgstr "Añadir nuevo periodo"
+
+#: functions.php:2510
+msgid "New name for period"
+msgstr "Nuevo nombre para periodo"
+
+#: functions.php:2511 includes/csl_custom_definitions_helper.php:460
+msgid "Period"
+msgstr "Periodo"
+
+#: functions.php:2512
+msgid "Popular periods"
+msgstr "Periodos más empleados"
+
+#: functions.php:2513
+#, php-format
+msgid "Separate periods with commas. %s"
+msgstr "Separar los periodos con comas. %s"
+
+#: functions.php:2514
+msgid "Add or remove periods"
+msgstr "Añadir o borar periodos"
+
+#: functions.php:2515
+msgid "Choose from most used periods"
+msgstr "Elegir entre los periodos más empleados"
+
+#: functions.php:2516
+msgid "No artwork periods found"
+msgstr "No se han encontrado periodos"
+
+#: functions.php:2519
+msgid "tax_period"
+msgstr "tax_period"
+
+#: functions.php:2522
+msgid "Automatic exhibition tracking (Beagle)"
+msgstr "Seguimiento automático de exposiciones (Beagle)"
+
+#: functions.php:2525 includes/csl_custom_definitions_helper.php:420
+#: index.php:506
+msgid "CRC32B identifier"
+msgstr "Identificador CRC23B"
+
+#: functions.php:2526
+msgid "Calculated unique hash number for each exhibition."
+msgstr "Número “hash” calculado y único para cada exposición."
+
+#: functions.php:2531 includes/csl_custom_definitions_helper.php:421
+#: index.php:507
+msgid "Global keywords weight"
+msgstr "Peso global de las palabras clave"
+
+#: functions.php:2532
+msgid "Calculated global keywords weight in the original reference content."
+msgstr ""
+"Peso global de las palabras clave calculado automáticamente a partir del "
+"contenido de la referencia original."
+
+#: functions.php:2537 includes/csl_custom_definitions_helper.php:422
+#: index.php:508
+msgid "Relative keywords weight"
+msgstr "Peso relativo de las palabras clave"
+
+#: functions.php:2538
+msgid "Calculated relative keywords weight in the original reference content."
+msgstr ""
+"Peso relativo de las palabras clave calculado automáticamente a partir del "
+"contenido de la referencia original."
+
+#: functions.php:2543 includes/csl_custom_definitions_helper.php:423
+#: index.php:509
+msgid "Found keywords"
+msgstr "Palabras clave localizadas"
+
+#: functions.php:2544
+msgid "Keywords found inside the original reference content."
+msgstr "Palabras clave encontradas en el contenido de la referencia original."
+
+#: functions.php:2550
+msgid "Original reference publishing date, if set."
+msgstr ""
+"Fecha de publicación de la referencia original, si es legible y/o existe."
+
+#: functions.php:2555 includes/csl_custom_definitions_helper.php:425
+msgid "Reference author"
+msgstr "Autor de la referencia"
+
+#: functions.php:2556
+msgid "Original reference author, if set."
+msgstr "Autor de la referencia original, si es legible y/o existe."
+
+#: functions.php:2561 includes/csl_custom_definitions_helper.php:426
+#: index.php:488
+msgid "Original source link"
+msgstr "Enlace a la fuente original de la referencia."
+
+#: functions.php:2562
+msgid "Original link to remote content."
+msgstr "Enlace original al contenido demoto al que se alude en la referencia."
+
+#: functions.php:2567 includes/csl_custom_definitions_helper.php:427
+#: index.php:495
+msgid "Source entity"
+msgstr "Entidad origen"
+
+#: functions.php:2568
+msgid ""
+"Entity or entities with which the URI from which the information obtained is "
+"related."
+msgstr ""
+"Entidad o entidades de la que se ha obtenido la URI que ha dado origen a la "
+"información."
+
+#: functions.php:2573 functions.php:2775
+msgid "NBC error"
+msgstr "Error CBI"
+
+#: functions.php:2574
+msgid "Probability of reference error, calculated using Bayesian inference."
+msgstr ""
+"Probabilidad de error en la referencia, calculada empleando inferencia "
+"bayesiana."
+
+#: functions.php:2579
+msgid "Possible significant tokens (PST)"
+msgstr "Posibles marcas significativas (PMS)"
+
+#: functions.php:2580
+msgid "Remote original source possible significant tokens retrieved."
+msgstr ""
+"Posibles marcas significativas recuperadas de la fuente original de la "
+"referencia."
+
+#: functions.php:2587
+msgid "Location and visitors"
+msgstr "Localización y visitas"
+
+#: functions.php:2590 functions.php:2776
+#: includes/csl_custom_dashboard_helper.php:1633
+#: includes/csl_custom_definitions_helper.php:428
+#: includes/csl_custom_global_helper.php:934
+msgid "Start date"
+msgstr "Fecha de comienzo"
+
+#: functions.php:2591
+msgid ""
+"Enter the start date of the exibition. Field verified by internal validation."
+msgstr ""
+"Escriba la fecha en que comienza la exposición. Campo verificado por "
+"validación interna."
+
+#: functions.php:2597 functions.php:2777
+#: includes/csl_custom_dashboard_helper.php:1634
+#: includes/csl_custom_definitions_helper.php:429
+#: includes/csl_custom_global_helper.php:935
+msgid "End date"
+msgstr "Fecha de finalización"
+
+#: functions.php:2598
+msgid ""
+"Enter the end date of the exibition. Field verified by internal validation."
+msgstr ""
+"Escriba la fecha en que finaliza la exposición. Campo verificado por "
+"validación interna."
+
+#: functions.php:2605
+msgid ""
+"Enter the city where the exhibition is located. Field verified by <a target="
+"\"_blank\" href=\"http://www.geonames.org\">GeoNames</a>."
+msgstr ""
+"Escriba la localidad donde se ubica la exposición. Campo validado por <a "
+"target=\"_blank\" href=\"http://www.geonames.org\">GeoNames</a>."
+
+#: functions.php:2611 functions.php:2779
+#: includes/csl_custom_definitions_helper.php:431
+msgid "Site"
+msgstr "Sede"
+
+#: functions.php:2612
+msgid ""
+"Enter the specific site (building, institution,&hellip;) where the exhibition "
+"is performed. Field verified by <a target=\"_blank\" href=\"http://www."
+"wikipedia.org\">Wikipedia</a>."
+msgstr ""
+"Escriba el lugar concreto (edificio, institución,&hellip;) donde se efectúa la "
+"exposición. Campo verificado por <a target=\"_blank\" href=\"http://www."
+"wikipedia.org\">Wikipedia</a>."
+
+#: functions.php:2618 includes/csl_custom_definitions_helper.php:432
+msgid "Visitors range"
+msgstr "Rango de visitas"
+
+#: functions.php:2619
+msgid ""
+"Mark the proper range that includes the rough daily number of visitors of the "
+"exhibition, if applicable."
+msgstr ""
+"Marque el rango aplicable al número estimado de visitas diarias, si es "
+"procedente."
+
+#: functions.php:2622
+msgid "< 100"
+msgstr "< 100"
+
+#: functions.php:2623
+msgid "100 to 499"
+msgstr "100 a 499"
+
+#: functions.php:2624
+msgid "500 to 1,000"
+msgstr "500 a 1.000"
+
+#: functions.php:2625
+msgid "> 1,000"
+msgstr "> 1.000"
+
+#: functions.php:2630 includes/csl_custom_definitions_helper.php:433
+msgid "Access type"
+msgstr "Tipo de acceso"
+
+#: functions.php:2631
+msgid "Mark the proper access type for the exhibition, if applicable."
+msgstr "Elija el tipo de acceso a la exposición, si procede."
+
+#: functions.php:2634
+msgid "Not available"
+msgstr "No disponible"
+
+#: functions.php:2635
+msgid "Free for all"
+msgstr "Gratis para todos"
+
+#: functions.php:2636
+msgid "Free by age criteria"
+msgstr "Gratis según criterios de edad"
+
+#: functions.php:2637
+msgid "Free by number criteria"
+msgstr "Gratis según criterios numéricos"
+
+#: functions.php:2638
+msgid "Free by citizenship criteria"
+msgstr "Gratis según criterios de nacionalidad o ciudadanía"
+
+#: functions.php:2639
+msgid "Paid for all"
+msgstr "De pago en todos los casos"
+
+#: functions.php:2640
+msgid "Mixed condition"
+msgstr "Sistema mixto"
+
+#: functions.php:2641
+msgid "Reduced fare"
+msgstr "Tarifa reducida"
+
+#: functions.php:2657
+msgid ""
+"Enter the postal address where the exhibition is located. Field verified by <a "
+"target=\"_blank\" href=\"http://maps.google.com\">Google Maps</a>."
+msgstr ""
+"Escriba la dirección postal de la sede principal de la exposición. Campo "
+"verificado por <a target=\"_blank\" href=\"http://maps.google.com\">Google "
+"Maps</a>."
+
+#: functions.php:2664
+msgid "Geotagas"
+msgstr "Geoetiquetas"
+
+#: functions.php:2667 includes/csl_custom_definitions_helper.php:445
+msgid "Geotag"
+msgstr "Geoetiqueta"
+
+#: functions.php:2668
+msgid ""
+"Enter the name of a country (must be real geographically) that can be "
+"considered as geotag concerning the artwork displayed. Field verified by "
+"internal lookup."
+msgstr ""
+"Escriba el nombre de un país (debe ser geográficamente real) que pueda ser "
+"considerado como geoetiqueta referente a las obras exhibidas. Campo verificado "
+"por validación interna."
+
+#: functions.php:2675
+msgid "Relations"
+msgstr "Relaciones"
+
+#: functions.php:2678 includes/csl_custom_definitions_helper.php:436
+msgid "Relational type"
+msgstr "Tipo de relación"
+
+#: functions.php:2679
+msgid ""
+"Mark the proper relational type (main, secondary, subsidiary,&hellip;) of the "
+"exhibition."
+msgstr ""
+"Marque el tipo de relación específico de la exposición (principal, secundaria, "
+"auxiliar,&hellip;)."
+
+#: functions.php:2682
+msgid "Main site"
+msgstr "Sede principal"
+
+#: functions.php:2683
+msgid "Secondary site"
+msgstr "Sede secundaria"
+
+#: functions.php:2684
+msgid "Subsidiary site"
+msgstr "Sede auxiliar"
+
+#: functions.php:2689 includes/csl_custom_definitions_helper.php:437
+#: index.php:496
+msgid "Parent exhibition"
+msgstr "Exposición de la que depende"
+
+#: functions.php:2690
+msgid ""
+"Enter the parent exhibition, if applicable. Field verified by internal lookup."
+msgstr ""
+"Escriba la exposición de la que depende, si es procedente. Campo verificado "
+"por búsqueda interna en la tabla de exposiciones."
+
+#: functions.php:2696 includes/csl_custom_definitions_helper.php:438
+#: index.php:497
+msgid "Information source"
+msgstr "Fuente de información"
+
+#: functions.php:2697
+msgid ""
+"Enter the entity where the information have been obtained, if applicable. "
+"Field verified by internal lookup."
+msgstr ""
+"Escriba la entidad que ha proporcionado la información sobre la exposición. "
+"Campo verificado por búsqueda interna en la tabla de entidades."
+
+#: functions.php:2704 functions.php:3076
+msgid "Authorship"
+msgstr "Autoría"
+
+#: functions.php:2708
+msgid ""
+"Enter the artwork authors, if applicable. Field verified by internal lookup."
+msgstr ""
+"Escriba los autores de las obras exhibidas, si procede. Campo verificado por "
+"búsqueda interna en la tabla de actores."
+
+#: functions.php:2716
+msgid "Relations with art collecting"
+msgstr "Relaciones con el coleccionismo"
+
+#: functions.php:2719 includes/csl_custom_definitions_helper.php:446
+msgid "Art collector"
+msgstr "Coleccionista"
+
+#: functions.php:2720
+msgid ""
+"Enter the art collector who lends his artworks for the exhibition, if "
+"applicable. Field verified by internal lookup in more than one register type."
+msgstr ""
+"Escriba el coleccionista que presta las obras de su colección para la "
+"exposición, si procede. Campo verificado por búsqueda interna en más de un "
+"tipo de registro."
+
+#: functions.php:2727
+msgid "Support and funding"
+msgstr "Organización y financiación"
+
+#: functions.php:2730 includes/csl_custom_definitions_helper.php:440
+#: index.php:499
+msgid "Supporter entity"
+msgstr "Entidad organizadora"
+
+#: functions.php:2731
+msgid ""
+"Enter the supporter entities, if applicable. Field verified by internal lookup."
+msgstr ""
+"Escriba las entidades organizadoras de la exposición, si procede. Campo "
+"verificado por búsqueda interna en la tabla de entidades."
+
+#: functions.php:2737 includes/csl_custom_definitions_helper.php:441
+#: index.php:500
+msgid "Funding entity"
+msgstr "Entidad financiadora"
+
+#: functions.php:2738
+msgid ""
+"Enter the funding entities, if applicable. Field verified by internal lookup."
+msgstr ""
+"Escriba las entidades financiadoras de la exposición, si procede. Campo "
+"verificado por búsqueda interna en la tabla de entidades."
+
+#: functions.php:2745
+msgid "Curation and museology"
+msgstr "Comisariado y museografía"
+
+#: functions.php:2748 includes/csl_custom_definitions_helper.php:442
+#: index.php:501
+msgid "Curator"
+msgstr "Comisario"
+
+#: functions.php:2749
+msgid ""
+"Enter the curators of the exhibition, if applicable. Field verified by "
+"internal lookup."
+msgstr ""
+"Escriba los comisarios de la exposición, si procede. Campo verificado por "
+"búsqueda interna en la tabla de actores."
+
+#: functions.php:2755 includes/csl_custom_definitions_helper.php:443
+#: index.php:502
+msgid "Catalog"
+msgstr "Catálogo"
+
+#: functions.php:2756
+msgid ""
+"Enter the catalogs of the exhibition, if applicable. Field verified by "
+"internal lookup."
+msgstr ""
+"Escriba los catálogos de la exposición, si procede. Campo verificado por "
+"búsqueda interna en la tabla de publicaciones."
+
+#: functions.php:2762 includes/csl_custom_definitions_helper.php:444
+#: index.php:503
+msgid "Company responsible for the museography"
+msgstr "Empresa responsable de la museografía"
+
+#: functions.php:2763
+msgid ""
+"Enter the companies responsibles for the museography, if applicable. Field "
+"verified by internal lookup."
+msgstr ""
+"Escriba las empresas responsables del proyecto museográfico, si procede. Campo "
+"verificado por búsqueda interna en la tabla de empresas."
+
+#: functions.php:2774 includes/csl_custom_ajax_helper.php:648
+msgid "Exhibition"
+msgstr "Exposición"
+
+#: functions.php:2781
+msgid "Exhibition themes"
+msgstr "Temas"
+
+#: functions.php:2814
+#, php-format
+msgid "%s total words, %s keywords, %s%%, %s impact."
+msgstr "%s palabras totales, %s palabras clave, %s%%, %s impacto."
+
+#: functions.php:2821
+msgid "[No keywords]"
+msgstr "[Sin palabras clave]"
+
+#: functions.php:2916
+msgid "All exhibitions start dates"
+msgstr "Todas las fechas de comienzo"
+
+#: functions.php:2920
+#, php-format
+msgid "Since %s"
+msgstr "Desde %s"
+
+#: functions.php:2942
+msgid "All exhibitions countries"
+msgstr "Todos los países"
+
+#: functions.php:3031
+msgctxt "post type general name"
+msgid "Artworks"
+msgstr "Obras"
+
+#: functions.php:3032
+msgctxt "post type singular name"
+msgid "Artwork"
+msgstr "Obras"
+
+#: functions.php:3033
+msgctxt "admin menu"
+msgid "Artworks"
+msgstr "Obras"
+
+#: functions.php:3034
+msgctxt "add new on admin bar"
+msgid "Artwork"
+msgstr "Obra"
+
+#: functions.php:3036
+msgid "Add new artwork"
+msgstr "Añadir nueva obra"
+
+#: functions.php:3037
+msgid "New artwork"
+msgstr "Nueva obra"
+
+#: functions.php:3038
+msgid "Edit artwork"
+msgstr "Modificar obra"
+
+#: functions.php:3039
+msgid "View artwork"
+msgstr "Ver obra"
+
+#: functions.php:3040
+msgid "All artworks"
+msgstr "Todas las obras"
+
+#: functions.php:3041
+msgid "Search artworks"
+msgstr "Buscar obras"
+
+#: functions.php:3042
+msgid "Parent artwork:"
+msgstr "Obra ancestro:"
+
+#: functions.php:3043
+msgid "No artworks found"
+msgstr "No se han encontrado obras"
+
+#: functions.php:3044
+msgid "No artworks found in Trash"
+msgstr "No se han encontrado obras en la papelera"
+
+#: functions.php:3069
+msgid "Alternative titles"
+msgstr "Título alternativo"
+
+#: functions.php:3070
+msgid "Enter the alternative title for the artwork."
+msgstr "Escriba el título alternativo de la obra, si es pertinente."
+
+#: functions.php:3080
+msgid ""
+"Enter the person acting as artwork author, if applicable. Field verified by "
+"internal lookup."
+msgstr ""
+"Escriba el actor que actúa como autor de la obra, si es pertinente. Campo "
+"verificado por búsqueda interna en la tabla de actores."
+
+#: functions.php:3087
+msgid "Artwork start date"
+msgstr "Fecha de comienzo de la obra"
+
+#: functions.php:3088
+msgid ""
+"Enter the start date for the artwork. 1 of January for any year, 1 of month "
+"for any month, [-]NNNN for years BC, multiple of 25 for fractions of century."
+msgstr ""
+"Escriba la fecha de comienzo de la obra. 1 de enero para cualquier año, 1 del "
+"mes para cualquier mes, [-]NNNN para fechas a.C., múltiplos de 25 para "
+"fracciones de siglo."
+
+#: functions.php:3093
+msgid "Artwork end date"
+msgstr "Fecha de fin de la obra"
+
+#: functions.php:3094
+msgid ""
+"Enter the end date for the artwork. 1 of January for any year, 1 of month for "
+"any month, [-]NNNN for years BC, multiple of 25 for fractions of century."
+msgstr ""
+"Escriba la fecha de fin de la obra. 1 de enero para cualquier año, 1 del mes "
+"para cualquier mes, [-]NNNN para fechas a.C., múltiplos de 25 para fracciones "
+"de siglo."
+
+#: functions.php:3100
+msgid "Location data"
+msgstr "Ubicaciones"
+
+#: functions.php:3103
+msgid "Entity when cataloging"
+msgstr "Entidad en el momento de la catalogación"
+
+#: functions.php:3104
+msgid ""
+"Enter the entity where the artwork was placed when it was cataloged, if "
+"applicable. Field verified by internal lookup."
+msgstr ""
+"Escriba la entidad donde se situaba la obra cuando fue catalogada, si es "
+"pertinente. Campo verificado por búsqueda interna en la tabla de entidades."
+
+#: functions.php:3110
+msgid "Current entity"
+msgstr "Entidad actual"
+
+#: functions.php:3111
+msgid ""
+"Enter the entity where the artwork is currently held, if applicable. Field "
+"verified by internal lookup."
+msgstr ""
+"Escriba la entidad donde la obra está actualmente custodiada, si es "
+"pertinente. Campo verificado por búsqueda interna en la tabla de entidades."
+
+#: functions.php:3121
+msgid "Related catalogs"
+msgstr "Catálogos relacionados"
+
+#: functions.php:3122
+msgid "List of catalogs linked up to the artwork."
+msgstr "Lista de catálogos relacionados con la obra"
+
+#: functions.php:3133
+msgid "Artwork"
+msgstr "Obra"
+
+#: functions.php:3237
+msgctxt "post type general name"
+msgid "Documents"
+msgstr "Manuales"
+
+#: functions.php:3238
+msgctxt "post type singular name"
+msgid "Document"
+msgstr "Documento"
+
+#: functions.php:3239
+msgctxt "admin menu"
+msgid "Documents"
+msgstr "Manuales"
+
+#: functions.php:3240
+msgctxt "add new on admin bar"
+msgid "Document"
+msgstr "Manual"
+
+#: functions.php:3241 functions.php:3242
+msgid "Add new document"
+msgstr "Añadir nuevo manual"
+
+#: functions.php:3243
+msgid "New document"
+msgstr "Nuevo manual"
+
+#: functions.php:3244
+msgid "Edit document"
+msgstr "Modificar manual"
+
+#: functions.php:3245
+msgid "View document"
+msgstr "Ver manuales"
+
+#: functions.php:3246
+msgid "All documents"
+msgstr "Todos los manuales"
+
+#: functions.php:3247
+msgid "Search documents"
+msgstr "Buscar manuales"
+
+#: functions.php:3248
+msgid "Parent documents:"
+msgstr "Manuales ancestro:"
+
+#: functions.php:3249
+msgid "No documents found"
+msgstr "No se ha encontrado ningún manual"
+
+#: functions.php:3250
+msgid "No documents found in Trash"
+msgstr "No se ha encontrado ningún manual en la papelera"
+
+#: functions.php:3272
+msgctxt "taxonomy general name"
+msgid "Document categories"
+msgstr "Categorías de manuales"
+
+#: functions.php:3273
+msgctxt "taxonomy singular name"
+msgid "Document category"
+msgstr "Categoría de manual"
+
+#: functions.php:3274
+msgid "Search document categories"
+msgstr "Buscar categorías de manual"
+
+#: functions.php:3275
+msgid "All document categories"
+msgstr "Todas las categorías de manual"
+
+#: functions.php:3276 functions.php:3277
+msgid "Parent document category"
+msgstr "Categoría de manual ancestro"
+
+#: functions.php:3278
+msgid "Edit document category"
+msgstr "Modificar categoría de manual"
+
+#: functions.php:3279
+msgid "Update document category"
+msgstr "Actualizar categoría de manual"
+
+#: functions.php:3280
+msgid "Add new document category"
+msgstr "Añadir nueva categoría de manual"
+
+#: functions.php:3281
+msgid "New name for document category"
+msgstr "Nuevo nombre para la categoría de manual"
+
+#: functions.php:3282
+msgid "Document Category"
+msgstr "Categoría de manual"
+
+#: functions.php:3283
+msgid "Popular document categories"
+msgstr "Categorías de manual más empleadas"
+
+#: functions.php:3284
+msgid "Separate document categories with commas"
+msgstr "Separar las categorías de manual con comas"
+
+#: functions.php:3285
+msgid "Add or remove  document categories"
+msgstr "Añadir o borrar categorías de manual"
+
+#: functions.php:3286
+msgid "Choose from most used  document categories"
+msgstr "Elegir entre las categorías de manual más empleadas"
+
+#: functions.php:3287
+msgid "No document categories found"
+msgstr "No se ha localizado ninguna categoría de manual"
+
+#: functions.php:3290
+msgid "tax_document_category"
+msgstr "tax_document_category"
+
+#: functions.php:3297
+msgid "Document"
+msgstr "Manual"
+
+#: functions.php:3299
+msgid "Document category"
+msgstr "Categoría de manual"
+
+#: functions.php:3379
+#, php-format
+msgid "%s data have been saved."
+msgstr "Los datos de %s han sido guardados."
+
+#: functions.php:3380
+msgid "User field data have been updated."
+msgstr "El campo de usuario ha sido actualizado."
+
+#: functions.php:3381
+msgid "User fields have been deleted."
+msgstr "El campo de usuario ha sido borrado."
+
+#: functions.php:3382
+#, php-format
+msgid "%s data have been updated."
+msgstr "Los datos de %s han sido actualizados."
+
+#: functions.php:3385
+#, php-format
+msgid "%1$s data have been restored from a %2$s revision."
+msgstr "Los datos de %1$s han sido restaurados desde la revisión %2$s."
+
+#: functions.php:3387
+#, php-format
+msgid "%s data have been published."
+msgstr "Los datos de %s han sido publicados."
+
+#: functions.php:3388
+#, php-format
+msgid "%s data have been stored."
+msgstr "Los datos de %s han sido almacenados."
+
+#: functions.php:3389
+#, php-format
+msgid "%s data have been sent."
+msgstr "Los datos de %s han sido enviados."
+
+#: functions.php:3390
+#, php-format
+msgid "%1$s data publishing have been planned to <strong>%2$s</strong>."
+msgstr ""
+"La bublicación de los datos de %1$s ha sido planificada para <strong>%2$s</"
+"strong>."
+
+#: functions.php:3391
+#, php-format
+msgid "%s draft have been updated."
+msgstr "El borrador de %s ha sido actualizado."
+
+#: functions.php:3396
+#, php-format
+msgid "See %s"
+msgstr "Ver %s"
+
+#: functions.php:3402
+#, php-format
+msgid "%s preview"
+msgstr "Vista preliminar de %s"
+
+#: functions.php:3435
+msgid "Could not initialize NBC Engine [B8]"
+msgstr "No es posible inicializar el motor CBI [B8]"
+
+#: functions.php:3652
+msgid "Form completion help"
+msgstr "Ayuda a la cumplimentación"
+
+#: functions.php:3663
+#, php-format
+msgid "Terms and taxonomies for %s"
+msgstr "Términos y taxonomías de %s"
+
+#: functions.php:3683 includes/csl_custom_dashboard_helper.php:121
+msgid "No records"
+msgstr "No hay registros"
+
+#: functions.php:3690
+msgid "Users and records"
+msgstr "Usuarios y registros"
+
+#: functions.php:3758
+msgid "No terms in the taxonomy"
+msgstr "No hay términos en la taxonomía"
+
+#: functions.php:3773
+#, php-format
+msgid "You are not allowed to add the \"%s\" term to \"%s\" taxonomy."
+msgstr ""
+"No tiene autorización para añadir el término \"%s\" a la taxonomía \"%s\"."
+
+#: functions.php:3784
+msgid "You're not allowed for adding taxonomies"
+msgstr "No tiene autorización para añadir taxonomías."
+
+#: includes/csl_custom_admin_posts_helper.php:27
+#: includes/csl_custom_admin_posts_helper.php:29
+#: includes/csl_custom_admin_posts_helper.php:45
+#: includes/csl_custom_shortcodes_helper.php:275
+msgid "Queries"
+msgstr "Consultas"
+
+#: includes/csl_custom_admin_posts_helper.php:28
+#: includes/csl_custom_admin_posts_helper.php:30
+#: includes/csl_custom_scripts_helper.php:73
+msgid "Query"
+msgstr "Consulta"
+
+#: includes/csl_custom_admin_posts_helper.php:31
+msgid "Parent query"
+msgstr "Consulta ancestro"
+
+#: includes/csl_custom_admin_posts_helper.php:32
+msgid "All queries"
+msgstr "Todas las consultas"
+
+#: includes/csl_custom_admin_posts_helper.php:33
+#: includes/csl_custom_admin_posts_helper.php:34
+msgid "Add new query"
+msgstr "Añadir nueva consulta"
+
+#: includes/csl_custom_admin_posts_helper.php:35
+msgid "New query"
+msgstr "Nueva consulta"
+
+#: includes/csl_custom_admin_posts_helper.php:36
+msgid "Edit query"
+msgstr "Modificar consulta"
+
+#: includes/csl_custom_admin_posts_helper.php:37
+msgid "Update query"
+msgstr "Actualizar consulta"
+
+#: includes/csl_custom_admin_posts_helper.php:38
+msgid "View query"
+msgstr "Ver consulta"
+
+#: includes/csl_custom_admin_posts_helper.php:39
+msgid "Search queries"
+msgstr "Buscar consultas"
+
+#: includes/csl_custom_admin_posts_helper.php:40
+msgid "No queries found"
+msgstr "No se han encontrado consultas"
+
+#: includes/csl_custom_admin_posts_helper.php:41
+msgid "No queriest found in trash"
+msgstr "No se han encontrado consultas en la papelera"
+
+#: includes/csl_custom_admin_posts_helper.php:44
+msgid "csl_acpt_query"
+msgstr "csl_acpt_query"
+
+#: includes/csl_custom_admin_posts_helper.php:89
+msgid "Query types"
+msgstr "Tipos de consulta"
+
+#: includes/csl_custom_admin_posts_helper.php:90
+msgid "Query type"
+msgstr "Tipo de consulta"
+
+#: includes/csl_custom_admin_posts_helper.php:91
+#: includes/csl_custom_ajax_helper.php:666
+#: includes/csl_custom_ajax_helper.php:966
+#: includes/csl_custom_dashboard_helper.php:745
+#: includes/csl_custom_dashboard_helper.php:1056
+msgid "Type"
+msgstr "Tipo"
+
+#: includes/csl_custom_admin_posts_helper.php:125 index.php:461
+msgid "Metadata"
+msgstr "Metadatos"
+
+#: includes/csl_custom_admin_posts_helper.php:136
+msgid "Enter the custom query column labels."
+msgstr "Escriba las etiquetas de las columnas de la consulta."
+
+#: includes/csl_custom_admin_posts_helper.php:141
+msgid "Separate column labels using commas (,)."
+msgstr "Separe las etiquetas mediante comas (,)."
+
+#: includes/csl_custom_admin_posts_helper.php:145
+msgid "Enter the custom query column id's."
+msgstr "Escriba las IDs de las columnas de la consulta."
+
+#: includes/csl_custom_admin_posts_helper.php:150
+#: includes/csl_custom_admin_posts_helper.php:159
+#: includes/csl_custom_admin_posts_helper.php:168
+msgid "Separate column id's using commas (,)."
+msgstr "Separe las IDs mediante comas (,)."
+
+#: includes/csl_custom_admin_posts_helper.php:154
+msgid "Enter the custom query columns used as description for chart."
+msgstr ""
+"Escriba las IDs de las columnas de la consulta utilizadas como descripción en "
+"el gráfico."
+
+#: includes/csl_custom_admin_posts_helper.php:163
+msgid "Enter the custom query columns used as values for chart."
+msgstr ""
+"Escriba las IDs de las columnas de la consulta utilizadas como valores en el "
+"gráfico."
+
+#: includes/csl_custom_admin_posts_helper.php:172
+msgid "Enter the type of chart."
+msgstr "Escriba el tipo de gráfico."
+
+#: includes/csl_custom_admin_posts_helper.php:177
+msgid ""
+"Accepted types: line, spline, step, area, area-spline, area-step, bar, "
+"scatter, pie, donut and gauge."
+msgstr ""
+"Tipo aceptados: line, spline, step, area, area-spline, area-step, bar, "
+"scatter, pie, donut y gauge."
+
+#: includes/csl_custom_admin_posts_helper.php:309
+#, php-format
+msgid "Enter the public name for %s"
+msgstr "Escriba el nombre público de el/la %s"
+
+#: includes/csl_custom_ajax_helper.php:602
+#: includes/csl_custom_ajax_helper.php:646
+msgid "Record ID"
+msgstr "ID del registro"
+
+#: includes/csl_custom_ajax_helper.php:606
+#: includes/csl_custom_ajax_helper.php:650
+msgid "Date last updated"
+msgstr "Fecha de actualización"
+
+#: includes/csl_custom_ajax_helper.php:667
+msgid "Title"
+msgstr "Título"
+
+#: includes/csl_custom_ajax_helper.php:668
+#: includes/csl_custom_ajax_helper.php:680
+msgid "Error type"
+msgstr "Tipo de error"
+
+#: includes/csl_custom_ajax_helper.php:681
+msgid "Total records"
+msgstr "Registros totales"
+
+#: includes/csl_custom_ajax_helper.php:682
+#: includes/csl_custom_dashboard_helper.php:591
+msgid "Possible duplicated title"
+msgstr "Posible título duplicado"
+
+#: includes/csl_custom_ajax_helper.php:683
+#: includes/csl_custom_dashboard_helper.php:592
+msgid "Lack of one or more mandatory fields"
+msgstr "Ausencia de uno ó más campos obligatorios"
+
+#: includes/csl_custom_ajax_helper.php:684
+#: includes/csl_custom_dashboard_helper.php:593
+msgid ""
+"Bad Geonames local entity convention (semicolons rule) in one or more fields"
+msgstr ""
+"Error en uno ó más campos de la convención de Geonames para entidades locales "
+"(regla del punto y coma)"
+
+#: includes/csl_custom_ajax_helper.php:685
+#: includes/csl_custom_dashboard_helper.php:594
+msgid "Bad self-reference convention (number + colon rule) in one or more fields"
+msgstr ""
+"Error en uno ó más campos de la convención de autorreferencia (regla del "
+"número + dos puntos)"
+
+#: includes/csl_custom_ajax_helper.php:686
+#: includes/csl_custom_dashboard_helper.php:595
+msgid "Lack of one or more mandatory taxonomies"
+msgstr "Ausencia de una ó más taxonomías obligatorias"
+
+#: includes/csl_custom_ajax_helper.php:712
+#: includes/csl_custom_ajax_helper.php:756
+#: includes/csl_custom_ajax_helper.php:849
+msgid "Activity date"
+msgstr "Fecha de la actividad"
+
+#: includes/csl_custom_ajax_helper.php:749
+#: includes/csl_custom_dashboard_helper.php:269
+#: includes/csl_custom_dashboard_helper.php:304
+msgid "Yes"
+msgstr "Sí"
+
+#: includes/csl_custom_ajax_helper.php:749
+#: includes/csl_custom_dashboard_helper.php:268
+#: includes/csl_custom_dashboard_helper.php:307
+msgid "No"
+msgstr "No"
+
+#: includes/csl_custom_ajax_helper.php:757
+msgid "Last logout"
+msgstr "Último cierre de sesión"
+
+#: includes/csl_custom_ajax_helper.php:758
+msgid "First login"
+msgstr "Primer inicio de sesión"
+
+#: includes/csl_custom_ajax_helper.php:759
+msgid "Sessions"
+msgstr "Sesiones"
+
+#: includes/csl_custom_ajax_helper.php:760
+msgid "Impaired sessions"
+msgstr "Sesiones inconclusas"
+
+#: includes/csl_custom_ajax_helper.php:761
+#: includes/csl_custom_ajax_helper.php:852
+#: includes/csl_custom_dashboard_helper.php:827
+msgid "Activities"
+msgstr "Actividades"
+
+#: includes/csl_custom_ajax_helper.php:762
+msgid "Sessions time"
+msgstr "Tiempo de sesiones"
+
+#: includes/csl_custom_ajax_helper.php:763
+msgid "Activities time"
+msgstr "Tiempo de actividades"
+
+#: includes/csl_custom_ajax_helper.php:764
+msgid "Session time by activity"
+msgstr "Tiempo de sesión por actividad"
+
+#: includes/csl_custom_ajax_helper.php:765
+#: includes/csl_custom_ajax_helper.php:853
+msgid "Activity average time"
+msgstr "Tiempo medio por actividad"
+
+#: includes/csl_custom_ajax_helper.php:825
+msgid "Author"
+msgstr "Autor"
+
+#: includes/csl_custom_ajax_helper.php:850
+msgid "Minutes spent"
+msgstr "Minutos usados"
+
+#: includes/csl_custom_ajax_helper.php:851
+msgid "Time spent"
+msgstr "Tiempo usado"
+
+#: includes/csl_custom_ajax_helper.php:967 index.php:466
+msgid "Field"
+msgstr "Campo"
+
+#: includes/csl_custom_ajax_helper.php:968 index.php:466
+msgid "Value"
+msgstr "Valor"
+
+#: includes/csl_custom_ajax_helper.php:969
+#: includes/csl_custom_dashboard_helper.php:98
+#: includes/csl_custom_dashboard_helper.php:553
+#: includes/csl_custom_shortcodes_helper.php:660
+msgid "Records"
+msgstr "Registros"
+
+#: includes/csl_custom_ajax_helper.php:1148
+msgid "Similar posts options"
+msgstr "Control de títulos semejantes"
+
+#: includes/csl_custom_ajax_helper.php:1153
+msgid "Results limit"
+msgstr "Límite de resultados"
+
+#: includes/csl_custom_ajax_helper.php:1157
+msgid "Limit input character to search"
+msgstr "Límite mínimo de caracteres para buscar"
+
+#: includes/csl_custom_ajax_helper.php:1160
+msgid "Save Options"
+msgstr "Guardar opciones"
+
+#: includes/csl_custom_ajax_helper.php:1162
+msgid "Options saved."
+msgstr "Opciones guardadas."
+
+#: includes/csl_custom_ajax_helper.php:1164
+msgid "Error. Options not saved."
+msgstr "Error. Opciones no guardadas."
+
+#: includes/csl_custom_dashboard_chat.php:43
+msgid "Dashboard Chat"
+msgstr "Mensajería"
+
+#: includes/csl_custom_dashboard_chat.php:112
+msgid "An error has occured. Please try again."
+msgstr "Ha ocurrido un error. Vuelva a intentar la operación."
+
+#: includes/csl_custom_dashboard_chat.php:138
+msgid "Send message"
+msgstr "Enviar mensaje"
+
+#: includes/csl_custom_dashboard_chat.php:139
+msgid "Scroll to bottom"
+msgstr "Ir al último mensaje"
+
+#: includes/csl_custom_dashboard_chat.php:140
+msgid "Refresh message list"
+msgstr "Actualizar mensajes"
+
+#: includes/csl_custom_dashboard_chat.php:155
+#, php-format
+msgid "%s. %s ago"
+msgstr "%s. Hace %s"
+
+#: includes/csl_custom_dashboard_helper.php:198
+#, php-format
+msgid "%s %s ago"
+msgstr "%s hace %s"
+
+#: includes/csl_custom_dashboard_helper.php:204
+#, php-format
+msgid "%s user(s)"
+msgstr "%s usuario(s)"
+
+#: includes/csl_custom_dashboard_helper.php:226
+msgid "Logged in as"
+msgstr "Conectado como"
+
+#: includes/csl_custom_dashboard_helper.php:246
+msgid "Twitter user"
+msgstr "Usuario Twitter"
+
+#: includes/csl_custom_dashboard_helper.php:247
+msgid "Skype user"
+msgstr "Usuario Skype"
+
+#: includes/csl_custom_dashboard_helper.php:248
+msgid "Facebook user"
+msgstr "Usuario Facebook"
+
+#: includes/csl_custom_dashboard_helper.php:251
+msgid "Mobile phone"
+msgstr "Teléfono móvil"
+
+#: includes/csl_custom_dashboard_helper.php:254
+#: includes/csl_custom_shortcodes_helper.php:498
+msgid "City"
+msgstr "Ciudad"
+
+#: includes/csl_custom_dashboard_helper.php:255
+msgid "State/Province"
+msgstr "Estado o provincia"
+
+#: includes/csl_custom_dashboard_helper.php:256
+msgid "ZIP"
+msgstr "Código postal"
+
+#: includes/csl_custom_dashboard_helper.php:262
+msgid "Positions in the workforce and personal skills"
+msgstr "Cargos en los equipos de trabajo y especialidades"
+
+#: includes/csl_custom_dashboard_helper.php:266
+msgid "Password resend"
+msgstr "Reenvío de contraseña"
+
+#: includes/csl_custom_dashboard_helper.php:270
+msgid "Select Yes if you want to resend password to user."
+msgstr "Seleccione Sí si desea volver a enviar la contraseña al usuario."
+
+#: includes/csl_custom_dashboard_helper.php:275
+#: includes/csl_custom_global_helper.php:1003
+msgid "Position"
+msgstr "Cargo"
+
+#: includes/csl_custom_dashboard_helper.php:278
+msgid "Enter the position of the user in the workforce."
+msgstr "Escriba el cargo del usuario dentro del equipo de trabajo."
+
+#: includes/csl_custom_dashboard_helper.php:283
+#: includes/csl_custom_global_helper.php:1004
+msgid "Assignments"
+msgstr "Tareas"
+
+#: includes/csl_custom_dashboard_helper.php:286
+msgid "Enter the assignments of the user in the workforce."
+msgstr "Escriba las tareas que ejerce el usuario dentro de su equipo de trabajo."
+
+#: includes/csl_custom_dashboard_helper.php:291
+#: includes/csl_custom_global_helper.php:1005
+msgid "Skills"
+msgstr "Especialidades"
+
+#: includes/csl_custom_dashboard_helper.php:294
+msgid "Enter the personal skills of the user."
+msgstr "Escriba las especialidades del usuario."
+
+#: includes/csl_custom_dashboard_helper.php:300
+#, php-format
+msgid "Is a member of %s project team?"
+msgstr "¿Es miembro del equipo del proyecto %s?"
+
+#: includes/csl_custom_dashboard_helper.php:309
+#, php-format
+msgid "Select if user is or is not a member of the %s project team."
+msgstr ""
+"Elija la opción adecuada, dependiendo de si el usuario es o no miembro del "
+"equipo de trabajo del proyecto %s."
+
+#: includes/csl_custom_dashboard_helper.php:356
+msgid "All Settings"
+msgstr "Todas las opciones"
+
+#: includes/csl_custom_dashboard_helper.php:366
+#: includes/csl_custom_dashboard_helper.php:367
+msgid "Application status"
+msgstr "Estado de la aplicación"
+
+#: includes/csl_custom_dashboard_helper.php:379
+msgid "The app"
+msgstr "La aplicación"
+
+#: includes/csl_custom_dashboard_helper.php:380
+msgid "BBS & messages"
+msgstr "Mensajería"
+
+#: includes/csl_custom_dashboard_helper.php:381
+msgid "Quality control"
+msgstr "Control de calidad"
+
+#: includes/csl_custom_dashboard_helper.php:383
+msgid "Evolution"
+msgstr "Evolución"
+
+#: includes/csl_custom_dashboard_helper.php:384
+msgid "Maintenance"
+msgstr "Mantenimiento"
+
+#: includes/csl_custom_dashboard_helper.php:443
+#: includes/csl_custom_shortcodes_helper.php:15
+#: includes/csl_custom_shortcodes_helper.php:1037
+#: includes/csl_custom_shortcodes_helper.php:1059
+#: includes/csl_custom_shortcodes_helper.php:1081
+#: includes/csl_custom_shortcodes_helper.php:1165
+msgid "Not help file found."
+msgstr "No ha sido posible localizar el archivo de ayuda."
+
+#: includes/csl_custom_dashboard_helper.php:445
+#: includes/csl_custom_shortcodes_helper.php:28
+#, php-format
+msgid "%s project current status"
+msgstr "Estado actual del proyecto %s"
+
+#: includes/csl_custom_dashboard_helper.php:446
+#: includes/csl_custom_shortcodes_helper.php:16
+#, php-format
+msgid "%s & %s work team"
+msgstr "Equipo de trabajo de %s y %s"
+
+#: includes/csl_custom_dashboard_helper.php:452
+msgid "Global administrative news"
+msgstr "Tablón de anuncios administrativos"
+
+#: includes/csl_custom_dashboard_helper.php:455
+#, php-format
+msgid "This bulletin board displays the %s most recent administrative notices."
+msgstr ""
+"Este tablón de anuncios muestra las %s noticias administrativas más recientes."
+
+#: includes/csl_custom_dashboard_helper.php:486
+msgid "Dashboard chat"
+msgstr "Mensajería"
+
+#: includes/csl_custom_dashboard_helper.php:521
+msgid "No error"
+msgstr "Sin error"
+
+#: includes/csl_custom_dashboard_helper.php:525
+msgid "At least one error"
+msgstr "Al menos un error"
+
+#: includes/csl_custom_dashboard_helper.php:529
+msgid "Average error level"
+msgstr "Tasa media de error"
+
+#: includes/csl_custom_dashboard_helper.php:530
+msgid "Average"
+msgstr "Promedio"
+
+#: includes/csl_custom_dashboard_helper.php:535
+msgid "Admissible"
+msgstr "Admisible"
+
+#: includes/csl_custom_dashboard_helper.php:541
+msgid "Processing errors"
+msgstr "Errores de procesamiento"
+
+#: includes/csl_custom_dashboard_helper.php:547
+msgid "Global recording error status"
+msgstr "Errores en grabación"
+
+#: includes/csl_custom_dashboard_helper.php:554
+msgid "Errors"
+msgstr "Errores"
+
+#: includes/csl_custom_dashboard_helper.php:555
+msgid "E-Rate"
+msgstr "Tasa-E"
+
+#: includes/csl_custom_dashboard_helper.php:556
+msgid "Valid"
+msgstr "Válidos"
+
+#: includes/csl_custom_dashboard_helper.php:586
+msgid "Summarized errors by user"
+msgstr "Resumen de errores por usuario"
+
+#: includes/csl_custom_dashboard_helper.php:587
+msgid ""
+"NOTICE: The value of E-Rate is not a direct percentage of total errors on the "
+"total records, since the same record can contain more than one error. It is "
+"the average of the single rates for each error type."
+msgstr ""
+"ATENCIÓN: el valor de Tasa-E no es un porcentaje directo del total de errores "
+"sobre el total de registros, puesto que un mismo registro puede contener más "
+"de un error. Es el promedio de las tasas individuales por tipo de error."
+
+#: includes/csl_custom_dashboard_helper.php:591
+#: includes/csl_custom_dashboard_helper.php:604
+msgid "Duplicated"
+msgstr "Duplicados"
+
+#: includes/csl_custom_dashboard_helper.php:592
+#: includes/csl_custom_dashboard_helper.php:605
+msgid "Mandatory"
+msgstr "Obligatorios"
+
+#: includes/csl_custom_dashboard_helper.php:593
+#: includes/csl_custom_dashboard_helper.php:606
+msgid "Geoname"
+msgstr "Geoname"
+
+#: includes/csl_custom_dashboard_helper.php:594
+#: includes/csl_custom_dashboard_helper.php:607
+msgid "Autosearch"
+msgstr "Autorreferencia"
+
+#: includes/csl_custom_dashboard_helper.php:595
+#: includes/csl_custom_dashboard_helper.php:608
+msgid "Taxonomy"
+msgstr "Taxonomías"
+
+#: includes/csl_custom_dashboard_helper.php:598
+msgid "Error types"
+msgstr "Tipos de error"
+
+#: includes/csl_custom_dashboard_helper.php:636
+#, php-format
+msgid "%s recording error details"
+msgstr "%s. Detalle de errores de grabación"
+
+#: includes/csl_custom_dashboard_helper.php:663
+#: includes/csl_custom_dashboard_helper.php:730
+#: includes/csl_custom_global_helper.php:985
+#, php-format
+msgid "%s staff"
+msgstr "Equipo de %s"
+
+#: includes/csl_custom_dashboard_helper.php:669
+#: includes/csl_custom_global_helper.php:982
+msgid "Contribution"
+msgstr "ínspección y grabación"
+
+#: includes/csl_custom_dashboard_helper.php:674
+msgid "Published records"
+msgstr "Registros publicados"
+
+#: includes/csl_custom_dashboard_helper.php:691
+#, php-format
+msgid "Logged %s ago. Last activity %s ago, at %s."
+msgstr "En conexión desde hace %s. Última actividad hace %s, el %s."
+
+#: includes/csl_custom_dashboard_helper.php:700
+#, php-format
+msgid "Not logged. Last activity %s ago, at %s."
+msgstr "Sin conexión. Última actividad hace %s, el %s."
+
+#: includes/csl_custom_dashboard_helper.php:739
+msgid "Last users activity"
+msgstr "Actividad más reciente de los usuarios"
+
+#: includes/csl_custom_dashboard_helper.php:743
+#: includes/csl_custom_dashboard_helper.php:826
+msgid "Time"
+msgstr "Tiempo"
+
+#: includes/csl_custom_dashboard_helper.php:746
+msgid "Record"
+msgstr "Registro"
+
+#: includes/csl_custom_dashboard_helper.php:769
+#, php-format
+msgid "Record #%s"
+msgstr "Registro número %s"
+
+#: includes/csl_custom_dashboard_helper.php:782
+#, php-format
+msgid "%s most recently updated records"
+msgstr "Los %s registros más recientemente actualizados"
+
+#: includes/csl_custom_dashboard_helper.php:790
+msgid "Users yield"
+msgstr "Rendimiento de usuarios"
+
+#: includes/csl_custom_dashboard_helper.php:819
+msgid "Recording ranking"
+msgstr "Rangos de grabación"
+
+#: includes/csl_custom_dashboard_helper.php:824
+msgid "Work days"
+msgstr "Días de trabajo"
+
+#: includes/csl_custom_dashboard_helper.php:825
+msgid "Minutes"
+msgstr "Minutos"
+
+#: includes/csl_custom_dashboard_helper.php:847
+msgid "Summarized user timetable"
+msgstr "Hoja de trabajo resumida por usuario"
+
+#: includes/csl_custom_dashboard_helper.php:856
+msgid "Operations"
+msgstr "Operaciones"
+
+#: includes/csl_custom_dashboard_helper.php:861
+msgid "Activity (errors included)"
+msgstr "Actividad (errores incluidos)"
+
+#: includes/csl_custom_dashboard_helper.php:865
+msgid "Invalid RSS URIs"
+msgstr "URIs RSS no válidas"
+
+#: includes/csl_custom_dashboard_helper.php:872
+msgid "Low-level activity log"
+msgstr "Registro de actividad detallado"
+
+#: includes/csl_custom_dashboard_helper.php:880
+msgid "Sessions log"
+msgstr "Registro de sesiones"
+
+#: includes/csl_custom_dashboard_helper.php:884
+msgid "Users timetable"
+msgstr "Hoja de trabajo de usuarios"
+
+#: includes/csl_custom_dashboard_helper.php:914
+msgid "Duration and time"
+msgstr "Duración y tiempo"
+
+#: includes/csl_custom_dashboard_helper.php:925
+msgid "Completion level"
+msgstr "Nivel de finalización"
+
+#: includes/csl_custom_dashboard_helper.php:931
+msgid "Completion degree"
+msgstr "Grado de finalización"
+
+#: includes/csl_custom_dashboard_helper.php:934
+msgid "Global completion level"
+msgstr "Grado global de finalización"
+
+#: includes/csl_custom_dashboard_helper.php:940
+msgid "Entities completion level"
+msgstr "Grado de finalización de entidades"
+
+#: includes/csl_custom_dashboard_helper.php:946
+msgid "Exhibitions completion level"
+msgstr "Grado de finalización de exposiciones"
+
+#: includes/csl_custom_dashboard_helper.php:952
+msgid "RSS URIs completion level"
+msgstr "Grado de finalización de URIs RSS"
+
+#: includes/csl_custom_dashboard_helper.php:958
+msgid "HTML URIs completion level"
+msgstr "Grado de finalización de URIs HTML"
+
+#: includes/csl_custom_dashboard_helper.php:970
+msgid "Project timeline"
+msgstr "Línea temporal del proyecto"
+
+#: includes/csl_custom_dashboard_helper.php:976
+#: includes/csl_custom_dashboard_helper.php:982
+#, php-format
+msgid "%s completion. %s records"
+msgstr "%s completado. %s registros"
+
+#: includes/csl_custom_dashboard_helper.php:992
+#: includes/csl_custom_global_helper.php:806
+msgid "Project start"
+msgstr "Comienzo del proyecto"
+
+#: includes/csl_custom_dashboard_helper.php:994
+#: includes/csl_custom_dashboard_helper.php:1006
+#: includes/csl_custom_dashboard_helper.php:1018
+#: includes/csl_custom_dashboard_helper.php:1030
+#, php-format
+msgid "Range: from %s to %s records"
+msgstr "Rango: de %s a %s registros"
+
+#: includes/csl_custom_dashboard_helper.php:1004
+msgid "Project first quarter"
+msgstr "Primer cuarto del proyecto"
+
+#: includes/csl_custom_dashboard_helper.php:1016
+msgid "Project second quarter"
+msgstr "Segundo cuatro del proyecto"
+
+#: includes/csl_custom_dashboard_helper.php:1028
+msgid "Project third quarter"
+msgstr "Tercer cuarto del proyecto"
+
+#: includes/csl_custom_dashboard_helper.php:1040
+#: includes/csl_custom_global_helper.php:810
+msgid "Project end"
+msgstr "Fin del proyecto"
+
+#: includes/csl_custom_dashboard_helper.php:1042
+#, php-format
+msgid "Must be published %s records at the end"
+msgstr "Deben estar publicados %s registros al final"
+
+#: includes/csl_custom_dashboard_helper.php:1057
+#: includes/csl_custom_shortcodes_helper.php:435
+#: includes/csl_custom_shortcodes_helper.php:644
+msgid "Target"
+msgstr "Objetivo"
+
+#: includes/csl_custom_dashboard_helper.php:1058
+msgid "Current"
+msgstr "Actual"
+
+#: includes/csl_custom_dashboard_helper.php:1059
+#: includes/csl_custom_global_helper.php:832
+#: includes/csl_custom_global_helper.php:842
+msgid "Due"
+msgstr "Previsto"
+
+#: includes/csl_custom_dashboard_helper.php:1060
+msgid "Diff"
+msgstr "Diferencia"
+
+#: includes/csl_custom_dashboard_helper.php:1061
+msgid "Trend"
+msgstr "Tendencia"
+
+#: includes/csl_custom_dashboard_helper.php:1117
+msgid "Performance"
+msgstr "Rendimiento"
+
+#: includes/csl_custom_dashboard_helper.php:1123
+msgid "Recording & time performance"
+msgstr "Rendimiento en grabación y tiempo"
+
+#: includes/csl_custom_dashboard_helper.php:1130
+msgid "Beagle automatic task"
+msgstr "Tarea automática Beagle"
+
+#: includes/csl_custom_dashboard_helper.php:1135
+msgid "Valid URIs"
+msgstr "URIs válidas"
+
+#: includes/csl_custom_dashboard_helper.php:1136
+msgid "Checked entries"
+msgstr "Referencias verificadas"
+
+#: includes/csl_custom_dashboard_helper.php:1137
+msgid "Sapefull URIs"
+msgstr "URIs productivas"
+
+#: includes/csl_custom_dashboard_helper.php:1138
+msgid "Sapefull entries"
+msgstr "Referencias productivas"
+
+#: includes/csl_custom_dashboard_helper.php:1139
+msgid "Added entries"
+msgstr "Referencias añadidas"
+
+#: includes/csl_custom_dashboard_helper.php:1140
+msgid "Discarded entries"
+msgstr "Referencias descartadas"
+
+#: includes/csl_custom_dashboard_helper.php:1172
+#, php-format
+msgid "%s last logs of Beagle"
+msgstr "%s últimas tareas Beagle"
+
+#: includes/csl_custom_dashboard_helper.php:1180
+msgid "Global view. Entities"
+msgstr "Vista global. Entidades"
+
+#: includes/csl_custom_dashboard_helper.php:1187
+msgid "Global view. Exhibitions"
+msgstr "Vista global. Exposiciones"
+
+#: includes/csl_custom_dashboard_helper.php:1234
+#: includes/csl_custom_dashboard_helper.php:1268
+#: includes/csl_custom_dashboard_helper.php:1369
+#, php-format
+msgid "%s records updated."
+msgstr "%s registros actualizados."
+
+#: includes/csl_custom_dashboard_helper.php:1298
+#, php-format
+msgid "%s table optimization operations executed."
+msgstr "Se han realizado %s operaciones de optimización de tablas."
+
+#: includes/csl_custom_dashboard_helper.php:1351
+#, php-format
+msgid "NBC table initialized. %s elements learned as invalid, %s as valid."
+msgstr ""
+"Tabla CBI inicializada. %s elementos aprendidos como no válidos y %s como "
+"válidos."
+
+#: includes/csl_custom_dashboard_helper.php:1394
+msgid "System health"
+msgstr "Salud del sistema"
+
+#: includes/csl_custom_dashboard_helper.php:1398
+msgid "OS"
+msgstr "SO"
+
+#: includes/csl_custom_dashboard_helper.php:1399
+msgid "Time since last boot"
+msgstr "Tiempo desde último inicio"
+
+#: includes/csl_custom_dashboard_helper.php:1400
+msgid "PHP version"
+msgstr "Versión PHP"
+
+#: includes/csl_custom_dashboard_helper.php:1401
+msgid "DB space"
+msgstr "Espacio en base de datos"
+
+#: includes/csl_custom_dashboard_helper.php:1402
+#: includes/csl_custom_dashboard_helper.php:1415
+msgid "In use"
+msgstr "En uso"
+
+#: includes/csl_custom_dashboard_helper.php:1403
+#: includes/csl_custom_dashboard_helper.php:1413
+msgid "Free"
+msgstr "Libre"
+
+#: includes/csl_custom_dashboard_helper.php:1411
+msgid "Disk space"
+msgstr "Espacio en disco"
+
+#: includes/csl_custom_dashboard_helper.php:1412
+msgid "Total"
+msgstr "Total"
+
+#: includes/csl_custom_dashboard_helper.php:1414
+msgid "Memory"
+msgstr "Memoria"
+
+#: includes/csl_custom_dashboard_helper.php:1416
+msgid "Peak"
+msgstr "Pico"
+
+#: includes/csl_custom_dashboard_helper.php:1417
+msgid "Framework"
+msgstr "Patrón de programación"
+
+#: includes/csl_custom_dashboard_helper.php:1419
+msgid "Admin"
+msgstr "Administrador"
+
+#: includes/csl_custom_dashboard_helper.php:1421
+#: includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:92
+msgid "Application"
+msgstr "Aplicación"
+
+#: includes/csl_custom_dashboard_helper.php:1423
+msgid "Language"
+msgstr "Idioma"
+
+#: includes/csl_custom_dashboard_helper.php:1425
+msgid "Running processes"
+msgstr "Procesos en ejecución"
+
+#: includes/csl_custom_dashboard_helper.php:1428
+msgid "Server load"
+msgstr "Carga del servidor"
+
+#: includes/csl_custom_dashboard_helper.php:1429
+msgid "Last minute"
+msgstr "Último minuto"
+
+#: includes/csl_custom_dashboard_helper.php:1430
+msgid "Last five minutes"
+msgstr "Últimos cinco minutos"
+
+#: includes/csl_custom_dashboard_helper.php:1431
+msgid "Last fifteen minutes"
+msgstr "Últimos quince minutos"
+
+#: includes/csl_custom_dashboard_helper.php:1433
+msgid "Load chart"
+msgstr "Gráfico de carga"
+
+#: includes/csl_custom_dashboard_helper.php:1436
+msgid "Beagle status"
+msgstr "Estado de Beagle"
+
+#: includes/csl_custom_dashboard_helper.php:1438
+msgid "ACTIVE"
+msgstr "ACTIVA"
+
+#: includes/csl_custom_dashboard_helper.php:1439
+msgid "INACTIVE"
+msgstr "INACTIVA"
+
+#: includes/csl_custom_dashboard_helper.php:1441
+msgid "Beagle next run"
+msgstr "Próxima ejecución de Beagle"
+
+#: includes/csl_custom_dashboard_helper.php:1444
+msgid "Beagle schedule"
+msgstr "Planificación de Beagle"
+
+#: includes/csl_custom_dashboard_helper.php:1447
+msgid "Beagle operations"
+msgstr "Operaciones con Beagle"
+
+#: includes/csl_custom_dashboard_helper.php:1449
+msgid "Change settings"
+msgstr "Cambiar ajustes"
+
+#: includes/csl_custom_dashboard_helper.php:1451
+msgid "Beagle task direct execution"
+msgstr "Ejecución directa de tarea Beagle"
+
+#: includes/csl_custom_dashboard_helper.php:1452
+msgid "Launch task"
+msgstr "Lanzar tarea"
+
+#: includes/csl_custom_dashboard_helper.php:1455
+msgid "Housekeeping"
+msgstr "Homogeneización"
+
+#: includes/csl_custom_dashboard_helper.php:1457
+msgid "Normalize chars"
+msgstr "Normalizar caracteres"
+
+#: includes/csl_custom_dashboard_helper.php:1459
+msgid "Clean taxonomies"
+msgstr "Reorganizar taxonomías"
+
+#: includes/csl_custom_dashboard_helper.php:1461
+msgid "Optimize tables"
+msgstr "Optimizar tablas"
+
+#: includes/csl_custom_dashboard_helper.php:1463
+#: includes/csl_custom_dashboard_helper.php:1472
+msgid "Be sure to back up data before launch these tasks."
+msgstr ""
+"Asegúrese de haber realizado una copia de seguridad de los datos antes de "
+"iniciar estas tareas."
+
+#: includes/csl_custom_dashboard_helper.php:1466
+msgid "No regular duties"
+msgstr "Tareas no regulares"
+
+#: includes/csl_custom_dashboard_helper.php:1468
+msgid "Initialize NBC table"
+msgstr "Inicializar tabla CBI"
+
+#: includes/csl_custom_dashboard_helper.php:1470
+msgid "Clean chat history"
+msgstr "Limpiar mensajería"
+
+#: includes/csl_custom_dashboard_helper.php:1475
+msgid "Data export"
+msgstr "Exportación"
+
+#: includes/csl_custom_dashboard_helper.php:1476
+msgid "Format"
+msgstr "Formato"
+
+#: includes/csl_custom_dashboard_helper.php:1483
+msgid "Entities"
+msgstr "Entidades"
+
+#: includes/csl_custom_dashboard_helper.php:1485
+#: includes/csl_custom_shortcodes_helper.php:498
+msgid "Exhibitions"
+msgstr "Exposiciones"
+
+#: includes/csl_custom_dashboard_helper.php:1543
+#: includes/csl_custom_dashboard_helper.php:1544
+msgid "Settings"
+msgstr "Ajustes"
+
+#: includes/csl_custom_dashboard_helper.php:1603
+#, php-format
+msgid ""
+"From this settings screen you can configure the way %s performs calculations "
+"to assess the performance of the team and the progress of the project %s "
+"development."
+msgstr ""
+"Desde esta pantalla de ajustes es posible configurar la forma en que %s "
+"efectúa los cálculos para establecer el rendimiento del equipo de trabajo y el "
+"progreso del desarrollo del proyecto %s."
+
+#: includes/csl_custom_dashboard_helper.php:1610
+#, php-format
+msgid ""
+"According to the specified parameters, the total duration of the project is "
+"%s, and the midpoint for review is %s. The temporal evolution determines that "
+"%s is at %s of its full development."
+msgstr ""
+"De acuerdo con los parámetros vigentes en este momento, la duración total del "
+"proyecto es de %s, y el punto medio para su revisión es el %s. La evolución "
+"temporal determina que %s se encuentra al %s de su completo desarrollo."
+
+#: includes/csl_custom_dashboard_helper.php:1620
+#: includes/csl_custom_dashboard_helper.php:1623
+#: includes/csl_custom_global_helper.php:802
+msgid "Project name"
+msgstr "Nombre del proyecto"
+
+#: includes/csl_custom_dashboard_helper.php:1625
+msgid "Enter the name of the project."
+msgstr "Escriba el nombre formal del proyecto."
+
+#: includes/csl_custom_dashboard_helper.php:1630
+msgid "Project start and end dates"
+msgstr "Comienzo y fin del proyecto"
+
+#: includes/csl_custom_dashboard_helper.php:1636
+msgid "Enter the start and end dates of the project."
+msgstr "Escriba las fechas de comienzo y de finalización del proyecto."
+
+#: includes/csl_custom_dashboard_helper.php:1641
+msgid "News to show"
+msgstr "Noticias a mostrar"
+
+#: includes/csl_custom_dashboard_helper.php:1647
+msgid "Select the number of news to show in Dashboard (between 0 and 100)."
+msgstr ""
+"Seleccione el número de noticias RSS que se mostrarán en el Escritorio (entre "
+"0 y 100)."
+
+#: includes/csl_custom_dashboard_helper.php:1652
+msgid "Most recent records to show"
+msgstr "Registros más recientes"
+
+#: includes/csl_custom_dashboard_helper.php:1658
+msgid ""
+"Select the number of most recent records to show in Dashboard (between 0 and "
+"100)."
+msgstr ""
+"Seleccione el número de registros más recientemente actualizados que se "
+"mostrarán en el Escritorio (entre 0 y 100)."
+
+#: includes/csl_custom_dashboard_helper.php:1663
+msgid "Top N records to show"
+msgstr "N registros más destacados"
+
+#: includes/csl_custom_dashboard_helper.php:1669
+msgid ""
+"Select the number of top records to show in Dashboard (between 0 and 100)."
+msgstr ""
+"Seleccione el número de registros más destacados que se mostrarán en el "
+"Escritorio (entre 0 y 100)."
+
+#: includes/csl_custom_dashboard_helper.php:1674
+msgid "Admissible error rate"
+msgstr "Tasa admisible de error"
+
+#: includes/csl_custom_dashboard_helper.php:1680
+msgid ""
+"Select the maximum admissible error rate in recording processes (between 0 and "
+"100)."
+msgstr ""
+"Seleccione la tasa de error máxima admisible durante el proceso de grabación. "
+"Expresada en porcentaje."
+
+#: includes/csl_custom_dashboard_helper.php:1685
+msgid "Beagle global threshold"
+msgstr "Umbral global Beagle"
+
+#: includes/csl_custom_dashboard_helper.php:1691
+msgid "Select the maximum global threshold for Beagle (between 0 and 10)."
+msgstr "Seleccione el umbral mínimo global para Beagle (entre 0 y 50)."
+
+#: includes/csl_custom_dashboard_helper.php:1696
+msgid "Beagle relative threshold"
+msgstr "Umbral relativo Beagle"
+
+#: includes/csl_custom_dashboard_helper.php:1702
+msgid "Select the maximum relative threshold for Beagle (between 0 and 10)."
+msgstr "Seleccione el umbral mínimo relativo para Beagle (entre 0 y 10)."
+
+#: includes/csl_custom_dashboard_helper.php:1707
+msgid "Scheduled run of Beagle"
+msgstr "Ejecución de tarea programada Beagle"
+
+#: includes/csl_custom_dashboard_helper.php:1712
+msgid "Scheduled run: ACTIVE"
+msgstr "Ejecución programada: ACTIVA"
+
+#: includes/csl_custom_dashboard_helper.php:1712
+msgid "Scheduled run: INACTIVE"
+msgstr "Ejecución programada: INACTIVA"
+
+#: includes/csl_custom_dashboard_helper.php:1714
+msgid "Switch to automatically run or not run Beagle."
+msgstr ""
+"Cambie el estado de la ejecución automática de la tarea programada Beagle."
+
+#: includes/csl_custom_dashboard_helper.php:1719
+msgid "Beagle next scheduled run"
+msgstr "Próxima ejecución programada Beagle"
+
+#: includes/csl_custom_dashboard_helper.php:1724
+msgid "Select the next scheduled date for run Beagle (at 00:00:00)."
+msgstr ""
+"Seleccione la fecha para la próxima tarea programada Beagle (se ejecutará a "
+"las 00:00:00)."
+
+#: includes/csl_custom_dashboard_helper.php:1729
+msgid "Beagle schedule plan"
+msgstr "Plan de programación Beagle"
+
+#: includes/csl_custom_dashboard_helper.php:1733
+#: includes/csl_custom_global_helper.php:1430
+msgid "Hourly"
+msgstr "Cada hora"
+
+#: includes/csl_custom_dashboard_helper.php:1734
+#: includes/csl_custom_global_helper.php:1433
+msgid "Daily"
+msgstr "Cada día"
+
+#: includes/csl_custom_dashboard_helper.php:1735
+#: includes/csl_custom_global_helper.php:1436
+msgid "Twice daily"
+msgstr "Dos veces al día"
+
+#: includes/csl_custom_dashboard_helper.php:1741
+msgid "Select the appropriate schedule plan to run Beagle."
+msgstr "Seleccione la planificación adecuada para la tarea programada Beagle."
+
+#: includes/csl_custom_dashboard_helper.php:1746
+msgid "Entities target"
+msgstr "Objetivo para entidades"
+
+#: includes/csl_custom_dashboard_helper.php:1752
+msgid ""
+"Select the entities target to get at the end of the project (between 0 and "
+"100,000)."
+msgstr ""
+"Seleccione el número de entidades a tener grabadas al final del proyecto "
+"(entre 0 y 100.000)."
+
+#: includes/csl_custom_dashboard_helper.php:1757
+msgid "People target"
+msgstr "Objetivo para actores"
+
+#: includes/csl_custom_dashboard_helper.php:1763
+msgid ""
+"Select the people target to get at the end of the project (between 0 and "
+"100,000)."
+msgstr ""
+"Seleccione el número de actores a tener grabados al final del proyecto (entre "
+"0 y 100.000)."
+
+#: includes/csl_custom_dashboard_helper.php:1768
+msgid "Papers target"
+msgstr "Objetivo para catálogos"
+
+#: includes/csl_custom_dashboard_helper.php:1774
+msgid ""
+"Select the papers target to get at the end of the project (between 0 and "
+"10,000)."
+msgstr ""
+"Seleccione el número de catálogos a tener grabados al final del proyecto "
+"(entre 0 y 10.000)."
+
+#: includes/csl_custom_dashboard_helper.php:1779
+msgid "Companies target"
+msgstr "Objetivo para empresas"
+
+#: includes/csl_custom_dashboard_helper.php:1785
+msgid ""
+"Select the companies target to get at the end of the project (between 0 and "
+"5,000)."
+msgstr ""
+"Seleccione el número de empresas a tener grabadas al final del proyecto (entre "
+"0 y 5.000)."
+
+#: includes/csl_custom_dashboard_helper.php:1790
+msgid "Exhibitions target"
+msgstr "Objetivo para exposiciones"
+
+#: includes/csl_custom_dashboard_helper.php:1796
+msgid ""
+"Select the exhibitions target to get at the end of the project (between 0 and "
+"100,000)."
+msgstr ""
+"Seleccione el número de exposiciones a tener grabadas al final del proyecto "
+"(entre 0 y 100.000)."
+
+#: includes/csl_custom_dashboard_helper.php:1801
+msgid "RSS URIs target"
+msgstr "Objetivo para URIs RSS"
+
+#: includes/csl_custom_dashboard_helper.php:1807
+msgid ""
+"Select the RSS URIs target to get at the end of the project (between 0 and "
+"100,000)."
+msgstr ""
+"Seleccione el número de URIs RSS a tener grabadas al final del proyecto (entre "
+"0 y 100.000)."
+
+#: includes/csl_custom_dashboard_helper.php:1812
+msgid "HTML URIs target"
+msgstr "Objetivo para URIs HTML"
+
+#: includes/csl_custom_dashboard_helper.php:1818
+msgid ""
+"Select the HTML URIs target to get at the end of the project (between 0 and "
+"100,000)."
+msgstr ""
+"Seleccione el número de URIs HTML a tener grabadas al final del proyecto "
+"(entre 0 y 100.000)."
+
+#: includes/csl_custom_dashboard_helper.php:1860
+msgid "iArtHis_LAB"
+msgstr "iArtHis_LAB"
+
+#: includes/csl_custom_dashboard_helper.php:1861
+msgid "http://iarthis.hdplus.es/"
+msgstr "http://iarthis.hdplus.es/"
+
+#: includes/csl_custom_dashboard_helper.php:1862
+msgid "Go to iArtHis_LAB site"
+msgstr "Ir a la sede de iArtHis_LAB"
+
+#: includes/csl_custom_dashboard_helper.php:1868
+msgid "Project management"
+msgstr "Gestión de proyectos"
+
+#: includes/csl_custom_dashboard_helper.php:1869
+msgid "http://projects-tracking.hdplus.es/"
+msgstr "http://projects-tracking.hdplus.es/"
+
+#: includes/csl_custom_dashboard_helper.php:1870
+msgid "Go to project management site"
+msgstr "Ir a la sede para la gestión de proyectos"
+
+#: includes/csl_custom_definitions_helper.php:21
+#, php-format
+msgid ""
+"Is absolutely essential a PHP version greater or equal to 5.6.0 in order to "
+"run this application. This server has %s avaliable. The system will be "
+"immediately deactivated."
+msgstr ""
+"Es absolutamente imprescindible una versión de PHP mayor o igual a 5.6.0 para "
+"ejecutar esta aplicación. El servidor tiene instalada la versión %s. El "
+"sistema será inmediatamente desactivado."
+
+#: includes/csl_custom_definitions_helper.php:28
+msgid ""
+"Distributed application using client-server paradigm for <a href=\"http://www."
+"exhibitium.com\" target=\"_blank\"><strong>Exhibitium</strong></a> project and "
+"ArtCatalogs (HAR2014-51915-P) project specific information management, "
+"developed by Department of Art History staff at the University of Malaga "
+"(Spain)."
+msgstr ""
+"Aplicación distribuida que utiliza el paradigma cliente-servidor para la "
+"gestión de la información específica de los proyectos <a href=\"http://www."
+"exhibitium.com\" target=\"_blank\"><strong>Exhibitium FBBVA 2014</strong></a> "
+"y <a href=\"https://www.uma.es/media/tinyimages/file/proyectos_vigentes.pdf\" "
+"target=\"_blank\"><strong>ArtCatalogs</strong></a> (HAR2014-51915-P), "
+"desarrollada por personal del <a href=\"https://www.uma.es/departamento-de-"
+"historia-del-arte\" target=\"_blank\"><strong>Departamento de Historia del "
+"Arte</strong></a> de la <a href=\"https://www.uma.es\" target=\"_blank"
+"\"><strong>Universidad de Málaga</strong></a> (España)."
+
+#: includes/csl_custom_definitions_helper.php:29
+msgid ""
+"<a href=\"http://iarthis.hdplus.es\" target=\"_blank\"><strong>iArtHis_LAB</"
+"strong> Research Group. <a href=\"http://www.uma.es/departamento-de-historia-"
+"del-arte\" target=\"_blank\">Art History Department</a>. <a href=\"http://www."
+"uma.es\" target=\"_blank\">University of Málaga</a>."
+msgstr ""
+"Grupo de investigación <a href=\"http://iarthis.hdplus.es\" target=\"_blank"
+"\"><strong>iArtHis_LAB</strong></a>. <a href=\"http://www.uma.es/departamento-"
+"de-historia-del-arte\" target=\"_blank\">Departamento de Historia del Arte</"
+"a>. <a href=\"http://www.uma.es\" target=\"_blank\">Universidad de Málaga</a>."
+
+#: includes/csl_custom_definitions_helper.php:30
+msgid ""
+"<a href=\"http://iarthis.hdplus.es\" target=\"_blank\"><strong>iArtHis_LAB</"
+"strong> <a href=\"http://www.uma.es/departamento-de-historia-del-arte\" target="
+"\"_blank\">DHA</a>. <a href=\"http://www.uma.es\" target=\"_blank\">UMA</a>."
+msgstr ""
+"<a href=\"http://iarthis.hdplus.es\" target=\"_blank\"><strong>iArtHis_LAB</"
+"strong></a> <a href=\"http://www.uma.es/departamento-de-historia-del-arte\" "
+"target=\"_blank\">DHA</a>. <a href=\"http://www.uma.es\" target=\"_blank"
+"\">UMA</a>."
+
+#: includes/csl_custom_definitions_helper.php:31
+msgid "<a href=\"mailto:antonio.cruces@uma.es\">Antonio Cruces Rodríguez</a>"
+msgstr "<a href=\"mailto:antonio.cruces@uma.es\">Antonio Cruces Rodríguez</a>"
+
+#: includes/csl_custom_definitions_helper.php:32
+msgid ""
+"<a href=\"http://hdplus.es\" target=\"_blank\">Antonio Cruces Rodríguez</a>"
+msgstr ""
+"<a href=\"http://hdplus.es\" target=\"_blank\">Antonio Cruces Rodríguez</a>"
+
+#: includes/csl_custom_definitions_helper.php:345
+msgid "RSS URIs"
+msgstr "URIs RSS"
+
+#: includes/csl_custom_definitions_helper.php:346
+msgid "HTML URIs"
+msgstr "URIs HTML"
+
+#: includes/csl_custom_definitions_helper.php:415
+msgid "Paper illustrator"
+msgstr "Ilustrador del catálogo"
+
+#: includes/csl_custom_global_helper.php:179
+msgid "First"
+msgstr "Primero"
+
+#: includes/csl_custom_global_helper.php:180
+msgid "Last"
+msgstr "Último"
+
+#: includes/csl_custom_global_helper.php:181
+msgid "Previous"
+msgstr "Anterior"
+
+#: includes/csl_custom_global_helper.php:182
+msgid "Next"
+msgstr "Siguiente"
+
+#: includes/csl_custom_global_helper.php:198
+#, php-format
+msgid "Page %s of %s"
+msgstr "Página %s de %s"
+
+#: includes/csl_custom_global_helper.php:477
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+"Alguien ha solicitado el reinicio de la contraseña para el siguiente perfil de "
+"usuario:"
+
+#: includes/csl_custom_global_helper.php:479
+#, php-format
+msgid "Username: %s"
+msgstr "Usuario: %s"
+
+#: includes/csl_custom_global_helper.php:480
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+"Si se trata de un error, simplemente ignore este mensaje y no sucederá nada."
+
+#: includes/csl_custom_global_helper.php:481
+msgid "To reset your password, visit the following address:"
+msgstr "Para reiniciar su contraseña, visite la siguiente dirección:"
+
+#: includes/csl_custom_global_helper.php:491
+#, php-format
+msgid "[%s] Password Reset"
+msgstr "[%s] Reinicio de contraseña"
+
+#: includes/csl_custom_global_helper.php:497
+msgid "The e-mail could not be sent."
+msgstr "El mensaje de correo electrónico no ha podido ser enviado."
+
+#: includes/csl_custom_global_helper.php:497
+msgid "Possible reason: your host may have disabled the mail() function..."
+msgstr "Posible razón: el servidor puede tener inhabilitada la función mail()…"
+
+#: includes/csl_custom_global_helper.php:503
+msgid "N/A"
+msgstr "N/D"
+
+#: includes/csl_custom_global_helper.php:734
+#, php-format
+msgid "%s new message(s) in Dashboard chat since last visit. %s"
+msgstr "%s nuevo(s) mensaje(s) desde la última consulta. %s"
+
+#: includes/csl_custom_global_helper.php:737
+msgid "Go to Dashboard chat"
+msgstr "Ir a Mensajería"
+
+#: includes/csl_custom_global_helper.php:814
+#: includes/csl_custom_global_helper.php:936
+msgid "Duration"
+msgstr "Duración"
+
+#: includes/csl_custom_global_helper.php:818
+msgid "Elapsed"
+msgstr "Transcurrido"
+
+#: includes/csl_custom_global_helper.php:822
+msgid "Remaining"
+msgstr "Restante"
+
+#: includes/csl_custom_global_helper.php:826
+msgid "Current execution level"
+msgstr "Nivel de ejecución actual"
+
+#: includes/csl_custom_global_helper.php:827
+#: includes/csl_custom_global_helper.php:837
+msgid "Real"
+msgstr "Real"
+
+#: includes/csl_custom_global_helper.php:836
+msgid "Average operation time"
+msgstr "Tiempo medio de operación"
+
+#: includes/csl_custom_global_helper.php:846
+msgid "Probable end"
+msgstr "Fin probable"
+
+#: includes/csl_custom_global_helper.php:853
+msgid "of scheduled time"
+msgstr "del tiempo previsto"
+
+#: includes/csl_custom_global_helper.php:879
+#: includes/csl_custom_global_helper.php:890
+#, php-format
+msgid "%s records published, %s in draft mode"
+msgstr "%s registros publicados, %s borradores"
+
+#: includes/csl_custom_global_helper.php:888
+msgid "Total processed records"
+msgstr "Registros totales procesados"
+
+#: includes/csl_custom_global_helper.php:931
+msgid "Task ID"
+msgstr "ID tarea"
+
+#: includes/csl_custom_global_helper.php:932
+msgid "Task name"
+msgstr "Nombre de la tarea"
+
+#: includes/csl_custom_global_helper.php:933
+msgid "Resource"
+msgstr "Recurso"
+
+#: includes/csl_custom_global_helper.php:937
+msgid "Percent complete"
+msgstr "Porcentaje completado"
+
+#: includes/csl_custom_global_helper.php:938
+msgid "Dependencies"
+msgstr "Dependencias"
+
+#: includes/csl_custom_global_helper.php:980
+msgid "Coordination"
+msgstr "coordinación"
+
+#: includes/csl_custom_global_helper.php:981
+msgid "Site management"
+msgstr "gestión de la aplicación"
+
+#: includes/csl_custom_global_helper.php:997
+#, php-format
+msgid "Is member of the %s project team"
+msgstr "Es miembro del equipo de trabajo del proyecto %s"
+
+#: includes/csl_custom_global_helper.php:1006
+msgid "Is user since"
+msgstr "Es usuario desde hace"
+
+#: includes/csl_custom_global_helper.php:1092
+#, php-format
+msgid "%s %s"
+msgstr "%s %s"
+
+#: includes/csl_custom_global_helper.php:1158
+msgid "Click to recenter map"
+msgstr "Pulsar para volver a centrar el mapa"
+
+#: includes/csl_custom_global_helper.php:1168
+msgid "Center Map"
+msgstr "Centrar mapa"
+
+#: includes/csl_custom_global_helper.php:1188
+msgid "Click to show or hide markers"
+msgstr "Pulsar para mostrar u ocultar marcadores y grupos"
+
+#: includes/csl_custom_global_helper.php:1198
+msgid "Toggle Markers"
+msgstr "Mostrar u ocultar marcadores"
+
+#: includes/csl_custom_global_helper.php:1484
+msgid "days"
+msgstr "días"
+
+#: includes/csl_custom_global_helper.php:1485
+msgid "day"
+msgstr "día"
+
+#: includes/csl_custom_global_helper.php:1486
+msgid "weeks"
+msgstr "semanas"
+
+#: includes/csl_custom_global_helper.php:1487
+msgid "week"
+msgstr "semana"
+
+#: includes/csl_custom_global_helper.php:1488
+msgid "months"
+msgstr "meses"
+
+#: includes/csl_custom_global_helper.php:1489
+msgid "month"
+msgstr "mes"
+
+#: includes/csl_custom_global_helper.php:1490
+msgid "years"
+msgstr "años"
+
+#: includes/csl_custom_global_helper.php:1491
+msgid "year"
+msgstr "año"
+
+#: includes/csl_custom_global_helper.php:1492
+#: includes/csl_custom_global_helper.php:1499
+msgid "hours"
+msgstr "horas"
+
+#: includes/csl_custom_global_helper.php:1493
+msgid "hour"
+msgstr "hora"
+
+#: includes/csl_custom_global_helper.php:1494
+msgid "minutes"
+msgstr "munitos"
+
+#: includes/csl_custom_global_helper.php:1495
+msgid "minute"
+msgstr "minuto"
+
+#: includes/csl_custom_global_helper.php:1496
+msgid "seconds"
+msgstr "segundos"
+
+#: includes/csl_custom_global_helper.php:1497
+msgid "second"
+msgstr "segundo"
+
+#: includes/csl_custom_global_helper.php:1535
+msgid "Log in session"
+msgstr "Inicio de sesión de trabajo"
+
+#: includes/csl_custom_global_helper.php:1538
+msgid "Log out session"
+msgstr "Fin de sesión de trabajo"
+
+#: includes/csl_custom_global_helper.php:1541
+msgid "Published record"
+msgstr "Registro guardado y publicado"
+
+#: includes/csl_custom_global_helper.php:1544
+msgid "Record sent to trash"
+msgstr "Registro enviado a la papelera"
+
+#: includes/csl_custom_global_helper.php:1547
+msgid "Record rescued from trash"
+msgstr "Registro recuperado de la papelera"
+
+#: includes/csl_custom_global_helper.php:1550
+msgid "Unknown action"
+msgstr "Acción desconocida"
+
+#: includes/csl_custom_global_helper.php:2161
+#, php-format
+msgid "Show all %s"
+msgstr "Mostrar todos/as los/as %s"
+
+#: includes/csl_custom_idle_autologout.php:18
+msgid "You have been logged out due to inactivity."
+msgstr "La conexión se ha cerrado por inactividad."
+
+#: includes/csl_custom_idle_autologout.php:141
+#: includes/csl_custom_idle_autologout.php:156
+msgid "WP Idle Logout Options"
+msgstr "Opciones de autodesconexión por inactividad"
+
+#: includes/csl_custom_idle_autologout.php:142
+msgid "Idle Logout"
+msgstr "Autodesconexión"
+
+#: includes/csl_custom_idle_autologout.php:182
+msgid "Idle Time"
+msgstr "Segundos de inactividad"
+
+#: includes/csl_custom_idle_autologout.php:198
+msgid "Idle Message"
+msgstr "Mensaje de error"
+
+#: includes/csl_custom_idle_autologout.php:218
+msgid "How long (in seconds) should users be idle for before being logged out?"
+msgstr ""
+"Cuánto tiempo (en segundos) debe estar el usuario sin realizar ninguna "
+"actividad antes de ser desconectado."
+
+#: includes/csl_custom_idle_autologout.php:228
+msgid ""
+"Overrides the default message shown to idle users when redirected to the login "
+"screen."
+msgstr ""
+"Sobreescribe el mensaje de desconexión automática establecido por defecto. "
+"Dicho mensaje se mostrará en la pantalla de conexión."
+
+#: includes/csl_custom_local_avatars.php:22
+msgid "Suitable for all audiences"
+msgstr "Apta para todos los públicos"
+
+#: includes/csl_custom_local_avatars.php:23
+msgid "Possibly offensive, usually for audiences 13 and above"
+msgstr "Para mayores de trece años"
+
+#: includes/csl_custom_local_avatars.php:24
+msgid "Intended for adult audiences above 17"
+msgstr "Para mayores de diecisiete años"
+
+#: includes/csl_custom_local_avatars.php:25
+msgid "Even more mature than above"
+msgstr "Para mayores de veintiún años"
+
+#: includes/csl_custom_local_avatars.php:154
+msgid "Local Avatars Only"
+msgstr "Sólo fotografías locales"
+
+#: includes/csl_custom_local_avatars.php:158
+msgid "Only allow local avatars (still uses Gravatar for default avatars)"
+msgstr ""
+"Solamente está permitido el uso de fotografía de usuario locales (aunque se "
+"empleará Gravatar para las fotografías por defecto)."
+
+#: includes/csl_custom_local_avatars.php:162
+msgid "Local Upload Permissions"
+msgstr "Permisos para envío de archivos"
+
+#: includes/csl_custom_local_avatars.php:166
+msgid ""
+"Only allow users with file upload capabilities to upload local avatars "
+"(Authors and above)"
+msgstr ""
+"Solamente los usuarios que dispongan de autorización para enviar archivos (rol "
+"de autor o superior)."
+
+#: includes/csl_custom_local_avatars.php:170
+msgid "Local Avatar by Default"
+msgstr "Fotografía local por defecto"
+
+#: includes/csl_custom_local_avatars.php:174
+msgid "Allows you to choose a user, so its avatar will be used by default"
+msgstr ""
+"Es posible seleccionar un usuario cuya fotografía se empleará como imagen de "
+"otros usuarios en ausencia de una."
+
+#: includes/csl_custom_local_avatars.php:197
+msgid "Choose an Avatar"
+msgstr "Seleccionar una fotografía"
+
+#: includes/csl_custom_local_avatars.php:198
+msgid "Set as avatar"
+msgstr "Establecer la imagen como fotografía"
+
+#: includes/csl_custom_local_avatars.php:277
+msgid "Avatar"
+msgstr "Fotografía"
+
+#: includes/csl_custom_local_avatars.php:281
+msgid "Upload Avatar"
+msgstr "Enviar fotografía"
+
+#: includes/csl_custom_local_avatars.php:304
+msgid "Choose an image from your computer"
+msgstr "Seleccione una fotografía en su ordenador"
+
+#: includes/csl_custom_local_avatars.php:309
+msgid "Choose from Media Library"
+msgstr "Seleccione una fotografía de la Biblioteca de Medios"
+
+#: includes/csl_custom_local_avatars.php:310
+msgid "Delete local avatar"
+msgstr "Borrar fotografía"
+
+#: includes/csl_custom_local_avatars.php:315
+msgid "No local avatar is set. Set up your avatar at Gravatar.com."
+msgstr ""
+"No se ha establecido una fotografía asociada al usuario. Deberá darse de alta "
+"en Gravatar.com."
+
+#: includes/csl_custom_local_avatars.php:317
+msgid ""
+"You do not have media management permissions. To change your local avatar, "
+"contact the blog administrator."
+msgstr ""
+"Carede de autorización para gestionar imágenes. Si desea modificar su "
+"fotografía, contacte con el administrador de la aplicación."
+
+#: includes/csl_custom_local_avatars.php:323
+#: includes/csl_custom_local_avatars.php:326
+msgid "Avatar rating"
+msgstr "Calificación de la fotografía"
+
+#: includes/csl_custom_local_avatars.php:335
+msgid ""
+"If the local avatar is inappropriate for this site, Gravatar will be attempted."
+msgstr ""
+"Si la fotografía no es apropiada para su uso en esta aplicación, se empleará "
+"la correspondiente al perfil en Gravatar."
+
+#: includes/csl_custom_local_avatars.php:387
+msgid "For security reasons, the extension \".php\" cannot be in your file name."
+msgstr ""
+"Por motivos de seguridad, la extensión \".php\" no puede figurar en el nombre "
+"del archivo."
+
+#: includes/csl_custom_local_avatars.php:415
+msgid "Please upload a valid image file for the avatar."
+msgstr "Envíe un archivo válido de imagen para la fotografía."
+
+#: includes/csl_custom_local_avatars.php:418
+msgid "There was an error uploading the avatar"
+msgstr "Se ha producido un error al enviar el archivo de imagen"
+
+#: includes/csl_custom_local_avatars.php:457
+msgid "You do not have permission to edit this user."
+msgstr "Carece de autorización para modificar los datos de este usuario."
+
+#: includes/csl_custom_mail_helper.php:65
+msgid "Administrative message"
+msgstr "Mensaje administrativo"
+
+#: includes/csl_custom_post_helper.php:52
+#, php-format
+msgid "Add new %s"
+msgstr "Añadir %s"
+
+#: includes/csl_custom_post_helper.php:53
+#, php-format
+msgid "New %s"
+msgstr "Nuevo/a %s"
+
+#: includes/csl_custom_post_helper.php:54
+#, php-format
+msgid "Edit %s"
+msgstr "Modificar %s"
+
+#: includes/csl_custom_post_helper.php:55
+#, php-format
+msgid "View %s"
+msgstr "Ver %s"
+
+#: includes/csl_custom_post_helper.php:56
+#, php-format
+msgid "All %s"
+msgstr "Lista de %s"
+
+#: includes/csl_custom_post_helper.php:57
+#, php-format
+msgid "Search %s"
+msgstr "Buscar %s"
+
+#: includes/csl_custom_post_helper.php:58
+#, php-format
+msgid "Parent %s:"
+msgstr "Ancestro (%s):"
+
+#: includes/csl_custom_post_helper.php:59
+#, php-format
+msgid "No %s found"
+msgstr "No se han encontrado %s"
+
+#: includes/csl_custom_post_helper.php:60
+#, php-format
+msgid "No %s found in Trash"
+msgstr "No se han encontrado %s en la papelera"
+
+#: includes/csl_custom_post_helper.php:129
+msgid "All"
+msgstr "Todo"
+
+#: includes/csl_custom_post_helper.php:130
+#: includes/csl_custom_post_helper.php:131
+msgid "Parent"
+msgstr "Ancestro"
+
+#: includes/csl_custom_post_helper.php:132
+msgid "Edit"
+msgstr "Modificar"
+
+#: includes/csl_custom_post_helper.php:133
+msgid "Update"
+msgstr "Actualizar"
+
+#: includes/csl_custom_post_helper.php:134
+msgid "Add new"
+msgstr "Añadir"
+
+#: includes/csl_custom_post_helper.php:135
+msgid "New name for"
+msgstr "Nuevo nombre para"
+
+#: includes/csl_custom_post_helper.php:359
+#: includes/csl_custom_post_helper.php:428
+msgid "Not stored value"
+msgstr "Valor no almacenado"
+
+#: includes/csl_custom_post_helper.php:404
+msgid "Unable to locate any PST in original information source"
+msgstr ""
+"No ha sido posible localizar datos PMS en la fuente original de información."
+
+#: includes/csl_custom_post_helper.php:490
+#: includes/csl_custom_post_helper.php:510
+msgid "Select one"
+msgstr "Seleccione un elemento"
+
+#: includes/csl_custom_post_helper.php:500
+msgid "Manage"
+msgstr "Gestionar"
+
+#: includes/csl_custom_post_helper.php:536
+msgid "Choose Image"
+msgstr "Seleccionar imagen"
+
+#: includes/csl_custom_post_helper.php:537
+msgid "Remove Image"
+msgstr "Eliminar imagen"
+
+#: includes/csl_custom_post_helper.php:548
+#: includes/csl_custom_post_helper.php:554
+#: includes/csl_custom_post_helper.php:567
+#: includes/csl_custom_post_helper.php:574
+#: includes/csl_custom_post_helper.php:605
+#: includes/csl_custom_post_helper.php:613
+#: includes/csl_custom_post_helper.php:633
+#: includes/csl_custom_post_helper.php:641
+msgid "Remove"
+msgstr "B"
+
+#: includes/csl_custom_post_helper.php:557
+#: includes/csl_custom_post_helper.php:580
+#: includes/csl_custom_post_helper.php:619
+#: includes/csl_custom_post_helper.php:647
+msgid "Create a new item in the list"
+msgstr "Crear un nuevo elemento en la lista"
+
+#: includes/csl_custom_post_helper.php:621
+#: includes/csl_custom_post_helper.php:649
+msgid "Verification status colors"
+msgstr "Colores de estados de verificación"
+
+#: includes/csl_custom_post_helper.php:887
+#, php-format
+msgid "Enter the official name for %s"
+msgstr "Escriba el nombre oficial de la %s"
+
+#: includes/csl_custom_post_helper.php:948
+#, php-format
+msgid "There is not related %s records"
+msgstr "No hay %s vinculadas a este registro"
+
+#: includes/csl_custom_profiling_tools.php:14
+#, php-format
+msgid "%s sec: %s"
+msgstr "%s seg: %s"
+
+#: includes/csl_custom_profiling_tools.php:24
+#, php-format
+msgid "%s queries in %s seconds, using %s memory"
+msgstr "%s consultas en %s segundos, utilizando %s de memoria"
+
+#: includes/csl_custom_scripts_helper.php:69
+#: includes/csl_custom_scripts_helper.php:165
+msgid "Document ready."
+msgstr "Documento preparado."
+
+#: includes/csl_custom_scripts_helper.php:70
+msgid "Report"
+msgstr "Informe"
+
+#: includes/csl_custom_scripts_helper.php:71
+msgid "Searching&hellip;"
+msgstr "Buscando&hellip;"
+
+#: includes/csl_custom_scripts_helper.php:72
+msgid "Found RSS/Atom linked URIs"
+msgstr "Se ha(n) localizado URIs RSS/Atom vinculadas"
+
+#: includes/csl_custom_scripts_helper.php:74
+msgid "Result"
+msgstr "Resultado"
+
+#: includes/csl_custom_scripts_helper.php:75
+msgid "results"
+msgstr "resultados"
+
+#: includes/csl_custom_scripts_helper.php:76
+msgid "There is not enough information to find linked RSS/Atom URIs."
+msgstr "No hay suficiente información para localizar URIs RSS/Atom vinculadas."
+
+#: includes/csl_custom_scripts_helper.php:77
+msgid "Any linked RSS/Atom URIs found."
+msgstr "No se ha localizado ninguna URI RSS/Atom vinculada."
+
+#: includes/csl_custom_scripts_helper.php:78
+msgid "Record checked"
+msgstr "Registro verificado"
+
+#: includes/csl_custom_scripts_helper.php:79
+msgid "Found RSS/Atom related URIs"
+msgstr "Se ha(n) localizado URIs RSS/Atom relacionada(s)"
+
+#: includes/csl_custom_scripts_helper.php:80
+msgid "There is not enough information to find related RSS/Atom URIs."
+msgstr "No hay suficiente información para localizar URIs RSS/Atom relacionadas."
+
+#: includes/csl_custom_scripts_helper.php:81
+msgid "Any related RSS/Atom URIs found."
+msgstr "No se ha localizado ninguna URI RSS/Atom relacionada."
+
+#: includes/csl_custom_scripts_helper.php:82
+msgid "There are some errors in record verified fields."
+msgstr ""
+"Se ha(n) detectado algunos errores en los campos verificados del registro."
+
+#: includes/csl_custom_scripts_helper.php:83
+msgid "There are no errors in record verified fields."
+msgstr "No se ha encontrado ningún error en los campos verificados del registro."
+
+#: includes/csl_custom_scripts_helper.php:84
+msgid "Do you want to open this link using a new window or tab?"
+msgstr ""
+"¿Desea que este enlace se abra en una nueva ventana o pestaña del navegador? "
+"Ello le permitirá dar de alta cualquier registro que desee en la tabla de "
+"destino sin desplazarse del registro con el que actualmente esté trabajando."
+
+#: includes/csl_custom_scripts_helper.php:85
+msgid ""
+"If the term to be inserted include some commas (,), replace them by semicolon "
+"(;)"
+msgstr "Si el término incluye alguna coma, reemplácela por punto y coma"
+
+#: includes/csl_custom_scripts_helper.php:88
+#: includes/csl_custom_scripts_helper.php:166
+#: includes/csl_custom_scripts_helper.php:170
+msgid "Quantity of records (logarithmic scale)"
+msgstr "Cantidad de registros (escala logarítmica)"
+
+#: includes/csl_custom_scripts_helper.php:89
+msgid "Percent of records"
+msgstr "Porcentaje de registros"
+
+#: includes/csl_custom_scripts_helper.php:90
+#: includes/csl_custom_scripts_helper.php:167
+msgid "Record status"
+msgstr "Estado de los registros"
+
+#: includes/csl_custom_scripts_helper.php:91
+msgid "Error description"
+msgstr "Descripción del error"
+
+#: includes/csl_custom_scripts_helper.php:92
+msgid "Typologies"
+msgstr "Tipologías"
+
+#: includes/csl_custom_scripts_helper.php:93
+msgid "Regions"
+msgstr "Regiones"
+
+#: includes/csl_custom_scripts_helper.php:94
+#: includes/csl_custom_scripts_helper.php:171
+msgid "Cities"
+msgstr "Ciudades"
+
+#: includes/csl_custom_scripts_helper.php:95
+msgid "Users"
+msgstr "Usuarios"
+
+#: includes/csl_custom_scripts_helper.php:96
+#: includes/csl_custom_scripts_helper.php:168
+msgid "Quantity (logarithmic scale)"
+msgstr "Cantidad (escala logarítmica)"
+
+#: includes/csl_custom_scripts_helper.php:97
+msgid "Quantity"
+msgstr "Cantidad"
+
+#: includes/csl_custom_scripts_helper.php:98
+#: includes/csl_custom_scripts_helper.php:169
+msgid "Dates"
+msgstr "Fechas"
+
+#: includes/csl_custom_scripts_helper.php:99
+msgid "The form is not properly completed and there are some errors"
+msgstr ""
+"El registro no ha sido cumplimentado según las normas establecidas y contiene "
+"algunos errores."
+
+#: includes/csl_custom_scripts_helper.php:100
+msgid "However would you save the form?"
+msgstr "Aún así ¿desea publicar o actualizar el registro?"
+
+#: includes/csl_custom_scripts_helper.php:101
+msgid "mandatory field"
+msgstr "campo obligatorio"
+
+#: includes/csl_custom_scripts_helper.php:173
+msgid "Copying data to Clipboard"
+msgstr "Copiando datos al portapapeles"
+
+#: includes/csl_custom_scripts_helper.php:174
+#, php-format
+msgid "%d rows copied"
+msgstr "%d filas copiadas"
+
+#: includes/csl_custom_scripts_helper.php:175
+msgid "1 row copied"
+msgstr "1 fila copiada"
+
+#: includes/csl_custom_scripts_helper.php:177
+msgid "Totalized value for last column"
+msgstr "Valor totalizado de la última columna"
+
+#: includes/csl_custom_scripts_helper.php:178
+msgid "(current page)"
+msgstr "(página actual)"
+
+#: includes/csl_custom_scripts_helper.php:179
+msgid "(all pages)"
+msgstr "(todas las páginas)"
+
+#: includes/csl_custom_scripts_helper.php:181
+msgid "<u>C</u>opy"
+msgstr "<u>C</u>opiar"
+
+#: includes/csl_custom_scripts_helper.php:182
+msgid "CSV"
+msgstr "CSV"
+
+#: includes/csl_custom_scripts_helper.php:183
+msgid "Excel"
+msgstr "Excel"
+
+#: includes/csl_custom_scripts_helper.php:184
+msgid "PDF"
+msgstr "PDF"
+
+#: includes/csl_custom_scripts_helper.php:185
+msgid "<u>P</u>rint"
+msgstr "<u>I</u>mprimir"
+
+#: includes/csl_custom_scripts_helper.php:186
+msgid "c"
+msgstr "c"
+
+#: includes/csl_custom_scripts_helper.php:187
+msgid "p"
+msgstr "i"
+
+#: includes/csl_custom_scripts_helper.php:189
+msgid "Bar"
+msgstr "Barras"
+
+#: includes/csl_custom_scripts_helper.php:190
+msgid "Pie"
+msgstr "Tarta"
+
+#: includes/csl_custom_scripts_helper.php:191
+msgid "Columns"
+msgstr "Columnas"
+
+#: includes/csl_custom_scripts_helper.php:192
+msgid "Area"
+msgstr "Área"
+
+#: includes/csl_custom_scripts_helper.php:193
+msgid "Line"
+msgstr "Líneas"
+
+#: includes/csl_custom_scripts_helper.php:194
+msgid "Show chart"
+msgstr "Mostrar gráfico"
+
+#: includes/csl_custom_scripts_helper.php:195
+msgid "Hide chart"
+msgstr "Ocultar gráfico"
+
+#: includes/csl_custom_scripts_helper.php:196
+msgid "Show table"
+msgstr "Mostrar tabla"
+
+#: includes/csl_custom_scripts_helper.php:197
+msgid "Hide table"
+msgstr "Ocultar tabla"
+
+#: includes/csl_custom_scripts_helper.php:198
+msgid "Create chart"
+msgstr "Crear gráfico"
+
+#: includes/csl_custom_scripts_helper.php:199
+msgid "Edit chart"
+msgstr "Modificar gráfico"
+
+#: includes/csl_custom_scripts_helper.php:200
+msgid "expoFinderCookie"
+msgstr "expoFinderCookie"
+
+#: includes/csl_custom_scripts_helper.php:201
+msgid "on"
+msgstr "on"
+
+#: includes/csl_custom_scripts_helper.php:202
+msgid "Cookies:"
+msgstr "Política de cookies:"
+
+#: includes/csl_custom_scripts_helper.php:203
+msgid ""
+"We use own and third party cookies to improve our services and show related "
+"advertising to your preferences by analyzing your browsing habits. If you go "
+"on surfing, we will consider you accepting its use. You can change the "
+"settings or get more information using the link below."
+msgstr ""
+"Utilizamos cookies propias y de terceros para mejorar nuestros servicios y "
+"mostrarle publicidad relacionada con sus preferencias mediante el análisis de "
+"sus hábitos de navegación. Si continua navegando, consideramos que acepta su "
+"uso. Puede cambiar la configuración u obtener más información usando el "
+"siguiente enlace."
+
+#: includes/csl_custom_scripts_helper.php:204
+msgid "I Accept"
+msgstr "Acepto"
+
+#: includes/csl_custom_scripts_helper.php:205
+msgid "/legal"
+msgstr "/legal"
+
+#: includes/csl_custom_scripts_helper.php:206
+msgid "Get more info about legal and security conditions"
+msgstr "Obtener más información acerca de las condiciones legales y de seguridad"
+
+#: includes/csl_custom_shortcodes_helper.php:29
+#, php-format
+msgid "%s project summarized Gantt chart"
+msgstr "Diagrama de Gantt resumido del proyecto %s"
+
+#: includes/csl_custom_shortcodes_helper.php:30
+msgid "Recording status"
+msgstr "Estado de la grabación"
+
+#: includes/csl_custom_shortcodes_helper.php:31
+msgid "Entities map"
+msgstr "Mapa de entidades"
+
+#: includes/csl_custom_shortcodes_helper.php:32
+msgid "Exhibitions map"
+msgstr "Mapa de exposiciones"
+
+#: includes/csl_custom_shortcodes_helper.php:55
+msgid "Top records by record type and metainfo or taxonomy"
+msgstr "Máximo de registros por tipo, metainformación y taxonomía"
+
+#: includes/csl_custom_shortcodes_helper.php:65
+#: includes/csl_custom_shortcodes_helper.php:641
+#: includes/csl_custom_shortcodes_helper.php:661
+msgid "Record type"
+msgstr "Tipo de registro"
+
+#: includes/csl_custom_shortcodes_helper.php:80
+msgid "Info type"
+msgstr "Tipo de información"
+
+#: includes/csl_custom_shortcodes_helper.php:82
+#: includes/csl_custom_shortcodes_helper.php:126
+msgid "Anyone"
+msgstr "Cualquiera"
+
+#: includes/csl_custom_shortcodes_helper.php:91
+msgid "Get the top"
+msgstr "Obtener los primeros"
+
+#: includes/csl_custom_shortcodes_helper.php:97
+msgid "values with more records"
+msgstr "valores con más registros"
+
+#: includes/csl_custom_shortcodes_helper.php:102
+msgid "Get results"
+msgstr "Obtener resultados"
+
+#: includes/csl_custom_shortcodes_helper.php:123
+#, php-format
+msgid "Top %s %s records by %s"
+msgstr "Los %s registros de %s más destacados por %s"
+
+#: includes/csl_custom_shortcodes_helper.php:132
+msgid "Cross-reference data table"
+msgstr "Tabla de datos de referencias cruzadas"
+
+#: includes/csl_custom_shortcodes_helper.php:135
+msgid ""
+"In statistics, a contingency table (also referred to as cross tabulation or "
+"crosstab) is a type of table in a matrix format that displays the frequency "
+"distribution of the variables. They are heavily used in survey research, "
+"business intelligence, engineering and scientific research. They provide a "
+"basic picture of the interrelation between two variables and can help find "
+"interactions between them."
+msgstr ""
+"En estadística, una tabla de contingencia (también denominada tabulación "
+"cruzada) es un tipo de tabla con formato de matriz que muestra la distribución "
+"de frecuencias de un grupo de variables. Se usa con mucha frecuencia en "
+"investigación científica y técnica, en ingeniería y en inteligencia comercial "
+"o financiera. Facilita una imagen básica de la interrelación entre pares de "
+"variables y es de gran ayuda para encontrar sus interacciones."
+
+#: includes/csl_custom_shortcodes_helper.php:140
+#, php-format
+msgid ""
+"Below is shown a toolkit to create a crosstab using %s project stored "
+"references. Moving the field buttons and selecting the appropriate operations "
+"you can get a quick overview of the essential relationships between different "
+"elements. For operational reasons, only the top %s values with more than one "
+"records are displayed."
+msgstr ""
+"A continuación se muestra un juego de herramientas de tabla de contingencia "
+"que utiliza las referencia almacenadas del proyecto %s. Moviendo los botones "
+"que representan campos y seleccionando las apropiadas operaciones podrá "
+"obtener una vista rápida de las relaciones esenciales entre los diferentes "
+"elementos. Por razones operativas solo se muestran los %s valores más elevados "
+"de las informaciones atribuibles a más de un registro."
+
+#: includes/csl_custom_shortcodes_helper.php:167
+msgid "Loading data&hellip;"
+msgstr "Cargando datos&hellip;"
+
+#: includes/csl_custom_shortcodes_helper.php:259
+#, php-format
+msgid "There is %s available query."
+msgid_plural "There are %s available queries."
+msgstr[0] "Hay %s consulta disponible."
+msgstr[1] "Hay %s consultas disponibles."
+
+#: includes/csl_custom_shortcodes_helper.php:283
+msgid "Run"
+msgstr "Ejecutar"
+
+#: includes/csl_custom_shortcodes_helper.php:295
+msgid "Data table"
+msgstr "Tabla de datos"
+
+#: includes/csl_custom_shortcodes_helper.php:297
+msgid "Pivot table"
+msgstr "Tabla dinámica"
+
+#: includes/csl_custom_shortcodes_helper.php:300
+msgid "Chart"
+msgstr "Gráfico resumen"
+
+#: includes/csl_custom_shortcodes_helper.php:423
+msgid "Project completion degree"
+msgstr "Grado de finalización del proyecto"
+
+#: includes/csl_custom_shortcodes_helper.php:426
+msgid "Published vs Target Records"
+msgstr "Registros publicados y objetivos"
+
+#: includes/csl_custom_shortcodes_helper.php:434
+msgid "Publish"
+msgstr "Publicado"
+
+#: includes/csl_custom_shortcodes_helper.php:441
+msgid "Recorded people by Gender"
+msgstr "Actores registrados por sexo"
+
+#: includes/csl_custom_shortcodes_helper.php:446
+msgid "Woman"
+msgstr "Mujer"
+
+#: includes/csl_custom_shortcodes_helper.php:446
+msgid "Men"
+msgstr "Hombre"
+
+#: includes/csl_custom_shortcodes_helper.php:449
+msgid "Amount"
+msgstr "Cantidad"
+
+#: includes/csl_custom_shortcodes_helper.php:457
+#, php-format
+msgid "Top %s strong relations"
+msgstr "Las %s relaciones más fuertes"
+
+#: includes/csl_custom_shortcodes_helper.php:461
+#, php-format
+msgid "Top %s more active towns"
+msgstr "Las %s ciudades más activas"
+
+#: includes/csl_custom_shortcodes_helper.php:555
+#, php-format
+msgid "Published: <strong>%s</strong>"
+msgstr "Publicado: <strong>%s</strong>"
+
+#: includes/csl_custom_shortcodes_helper.php:556
+#, php-format
+msgid "Draft: <strong>%s</strong>"
+msgstr "Borrador: <strong>%s</strong>"
+
+#: includes/csl_custom_shortcodes_helper.php:557
+#: includes/csl_custom_shortcodes_helper.php:603
+#, php-format
+msgid "Target: <strong>%s</strong>"
+msgstr "Objetivo: <strong>%s</strong>"
+
+#: includes/csl_custom_shortcodes_helper.php:558
+#: includes/csl_custom_shortcodes_helper.php:604
+#, php-format
+msgid "Completion: <strong>%s</strong>"
+msgstr "Finalización: <strong>%s</strong>"
+
+#: includes/csl_custom_shortcodes_helper.php:559
+#, php-format
+msgid "Draft percent: <strong>%s</strong>"
+msgstr "Porcentaje de borradores: <strong>%s</strong>"
+
+#: includes/csl_custom_shortcodes_helper.php:602
+#, php-format
+msgid "URIs: <strong>%s</strong>"
+msgstr "URIs: <strong>%s</strong>"
+
+#: includes/csl_custom_shortcodes_helper.php:642
+msgid "Published"
+msgstr "Publicado"
+
+#: includes/csl_custom_shortcodes_helper.php:643
+msgid "Draft"
+msgstr "Borrador"
+
+#: includes/csl_custom_shortcodes_helper.php:659
+msgid "Tasks completion degree"
+msgstr "Grado de finalización de tareas"
+
+#: includes/csl_custom_shortcodes_helper.php:750
+msgid "Contact data"
+msgstr "Datos de contacto"
+
+#: includes/csl_custom_shortcodes_helper.php:760
+#: includes/csl_custom_shortcodes_helper.php:884
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/csl_custom_shortcodes_helper.php:773
+#: includes/csl_custom_shortcodes_helper.php:897
+msgid "Current time"
+msgstr "Fecha y hora"
+
+#: includes/csl_custom_shortcodes_helper.php:779
+#: includes/csl_custom_shortcodes_helper.php:824
+#: includes/csl_custom_shortcodes_helper.php:909
+msgid "Request type"
+msgstr "Tipo de consulta"
+
+#: includes/csl_custom_shortcodes_helper.php:782
+msgid "Info request"
+msgstr "Consulta de información"
+
+#: includes/csl_custom_shortcodes_helper.php:785
+msgid "Help request"
+msgstr "Consulta de ayuda"
+
+#: includes/csl_custom_shortcodes_helper.php:791
+#: includes/csl_custom_shortcodes_helper.php:793
+msgid "Subject"
+msgstr "Asunto"
+
+#: includes/csl_custom_shortcodes_helper.php:797
+#: includes/csl_custom_shortcodes_helper.php:945
+msgid "Message"
+msgstr "Mensaje"
+
+#: includes/csl_custom_shortcodes_helper.php:804
+#: includes/csl_custom_shortcodes_helper.php:952
+msgid "Submit"
+msgstr "Enviar"
+
+#: includes/csl_custom_shortcodes_helper.php:814
+#: includes/csl_custom_shortcodes_helper.php:962
+msgid "Security check error."
+msgstr "Error de verificación de seguridad."
+
+#: includes/csl_custom_shortcodes_helper.php:822
+#: includes/csl_custom_shortcodes_helper.php:977
+msgid "User name"
+msgstr "Nombre de usuario"
+
+#: includes/csl_custom_shortcodes_helper.php:823
+#: includes/csl_custom_shortcodes_helper.php:978
+msgid "User login"
+msgstr "Identificación de usuario"
+
+#: includes/csl_custom_shortcodes_helper.php:825
+msgid "Request time"
+msgstr "Fecha y hora de solicitud"
+
+#: includes/csl_custom_shortcodes_helper.php:826
+msgid "Request subject"
+msgstr "Asunto de solicitud"
+
+#: includes/csl_custom_shortcodes_helper.php:835
+msgid ""
+"<strong>Your request has been succesfully sent</strong>. You will receive an "
+"answer as soon as possible."
+msgstr ""
+"<strong>Su solicitud ha sido correctamente enviada</strong>. Recibirá una "
+"respuesta tan pronto como sea posible."
+
+#: includes/csl_custom_shortcodes_helper.php:840
+#, php-format
+msgid ""
+"<strong>Your request could not be sent</strong>. An error has occurred during "
+"process. You can contact with site administrator <a href=\"mailto:%s\">here</"
+"a>."
+msgstr ""
+"<strong>Su solicitud no ha podido ser enviada</strong>. Se ha producido un "
+"error durante el proceso. Puede contactar con el administrador de la sede <a "
+"href=\"mailto:%s\">aquí</a>."
+
+#: includes/csl_custom_shortcodes_helper.php:847
+#: includes/csl_custom_shortcodes_helper.php:1004
+msgid ""
+"<strong>Error in mandatory fields</strong>. One or more required fields have "
+"not been correctly entered."
+msgstr ""
+"<strong>Error en campos obligatorios</strong>. Uno o más campos obligatorios "
+"no han sido debidamente cumplimentados."
+
+#: includes/csl_custom_shortcodes_helper.php:872
+msgid "Error notification"
+msgstr "Notificación de error"
+
+#: includes/csl_custom_shortcodes_helper.php:903
+msgid "Page where bug has been found"
+msgstr "Se ha localizado un error en la página"
+
+#: includes/csl_custom_shortcodes_helper.php:912
+#: includes/csl_custom_shortcodes_helper.php:966
+msgid "Error message shown"
+msgstr "Se muestra un mensaje de error"
+
+#: includes/csl_custom_shortcodes_helper.php:916
+#: includes/csl_custom_shortcodes_helper.php:967
+msgid "Blank page shown"
+msgstr "La página está en blanco"
+
+#: includes/csl_custom_shortcodes_helper.php:920
+#: includes/csl_custom_shortcodes_helper.php:968
+msgid "Incorrect results shown"
+msgstr "Los resultados mostrados son incorrectos"
+
+#: includes/csl_custom_shortcodes_helper.php:924
+#: includes/csl_custom_shortcodes_helper.php:969
+msgid "Slow response time"
+msgstr "Tiempo de respuesta lento"
+
+#: includes/csl_custom_shortcodes_helper.php:928
+#: includes/csl_custom_shortcodes_helper.php:970
+msgid "Security risk detected"
+msgstr "Detectado riesgo de seguridad"
+
+#: includes/csl_custom_shortcodes_helper.php:932
+msgid "Logical error (Content error)"
+msgstr "Error lógico (Error de contenido)"
+
+#: includes/csl_custom_shortcodes_helper.php:939
+#: includes/csl_custom_shortcodes_helper.php:941
+#: includes/csl_custom_shortcodes_helper.php:983
+msgid "Bug short description"
+msgstr "Descripción breve del error"
+
+#: includes/csl_custom_shortcodes_helper.php:979
+msgid "Bug type"
+msgstr "Tipo de error"
+
+#: includes/csl_custom_shortcodes_helper.php:980
+msgid "Bug notification time"
+msgstr "Fecha y hora de notificación de error"
+
+#: includes/csl_custom_shortcodes_helper.php:981
+msgid "Buggy page ID"
+msgstr "ID de página errónea"
+
+#: includes/csl_custom_shortcodes_helper.php:982
+msgid "Buggy page title"
+msgstr "Título de página errónea"
+
+#: includes/csl_custom_shortcodes_helper.php:985
+#, php-format
+msgid "%s Bug Notification"
+msgstr "Notificación de error %s"
+
+#: includes/csl_custom_shortcodes_helper.php:992
+msgid ""
+"<strong>Your bug notification has been succesfully sent</strong>. You will "
+"receive an administrative answer about as soon as possible."
+msgstr ""
+"<strong>Su notificación de error ha sido correctamente enviada</strong>. "
+"Recibirá una respuesta administrativa acerca de la misma tan pronto como sea "
+"posible."
+
+#: includes/csl_custom_shortcodes_helper.php:997
+#, php-format
+msgid ""
+"<strong>Your bug notification could not be sent</strong>. An error has "
+"occurred during process. You can contact with site administrator <a href="
+"\"mailto:%s\">here</a>."
+msgstr ""
+"<strong>Su notificación de error no ha podido ser enviada</strong>. Se ha "
+"producido un error durante el proceso. Puede contactar con el administrador de "
+"la sede <a href=\"mailto:%s\">aquí</a>."
+
+#: includes/csl_custom_shortcodes_helper.php:1102
+#, php-format
+msgid "Year %s"
+msgstr "Año %s"
+
+#: includes/csl_custom_shortcodes_helper.php:1107
+msgid "Don't filter by period"
+msgstr "No filtrar por periodo"
+
+#: includes/csl_custom_shortcodes_helper.php:1122
+msgid "Don't filter by exhibition type"
+msgstr "No filtrar por tipo de exposición"
+
+#: includes/csl_custom_shortcodes_helper.php:1137
+msgid "Don't filter by movement"
+msgstr "No filtrar por movimiento"
+
+#: includes/csl_custom_shortcodes_helper.php:1152
+msgid "Filter"
+msgstr "Filtrar"
+
+#: includes/csl_custom_survey_helper.php:20 index.php:648
+msgid "Close"
+msgstr "Cerrar"
+
+#: includes/csl_custom_survey_helper.php:21
+msgid ""
+"<strong>Warning!</strong>. There is already an evaluation made by you on this "
+"page. You can do it again, if you wish. The new values you submit will replace "
+"those previously saved."
+msgstr ""
+"<strong>ATENCIÓN</strong>. Ya existe una evaluación realizada por usted para "
+"esta página. Si lo desea puede volver a evaluarla. Los nuevos valores que "
+"envíe reemplazarán a los existentes."
+
+#: includes/csl_custom_survey_helper.php:40
+#, php-format
+msgid "Quality Evaluation. Page ID: %s, %s"
+msgstr "Evaluación de calidad. ID página: %s, %s"
+
+#: includes/csl_custom_survey_helper.php:44
+msgid ""
+"Use this form to evaluate this page quality. You can select the appropriate "
+"values by sliding the selectors. Higher values denote better opinion about "
+"assessed aspect. Keep in mind that your evaluation NOT is done anonymously."
+msgstr ""
+"Utilice este formulario para evaluar la calidad de esta página. Seleccione los "
+"valores adecuados deslizando los selectores. Los valores más altos suponen una "
+"mejor opinión acerca del aspecto evaluado. Recuerde que la evaluación NO es "
+"anónima."
+
+#: includes/csl_custom_survey_helper.php:68
+msgid "Total average"
+msgstr "Promedio total"
+
+#: includes/csl_custom_survey_helper.php:73
+msgid "Submit evaluation"
+msgstr "Enviar evaluación"
+
+#: includes/csl_custom_survey_helper.php:119
+msgid "Sending data&hellip;"
+msgstr "Enviando datos&hellip;"
+
+#: includes/csl_custom_survey_helper.php:126
+msgid "Evaluation data sent"
+msgstr "Datos de evaluación enviados"
+
+#: includes/csl_custom_survey_helper.php:131
+msgid "Complete evaluation sent"
+msgstr "Evaluación completa enviada"
+
+#: includes/csl_custom_survey_helper.php:183
+msgid "Evaluations"
+msgstr "Evaluaciones"
+
+#: includes/csl_custom_survey_helper.php:184 index.php:667
+msgid "Evaluation"
+msgstr "Evaluación"
+
+#: includes/csl_custom_survey_helper.php:185
+#: includes/csl_custom_survey_helper.php:186
+msgid "Add evaluation"
+msgstr "Añadir evaluación"
+
+#: includes/csl_custom_survey_helper.php:187
+msgid "Edit evaluation"
+msgstr "Modificar evaluación"
+
+#: includes/csl_custom_survey_helper.php:188
+msgid "New evaluation"
+msgstr "Nueva evaluación"
+
+#: includes/csl_custom_survey_helper.php:189
+msgid "View evaluation"
+msgstr "Ver evaluación"
+
+#: includes/csl_custom_survey_helper.php:190
+msgid "Search evaluations"
+msgstr "Buscar evaluaciones"
+
+#: includes/csl_custom_survey_helper.php:191
+msgid "No evaluations found"
+msgstr "No se han encontrado evaluaciones"
+
+#: includes/csl_custom_survey_helper.php:192
+msgid "No evaluations in the trash"
+msgstr "No se han encontrado evaluaciones en la papelera"
+
+#: includes/csl_custom_survey_helper.php:213
+#: includes/csl_custom_survey_helper.php:215
+msgid "Evaluation Categories"
+msgstr "Categorías de evaluación"
+
+#: includes/csl_custom_survey_helper.php:214
+msgid "Evaluation Category"
+msgstr "Categoría de evaluación"
+
+#: includes/csl_custom_survey_helper.php:216
+msgid "Edit Evaluation Category"
+msgstr "Modificar categoría de evaluación"
+
+#: includes/csl_custom_survey_helper.php:217
+msgid "Update Evaluation Category"
+msgstr "Actualizar categoría de evaluación"
+
+#: includes/csl_custom_survey_helper.php:218
+msgid "Add New Evaluation Category"
+msgstr "Añadir nueva categoría de evaluación"
+
+#: includes/csl_custom_survey_helper.php:219
+msgid "New Evaluation Category Name"
+msgstr "Nombre de la nueva categoría de evaluación"
+
+#: includes/csl_custom_survey_helper.php:220
+msgid "Parent Evaluation Category"
+msgstr "Categoría de evaluación ancestro"
+
+#: includes/csl_custom_survey_helper.php:221
+msgid "Parent Evaluation Category:"
+msgstr "Categoría de evaluación ancestro:"
+
+#: includes/csl_custom_survey_helper.php:222
+msgid "All Evaluation Categories"
+msgstr "Todas las categorías de evaluación"
+
+#: includes/csl_custom_survey_helper.php:223
+msgid "Search Evaluation Categories"
+msgstr "Buscar categorías de evaluación"
+
+#: includes/csl_custom_survey_helper.php:224
+msgid "Popular Evaluation Categories"
+msgstr "Categorías de evaluación más empleadas"
+
+#: includes/csl_custom_survey_helper.php:225
+msgid "Separate Evaluation categories with commas"
+msgstr "Separar las categorías de evaluación con comas"
+
+#: includes/csl_custom_survey_helper.php:226
+msgid "Add or remove Evaluation categories"
+msgstr "Añadir o borrar categorías de evaluación"
+
+#: includes/csl_custom_survey_helper.php:227
+msgid "Choose from the most used Evaluation categories"
+msgstr "Elegir entre las categorías de evaluación más empleadas"
+
+#: includes/csl_custom_survey_helper.php:228
+msgid "No Evaluation categories found."
+msgstr "No se han encontrado categorías de evaluación."
+
+#: includes/csl_custom_survey_helper.php:249
+msgid "Evaluation records deletion"
+msgstr "Borrado de registros de evaluación"
+
+#: includes/csl_custom_survey_helper.php:263
+#, php-format
+msgid ""
+"There are %s evaluation record(s) for %s. Be warned about the erase operation "
+"is COMPLETELY IRREVERSIBLE, and none of them can be recovered."
+msgstr ""
+"Hay %s registro(s) de evaluación sobre %s. Considérese advertido de que la "
+"operación de eliminación es ABSOLUTAMENTE IRREVERSIBLE, y no será posible "
+"recuperar ningún registro borrado."
+
+#: includes/csl_custom_survey_helper.php:267
+msgid "Delete ALL evaluation records"
+msgstr "Borrar TODOS los registros de evaluación"
+
+#: includes/csl_custom_survey_helper.php:281
+msgid "Deleting evaluation records"
+msgstr "Borrando registros de evaluación"
+
+#: includes/csl_custom_survey_helper.php:287
+msgid "Deleted rows"
+msgstr "Registros borrados"
+
+#: includes/csl_custom_survey_helper.php:325
+msgid "Evaluator"
+msgstr "Evaluador"
+
+#: includes/csl_custom_survey_helper.php:326
+msgid "Evaluated pages"
+msgstr "Páginas evaluadas"
+
+#: includes/csl_custom_survey_helper.php:327
+msgid "Not evaluated pages"
+msgstr "Páginas no evaluadas"
+
+#: includes/csl_custom_survey_helper.php:328
+msgid "Evaluation percent"
+msgstr "Porcentaje de evaluación"
+
+#: includes/csl_custom_survey_helper.php:369
+msgid "Total score"
+msgstr "Puntuación total"
+
+#: includes/csl_custom_survey_helper.php:370
+msgid "Average score"
+msgstr "Puntuación media"
+
+#: includes/csl_custom_survey_helper.php:371
+msgid "Average stars"
+msgstr "Estrellas promedio"
+
+#: includes/csl_custom_survey_helper.php:372
+msgid "Scored pages"
+msgstr "Páginas puntuadas"
+
+#: includes/csl_custom_survey_helper.php:373
+msgid "Evaluators"
+msgstr "Evaluadores"
+
+#: includes/csl_custom_survey_helper.php:374
+msgid "Evaluation %"
+msgstr "% de evaluación"
+
+#: includes/csl_custom_survey_helper.php:409
+#, php-format
+msgid "%s of %s evaluations"
+msgstr "%s de %s evaluaciones"
+
+#: includes/csl_custom_survey_helper.php:424
+#, php-format
+msgid "%s of %s"
+msgstr "%s de %s"
+
+#: includes/csl_custom_survey_helper.php:431
+#, php-format
+msgid "%s of %s total users, %s valid evaluators"
+msgstr "%s de %s usuarios totales, %s evaluadores válidos"
+
+#: includes/csl_custom_terms_management_helper.php:59
+msgid "Merge"
+msgstr "Mezclar"
+
+#: includes/csl_custom_terms_management_helper.php:60
+msgid "Change taxonomy"
+msgstr "Cambiar taxonomía"
+
+#: includes/csl_custom_terms_management_helper.php:65
+msgid "Set parent"
+msgstr "Establecer ancestro"
+
+#: includes/csl_custom_terms_management_helper.php:162
+msgid "Terms updated."
+msgstr "Los términos han sido actualizados."
+
+#: includes/csl_custom_terms_management_helper.php:166
+msgid "Terms not updated."
+msgstr "Los términos no han sido actualizados."
+
+#: includes/csl_custom_terms_management_helper.php:334
+#, php-format
+msgid "into: %s"
+msgstr "en: %s"
+
+#: includes/csl_custom_terms_management_helper.php:379
+msgid "None"
+msgstr "Ninguno"
+
+#: includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:45
+msgid ""
+"Are you sure you wish to remove this application? This action cannot be undone."
+msgstr ""
+"¿está seguro de que desea eliminar esta aplicación? Tenga en cuenta que el "
+"proceso ES IRREVERSIBLE."
+
+#: includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:64
+msgid "Remote Publishing Permissions"
+msgstr "Permisos de acceso remoto a datos XML-RPC"
+
+#: includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:68
+msgid "Allowed applications"
+msgstr "Aplicaciones permitidas"
+
+#: includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:72
+msgid "Add a new application"
+msgstr "Añadir una nueva aplicación"
+
+#: includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:73
+msgid "Generate application keys"
+msgstr "Generar claves de aplicaciones"
+
+#: includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:92
+msgid "Public Key"
+msgstr "Clave pública"
+
+#: includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:92
+msgid "Secret Key"
+msgstr "Clave privada"
+
+#: includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:109
+msgid "No applications currently authorized"
+msgstr "No hay ninguna aplicación autorizada"
+
+#: includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:134
+msgid "New Application"
+msgstr "Nueva aplicación"
+
+#: index.php:12
+#, php-format
+msgid "Registered %s ago"
+msgstr "Registrado hace %s"
+
+#: index.php:33
+msgid "No filtered"
+msgstr "Sin filtrar"
+
+#: index.php:33
+msgid "Filtered by"
+msgstr "Filtrado por"
+
+#: index.php:48
+#, php-format
+msgid "%s evaluated, %s of %s pages"
+msgstr "%s evaluado, %s de %s páginas"
+
+#: index.php:134
+msgid "Guided tour"
+msgstr "Visita guiada"
+
+#: index.php:146
+msgid "Site evaluation"
+msgstr "Evaluación de la sede"
+
+#: index.php:150
+msgid "Go to backend"
+msgstr "Área administrativa"
+
+#: index.php:151
+msgid "Logout"
+msgstr "Desconectar"
+
+#: index.php:173
+#, php-format
+msgid "Taxonomy: %s"
+msgstr "Taxonomía: %s"
+
+#: index.php:183
+msgid "Data bank"
+msgstr "Banco de datos"
+
+#: index.php:189 index.php:338
+#, php-format
+msgid "Searching for %s"
+msgstr "Buscando %s"
+
+#: index.php:193 index.php:342
+msgid "Showing all records"
+msgstr "Mostrando todos los registros"
+
+#: index.php:206 index.php:351
+#, php-format
+msgid "%s records. Page %s of %s"
+msgstr "%s registros. Página %s de %s"
+
+#: index.php:218 index.php:220
+msgid "Search "
+msgstr "Buscar"
+
+#: index.php:226
+msgid "Filter "
+msgstr "Filtro"
+
+#: index.php:228
+msgid "Toggle dropdown"
+msgstr "Alternar desplegable"
+
+#: index.php:270 index.php:271
+msgid "Anything"
+msgstr "Todo"
+
+#: index.php:290
+msgid "Untitled record"
+msgstr "Registro sin título"
+
+#: index.php:302
+#, php-format
+msgid "ID: %s"
+msgstr "ID: %s"
+
+#: index.php:333
+msgid "No records to display."
+msgstr "No hay ningún registro que mostrar."
+
+#: index.php:388
+msgid "Data sheet"
+msgstr "Ficha técnica"
+
+#: index.php:392
+#, php-format
+msgid "Record ID: %s"
+msgstr "ID de registro: %s"
+
+#: index.php:397
+#, php-format
+msgid "Record date created: %s"
+msgstr "Fecha de creación del registro: %s"
+
+#: index.php:398
+#, php-format
+msgid "Record date updated: %s"
+msgstr "Fecha de modificación del registro: %s"
+
+#: index.php:400
+#, php-format
+msgid "Content words count: %s"
+msgstr "Número de palabras del texto: %s"
+
+#: index.php:404
+#, php-format
+msgid "Taxonomies: %s"
+msgstr "Taxonomías: %s"
+
+#: index.php:420
+msgid "Notes"
+msgstr "Observaciones"
+
+#: index.php:424 index.php:444 index.php:563
+msgid "Continue&hellip;"
+msgstr "Continuar&hellip;"
+
+#: index.php:440
+msgid "Text"
+msgstr "Texto"
+
+#: index.php:473
+msgid "Location map"
+msgstr "Mapa de localización"
+
+#: index.php:481
+#, php-format
+msgid "%s location"
+msgstr "%s ubicación"
+
+#: index.php:538
+msgid "Attachments"
+msgstr "Anexos"
+
+#: index.php:642
+msgid "Page Quality Evaluation Form"
+msgstr "Formulario de evaluación de calidad de página"
+
+#: index.php:663
+msgid "Legal info"
+msgstr "Información legal"
+
+#: index.php:671
+msgid "Report bug"
+msgstr "Informe de error"
+
+#~ msgid ""
+#~ "Distributed application using client-server paradigm for <a href=\"http://"
+#~ "www.exhibitium.com\" target=\"_blank\"><strong>Exhibitium</strong></a> "
+#~ "project specific information management, developed by Department of Art "
+#~ "History staff at the University of Malaga (Spain)."
+#~ msgstr ""
+#~ "Aplicación distribuida que utiliza el paradigma cliente-servidor para la "
+#~ "gestión de la información específica del proyecto <a href=\"http://www."
+#~ "exhibitium.com\" target=\"_blank\"><strong>Exhibitium</strong></a>."
+
+#~ msgid "Bibliographic record"
+#~ msgstr "Ficha bibliográfica"
+
+#~ msgid "Undefined typology"
+#~ msgstr "Tipología no definida"

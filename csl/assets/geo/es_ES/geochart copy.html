@@ -1,0 +1,133 @@
+<link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.2/leaflet.css" rel="stylesheet" />
+<link href="@CSSROUTE@/geochart.css" rel="stylesheet" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.2/leaflet.js"></script>
+<script src="https://cdn.bootcss.com/heatmap.js/2.0.2/heatmap.min.js"></script>
+<script src="@JSROUTE@/geochart.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+
+    $.ajax({
+        method: 'POST',
+        url: '@DATAROUTE@',
+        dataType: 'json',
+        success: function(ajaxdata) { 
+	        $('#progresspercent').hide();
+
+			var startPoint = [40.4165000, -3.7025600];
+			var map = L.map('map', {
+				center: startPoint,
+				zoom: 5,
+				zoomControl: false
+			});
+	        
+			var baseLayers = {
+				'OpenStreetMap Default': defaultLayer,
+				'OpenStreetMap German Style': L.tileLayer.provider('OpenStreetMap.DE'),
+				'OpenStreetMap Black and White': L.tileLayer.provider('OpenStreetMap.BlackAndWhite'),
+				'OpenStreetMap H.O.T.': L.tileLayer.provider('OpenStreetMap.HOT'),
+				'Thunderforest OpenCycleMap': L.tileLayer.provider('Thunderforest.OpenCycleMap'),
+				'Thunderforest Transport': L.tileLayer.provider('Thunderforest.Transport'),
+				'Thunderforest Landscape': L.tileLayer.provider('Thunderforest.Landscape'),
+				'Hydda Full': L.tileLayer.provider('Hydda.Full'),
+				'MapBox Example': L.tileLayer.provider('MapBox', {id: 'mapbox.streets', accessToken: 'pk.eyJ1IjoiZ3V0ZW55ZSIsImEiOiJmNjJlMDNmYTUyMzNjMzQxZmY4Mzc1ZmFiYmExNjMxOSJ9.xgl1PBwQV9CtwW-usedrcQ'}),
+				'Stamen Toner': L.tileLayer.provider('Stamen.Toner'),
+				'Stamen Terrain': L.tileLayer.provider('Stamen.Terrain'),
+				'Stamen Watercolor': L.tileLayer.provider('Stamen.Watercolor'),
+				'Esri WorldStreetMap': L.tileLayer.provider('Esri.WorldStreetMap'),
+				'Esri DeLorme': L.tileLayer.provider('Esri.DeLorme'),
+				'Esri WorldTopoMap': L.tileLayer.provider('Esri.WorldTopoMap'),
+				'Esri WorldImagery': L.tileLayer.provider('Esri.WorldImagery'),
+				'Esri WorldTerrain': L.tileLayer.provider('Esri.WorldTerrain'),
+				'Esri WorldShadedRelief': L.tileLayer.provider('Esri.WorldShadedRelief'),
+				'Esri WorldPhysical': L.tileLayer.provider('Esri.WorldPhysical'),
+				'Esri OceanBasemap': L.tileLayer.provider('Esri.OceanBasemap'),
+				'Esri NatGeoWorldMap': L.tileLayer.provider('Esri.NatGeoWorldMap'),
+				'Esri WorldGrayCanvas': L.tileLayer.provider('Esri.WorldGrayCanvas')
+			};
+			var overlayLayers = {
+				'OpenSeaMap': L.tileLayer.provider('OpenSeaMap'),
+				'OpenWeatherMap Clouds': L.tileLayer.provider('OpenWeatherMap.Clouds'),
+				'OpenWeatherMap CloudsClassic': L.tileLayer.provider('OpenWeatherMap.CloudsClassic'),
+				'OpenWeatherMap Precipitation': L.tileLayer.provider('OpenWeatherMap.Precipitation'),
+				'OpenWeatherMap PrecipitationClassic': L.tileLayer.provider('OpenWeatherMap.PrecipitationClassic'),
+				'OpenWeatherMap Rain': L.tileLayer.provider('OpenWeatherMap.Rain'),
+				'OpenWeatherMap RainClassic': L.tileLayer.provider('OpenWeatherMap.RainClassic'),
+				'OpenWeatherMap Pressure': L.tileLayer.provider('OpenWeatherMap.Pressure'),
+				'OpenWeatherMap PressureContour': L.tileLayer.provider('OpenWeatherMap.PressureContour'),
+				'OpenWeatherMap Wind': L.tileLayer.provider('OpenWeatherMap.Wind'),
+				'OpenWeatherMap Temperature': L.tileLayer.provider('OpenWeatherMap.Temperature'),
+				'OpenWeatherMap Snow': L.tileLayer.provider('OpenWeatherMap.Snow')
+			};
+
+		    var testData = {
+				max: 100,
+				data: ajaxdata
+		    };
+		    var cfg = {
+				"radius": 0.2,
+				"maxOpacity": .5, 
+				"scaleRadius": true, 
+				"useLocalExtrema": true,
+				latField: 'n_latitude',
+				lngField: 'n_longitude',
+				valueField: 'n_exhibitions'
+		    };
+		    var heatmapLayer = new HeatmapOverlay(cfg);
+
+		    heatmapLayer.setData(testData);
+			var defaultLayer = L.tileLayer.provider('OpenStreetMap.Mapnik').addTo(map);
+			
+			L.control.layers(baseLayers, overlayLayers, {collapsed: false}).addTo(map);
+			// resize layers control to fit into view.
+			function resizeLayerControl () {
+				var layerControlHeight = document.body.clientHeight - (10 + 50);
+				var layerControl = document.getElementsByClassName('leaflet-control-layers-expanded')[0];
+				layerControl.style.overflowY = 'auto';
+				layerControl.style.maxHeight = layerControlHeight + 'px';
+			}
+			map.on('resize', resizeLayerControl);
+			resizeLayerControl();
+
+        },
+        error: function(jqXHR, textStatus, errorThrown) {
+	        $('#progresspercent').html('');
+        },
+        progress: function(e) {
+            //make sure we can compute the length
+            if(e.lengthComputable) {
+                //calculate the percentage loaded
+                var pct = (e.loaded / e.total) * 100;
+                //log percentage loaded
+				setTimeout(function() { $('#progresspercent').html(Math.round(pct) + '%'); } , 100);
+            }
+            //this usually happens when Content-Length isn't set
+            else {
+				console.log('Not computable page length')
+	        	$('#progresspercent').html('');
+            }
+        }
+    });
+});
+</script>
+
+
+<div class="row">
+	<div class="col-md-12">
+        <h4>Mapa <small><span id="progresspercent" class="pull-right">Cargando...</span></small></h4>
+		<div id="selectors" class="well sell-sm">@SELECTORS@</div>
+		<div id="nanobar"></div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12" id="map-container">
+		<div id="map" class="map"></div>
+		<div class="col-md-3" id="leaflet-control-tilelegend-container"></div>
+	</div>
+</div>
+</div>
+
+
+
+

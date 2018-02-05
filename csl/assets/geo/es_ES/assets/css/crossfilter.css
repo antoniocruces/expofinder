@@ -1,0 +1,52 @@
+.dc-data-count small {
+	font-size: 16px;
+}
+
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.pie-chart {
+	/* height: 150px; */
+}
+
+.dc-chart .axis text{
+font-size: 12px;
+}
+
+text {
+	font-size: 16px;
+}
+
+#map {
+	height: 350px;
+}
+
+#control-row, #map-row {
+	padding-bottom: 20px;
+}
+
+a { cursor: pointer }
+
+div.pager {
+    text-align: center;
+    margin: 1em 0;
+}
+
+div.pager span {
+    display: inline-block;
+    width: 1.8em;
+    height: 1.8em;
+    line-height: 1.8;
+    text-align: center;
+    cursor: pointer;
+    background: #000;
+    color: #fff;
+    margin-right: 0.5em;
+}
+
+div.pager span.active {
+    background: #c00;
+}
+

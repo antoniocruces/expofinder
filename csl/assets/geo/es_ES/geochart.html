@@ -1,0 +1,218 @@
+<link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.2/leaflet.css" rel="stylesheet" />
+<link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.0.0/MarkerCluster.css" rel="stylesheet" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.0.0/MarkerCluster.Default.css" />
+<link href="@CSSROUTE@/geochart.css" rel="stylesheet" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.2/leaflet.js"></script>
+<script src="https://cdn.bootcss.com/heatmap.js/2.0.2/heatmap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.0.0/leaflet.markercluster.js"></script>
+<script src="@JSROUTE@/geochart.js"></script>
+
+<script type="text/javascript">
+
+jQuery(document).ready(function($) {		
+	var frm = $('#frm-selectors');
+	var startPoint = [40.4165000, -3.7025600];
+	var zoomLimit = 20;
+	var map = L.map('map', {
+		center: startPoint,
+		zoom: 5,
+		maxZoom: zoomLimit,
+		zoomControl: true
+	});
+    frm.submit(function (ev) {
+        $.ajax({
+            type: frm.attr('method'),
+            url: frm.attr('action'),
+            data: frm.serialize(),
+            success: function (ajaxdata) {
+	            /*
+				map = L.map('map', {
+					center: startPoint,
+					zoom: 5,
+					maxZoom: zoomLimit,
+					zoomControl: true
+				});
+				*/
+		        $('#progresspercent').hide();
+
+			    var testData = {
+					max: 100,
+					data: ajaxdata
+			    };
+			    var cfg = {
+					"radius": 0.2,
+					"maxOpacity": .5, 
+					"scaleRadius": true, 
+					"useLocalExtrema": true,
+					latField: 'n_latitude',
+					lngField: 'n_longitude',
+					valueField: 'n_exhibitions'
+			    };
+	
+			    var heatmapLayer = new HeatmapOverlay(cfg);
+			    heatmapLayer.setData(testData);
+	
+				var markers = L.markerClusterGroup();
+				
+				for (var i = 0; i < ajaxdata.length; i++) {
+					var a = ajaxdata[i];
+					var title = a.post_title + '. ' + a.s_geo_town + ' (' + a.s_geo_country + '). ' + a.n_exhibitions + ' exposiciones con fecha de inicio en ' + a.n_start_year;
+					var marker = L.marker(new L.LatLng(a.n_latitude, a.n_longitude), { title: title });
+					marker.bindPopup(title);
+					markers.addLayer(marker);
+				}
+	
+				map.addLayer(markers);
+		
+				var defaultLayer = cartomap.addTo(map);
+		
+				var baseLayers = {
+					'CartoMap': defaultLayer,
+					'OSM': osm,
+					'Google Maps Streets': gsstreets,
+					'Google Maps Satellite': gssatellite,
+				};
+	
+				var overlayLayers = {
+					'Heat Map': heatmapLayer,
+					'Clusters': markers,
+				};
+		
+				L.control.layers(baseLayers, overlayLayers).addTo(map);
+	
+				map.addControl(new centerButton());
+	        },
+	        error: function(jqXHR, textStatus, errorThrown) {
+		        console.log(jqXHR, textStatus, errorThrown)
+		        $('#progresspercent').html('');
+	        },
+	        progress: function(e) {
+	            //make sure we can compute the length
+	            if(e.lengthComputable) {
+	                //calculate the percentage loaded
+	                var pct = (e.loaded / e.total) * 100;
+	                //log percentage loaded
+					setTimeout(function() { $('#progresspercent').html(Math.round(pct) + '%'); } , 100);
+	            }
+	            //this usually happens when Content-Length isn't set
+	            else {
+					console.log('Not computable page length')
+		        	$('#progresspercent').html('');
+	            }
+	        }
+        });
+        ev.preventDefault();
+    });
+/*
+    $.ajax({
+        method: 'GET',
+        url: '@DATAROUTE@',
+        data: { 
+	        'y': $('#sel_start_year').val(), 
+	        'p': $('#sel_tax_period').val(), 
+	        't': $('#sel_tax_exhibition_type').val(), 
+	        'm': $('#sel_tax_movement').val() 
+	    },
+        dataType: 'json',
+        success: function(ajaxdata) { 
+	        console.log(ajaxdata)
+	        $('#progresspercent').hide();
+
+
+		    var testData = {
+				max: 100,
+				data: ajaxdata
+		    };
+		    var cfg = {
+				"radius": 0.2,
+				"maxOpacity": .5, 
+				"scaleRadius": true, 
+				"useLocalExtrema": true,
+				latField: 'n_latitude',
+				lngField: 'n_longitude',
+				valueField: 'n_exhibitions'
+		    };
+
+		    var heatmapLayer = new HeatmapOverlay(cfg);
+		    heatmapLayer.setData(testData);
+
+			var markers = L.markerClusterGroup();
+			
+			for (var i = 0; i < ajaxdata.length; i++) {
+				var a = ajaxdata[i];
+				var title = a.s_term + '. ' + a.s_geo_town + ' (' + a.s_geo_country + '). ' + a.n_exhibitions + ' exposiciones con fecha de inicio en ' + a.n_start_year;
+				var marker = L.marker(new L.LatLng(a.n_latitude, a.n_longitude), { title: title });
+				marker.bindPopup(title);
+				markers.addLayer(marker);
+			}
+
+
+			var map = L.map('map', {
+				center: startPoint,
+				zoom: 5,
+				maxZoom: 20,
+				zoomControl: true
+			});
+	
+			map.addLayer(markers);
+	
+			var defaultLayer = cartomap.addTo(map);
+	
+			var baseLayers = {
+				'CartoMap': defaultLayer,
+				'OSM': osm,
+				'Google Maps Streets': gsstreets,
+				'Google Maps Satellite': gssatellite,
+			};
+
+			var overlayLayers = {
+				'Heat Map': heatmapLayer,
+				'Clusters': markers,
+			};
+	
+			L.control.layers(baseLayers, overlayLayers).addTo(map);
+
+			map.addControl(new centerButton());
+        },
+        error: function(jqXHR, textStatus, errorThrown) {
+	        console.log(jqXHR, textStatus, errorThrown)
+	        $('#progresspercent').html('');
+        },
+        progress: function(e) {
+            //make sure we can compute the length
+            if(e.lengthComputable) {
+                //calculate the percentage loaded
+                var pct = (e.loaded / e.total) * 100;
+                //log percentage loaded
+				setTimeout(function() { $('#progresspercent').html(Math.round(pct) + '%'); } , 100);
+            }
+            //this usually happens when Content-Length isn't set
+            else {
+				console.log('Not computable page length')
+	        	$('#progresspercent').html('');
+            }
+        }
+    });
+*/
+});
+</script>
+
+
+<div class="row">
+	<div class="col-md-12">
+        <h4>Mapa <small><span id="progresspercent" class="pull-right">Cargando...</span></small></h4>
+		<div id="selectors" class="well sell-sm">@SELECTORS@</div>
+		<div id="nanobar"></div>
+	</div>
+</div>
+<div class="row">
+	<div class="col-md-12" id="map-container">
+		<div id="map" class="map"></div>
+	</div>
+</div>
+</div>
+
+
+
+

@@ -1,0 +1,107 @@
+<link href="https://api.tiles.mapbox.com/mapbox.js/v1.6.3/mapbox.css" rel="stylesheet" />
+<link href="@CSSROUTE@/voronoi.css" rel="stylesheet" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.4.8/d3.min.js"></script>
+<script src="https://unpkg.com/leaflet@1.0.2/dist/leaflet.js"></script>
+<script src="https://api.tiles.mapbox.com/mapbox.js/v2.2.1/mapbox.js"></script>
+<script src="@JSROUTE@/voronoi.js"></script>
+
+<script>
+jQuery(document).ready(function() {
+    console.log( "Mapa preparado" );
+	L.mapbox.accessToken = 'pk.eyJ1IjoiaWFydGhpc2xhYiIsImEiOiJjaWxieWhmZzUwMDVqd3FtMm96ZGFpdmZ1In0.qhAP-RA8MgfH7NUIxpnF1w';
+    var mapelm = L.mapbox.map('mapelm', 'mapbox.light')
+    	.setView([MAP_CENTER_DEFAULT_LAT,MAP_CENTER_DEFAULT_LON], 5)
+        .addControl(L.mapbox.geocoderControl('mapbox.places', {
+        	autocomplete: true
+    	}));    
+    var maptyp = L.mapbox.map('maptyp', 'mapbox.light')
+    	.setView([MAP_CENTER_DEFAULT_LAT,MAP_CENTER_DEFAULT_LON], 5)
+        .addControl(L.mapbox.geocoderControl('mapbox.places', {
+        	autocomplete: true
+    	}));    
+
+
+	// when either map finishes moving, trigger an update on the other one.
+	mapelm.on('moveend', follow).on('zoomend', follow);
+	maptyp.on('moveend', follow).on('zoomend', follow);
+	
+	// quiet is a cheap and dirty way of avoiding a problem in which one map
+	// syncing to another leads to the other map syncing to it, and so on
+	// ad infinitum. this says that while we are calling sync, do not try to 
+	// loop again and sync other maps
+	var quiet = false;
+	function follow(e) {
+	    if (quiet) return;
+	    quiet = true;
+	    if (e.target === mapelm) sync(maptyp, e);
+	    if (e.target === maptyp) sync(mapelm, e);
+	    quiet = false;
+	}
+	
+	// sync simply steals the settings from the moved map (e.target)
+	// and applies them to the other map.
+	function sync(map, e) {
+	    map.setView(e.target.getCenter(), e.target.getZoom(), {
+	        animate: false,
+	        reset: true
+	    });
+	}
+
+
+    url = '@DATAROUTE@&x=recordtype';
+    initialSelection = d3.set(['Exposiciones']);
+    voronoiMap(mapelm, url, initialSelection, 'elm');
+
+    url = '@DATAROUTE@&x=exhtype';
+    initialSelection = d3.set(['Ayuntamiento']);
+    voronoiMap(maptyp, url, initialSelection, 'typ');        
+});
+</script>
+
+<div class="row">
+	<div class="col-md-6" id="selectionselm">
+		<div class="well well-sm">
+			<div class="btn-group" style="z-index: 9999;">
+				<button type="button" class="btn btn-sm btn-default">Tipo de registro</button>
+					<button type="button" class="btn btn-sm btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="caret"></span>
+					<span class="sr-only">Abrir o cerrar menú desplegable</span>
+				</button>
+				<ul class="dropdown-menu" id="toggleselm"></ul>
+			</div>
+			<div class="pull-right" id="loadingelm" class="text-danger"></div>
+		</div>	
+	</div>
+	<div class="col-md-6" id="selectionstyp">
+		<div class="well well-sm">
+			<div class="btn-group" style="z-index: 9999;">
+				<button type="button" class="btn btn-sm btn-primary">Características</button>
+					<button type="button" class="btn btn-sm btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+					<span class="caret"></span>
+					<span class="sr-only">Abrir o cerrar menú desplegable</span>
+				</button>
+				<ul class="dropdown-menu" id="togglestyp"></ul>
+			</div>	
+			<div class="pull-right" id="loadingtyp" class="text-danger"></div>
+		</div>	
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+		<div id="mapelm"></div>
+	</div>
+	<div class="col-md-6">
+		<div id="maptyp"></div>
+	</div>
+</div>
+
+<div class="row">
+	<div class="col-md-6">
+	    <p id="selectedelm" class="text-muted well well-sm">Texto1</p>
+	</div>
+	<div class="col-md-6">
+	    <p id="selectedtyp" class="text-muted well well-sm">texto2</p>
+	</div>
+</div>

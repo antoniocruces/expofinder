@@ -1,0 +1,83 @@
+body.login {
+
+	background: #ddd; /* For browsers that do not support gradients */
+    /*
+	background: -webkit-linear-gradient(180deg, black, grey); 
+	background: -o-linear-gradient(180deg, black, grey);
+	background: -moz-linear-gradient(180deg, black, grey); 
+	background: linear-gradient(180deg, black, grey); 
+    */
+    /* background: url("/wp-content/themes/csl/assets/img/ny04.jpg") no-repeat center center fixed; */
+    /*
+    background-color: #2f2f2f;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+	*/
+    /*
+    background-color: #e6e6e6;
+    */
+}
+
+body.login div#login {}
+body.login div#login h1 {}
+body.login div#login h1 a {}
+body.login div#login form#loginform {}
+body.login div#login form#loginform p {}
+body.login div#login form#loginform p label {}
+body.login div#login form#loginform input {}
+body.login div#login form#loginform input#user_login {}
+body.login div#login form#loginform input#user_pass {}
+body.login div#login form#loginform p.forgetmenot {}
+body.login div#login form#loginform p.forgetmenot input#rememberme {}
+body.login div#login form#loginform p.submit {}
+body.login div#login form#loginform p.submit input#wp-submit {}
+body.login div#login p#nav {}
+body.login div#login p#nav a {}
+body.login div#login p#backtoblog {}
+body.login div#login p#backtoblog a {}
+
+#backtoblog {
+	display: none !important;
+}
+
+#locationmap {
+    margin-top: 5px;
+    border-top: 1px #ddd solid;
+    padding-top: 10px;
+}
+
+/* Tooltips */
+[data-tooltip] {
+    position: relative;
+}
+
+[data-tooltip]:before,
+[data-tooltip]:after {
+    display: none;
+    position: absolute;
+    top: -126px;
+}
+
+[data-tooltip]:after {
+    background-color: #0099ff;
+    background-color: rgba(0,153,255,0.7);
+    /*
+    border: 0px solid #0099ff;
+    border: 0px solid rgba(0,153,255,0.8);
+    border-radius: 7px;
+    */
+    color: #ffffff;
+    content: attr(data-tooltip-label) ":\A" attr(data-tooltip-message);
+    left: 0;
+    margin-top: 1.5em;
+    padding: 5px 15px;
+    white-space: pre-wrap;
+    width: 261px;
+}
+
+[data-tooltip]:hover:after,
+[data-tooltip]:hover:before {
+    display: block;
+}

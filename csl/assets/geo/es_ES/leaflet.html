@@ -1,0 +1,55 @@
+<link href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.2/leaflet.css" rel="stylesheet" />
+<link href="@CSSROUTE@/leaflet.css" rel="stylesheet" />
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.0.2/leaflet.js"></script>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/d3.hexbin.v0.js"></script>
+<script src="@JSROUTE@/leaflet.js"></script>
+
+<script type="text/javascript">
+jQuery(document).ready(function($) {
+	var Esri_WorldImagery = L.tileLayer('http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+	    attribution: 'Tiles © Esri — Source: Esri, i-cubed, USDA, USGS, AEX, GeoEye, Getmapping, Aerogrid, IGN, IGP, UPR-EGP, and the GIS User Community'
+	});
+	var cartomap = L.tileLayer("https://cartodb-basemaps-{s}.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png", {
+		maxZoom: 20,
+		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, &copy; <a href="https://cartodb.com/attributions">CartoDB</a>'
+	});
+	 
+	var map = L.map("map").setView([40.90296, 1.90925], 2);
+	map.addLayer(cartomap);
+	
+	$("#loadingtext").html("Cargando datos...");
+	d3.json("@DATAROUTE@&x=recordtype", function(error, eqs) {
+	    var heatMapData = [];
+	    eqs.features.forEach(function(d) {
+	        heatMapData.push(new L.latLng(
+	            +d.geometry.coordinates[1], 
+	            +d.geometry.coordinates[0],
+	            +"1"));
+	    });
+		var heatOptions = {
+			minOpacity: 0.05,
+			maxZoom: 12,
+			radius: 25,
+			blur: 15,
+			max: 1.0
+		};
+
+	    var heatLayer = L.heatLayer(heatMapData, heatOptions);
+	    map.addLayer(heatLayer);
+		$("#loadingtext").html("");
+	});
+
+});
+</script>
+
+<div class="row">
+	<div class="col-md-12">
+		<div id="map" class="heatmap"></div>
+	</div>
+	<div class="col-md-12">
+		<p id="loadingtext"></p>
+	</div>
+</div>
+
