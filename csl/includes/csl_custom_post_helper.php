@@ -304,7 +304,7 @@ class CSL_Custom_Post_Helper {
                                                 case 'autocountries_large':
                                                     echo '<p><input type="text" name="'.$field['id'].'" id="'.$field['id'].'" value="'.$meta.'" class="jeoquerycountries large-text'.$mandatory.'" autocomplete="off" /></p>
                                                             <p class="description">'.$field['desc'].'</p>';
-                                                break; /* OJO */
+                                                break;
                                                 // autovocabulary regular
                                                 case 'autovocabulary_regular':
                                                     echo '<p><input type="text" name="'.$field['id'].'" id="'.$field['id'].'" value="'.$meta.'" class="avoc regular-text'.$mandatory.'" autocomplete="off" /></p>
@@ -882,7 +882,7 @@ class CSL_Custom_Post_Helper {
 // Customized "enter title here"message for any post type
 function csl_generic_custom_default_title( $title ) {
     $screen = get_current_screen();
-    $txtnam = get_post_type_object($screen->post_type)->labels->singular_name || wp_die('LACAGASTE' . $screen->post_type);
+    $txtnam = get_post_type_object($screen->post_type)->labels->singular_name;
     if  ( 'add' == $screen->action ) {
         $title = sprintf(__('Enter the official name for %s', CSL_TEXT_DOMAIN_PREFIX), strtolower($txtnam));
     } else {

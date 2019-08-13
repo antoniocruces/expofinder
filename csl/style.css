@@ -242,19 +242,6 @@ code {
 {
     color: #d9534f;
 }
-.label-purple
-{
-    background-color: #e5a3ff;
-}
-.alert-message-purple
-{
-    background-color: #fbefff;
-    border-color: #682984;
-}
-.alert-message-purple h3
-{
-    color: #b44cf0;
-}
 .alert-message-warning
 {
     background-color: #fcf8f2;

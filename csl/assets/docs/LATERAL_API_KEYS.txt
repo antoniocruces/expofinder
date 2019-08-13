@@ -1,0 +1,12 @@
+Here is your API key! It gives you access to the Text-matching API. To get started, copy it and then check out the documentation.
+
+Read and write key: b4f9b55af44ebb79517ac4dce4ed8262
+Read-only key (Not compatible with legacy API!): c590eaf977f30a4e43fb7f18302bbf42
+
+curl --request GET \
+  --url 'https://document-parser-api.lateral.io/?url=http://www.bbc.com/news/31047780' \
+  --header 'content-type: application/json' \
+  --header 'subscription-key: API_KEY'
+  
+  
+https://document-parser-api.lateral.io/?url=https://www.facebook.com/ecomargarita.buron&subscription-key=c590eaf977f30a4e43fb7f18302bbf42

@@ -35,19 +35,6 @@ function csl_self_ajax_lookup() {
 add_action('wp_ajax_csl_self_ajax_lookup', 'csl_self_ajax_lookup');
 add_action('wp_ajax_nopriv_csl_self_ajax_lookup', 'csl_self_ajax_lookup');
 
-function get_the_user_ip() {
-	if ( ! empty( $_SERVER['HTTP_CLIENT_IP'] ) ) {
-		//check ip from share internet
-		$ip = $_SERVER['HTTP_CLIENT_IP'];
-	} elseif ( ! empty( $_SERVER['HTTP_X_FORWARDED_FOR'] ) ) {
-		//to check ip is pass from proxy
-		$ip = $_SERVER['HTTP_X_FORWARDED_FOR'];
-	} else {
-		$ip = $_SERVER['REMOTE_ADDR'];
-	}
-	return $ip;
-}
-
 function csl_generic_ajax_call() {
     global $wpdb;
 
@@ -56,8 +43,7 @@ function csl_generic_ajax_call() {
         && 'countexp' != esc_sql($_REQUEST['q']) && 'leaflet' != esc_sql($_REQUEST['q']) 
         && 'geochart' != esc_sql($_REQUEST['q']) && 'geoworks' != esc_sql($_REQUEST['q']) 
         && 'geodraw' != esc_sql($_REQUEST['q']) && 'voronoi' != esc_sql($_REQUEST['q']) 
-        && 'dashboard' != esc_sql($_REQUEST['q']) && 'geoda' != esc_sql($_REQUEST['q']) 
-        && 'pathfinder' != esc_sql($_REQUEST['q']) && 'credentials' != esc_sql($_REQUEST['q'])
+        && 'dashboard' != esc_sql($_REQUEST['q']) && 'geoda' != esc_sql($_REQUEST['q'])
     ) {
         check_ajax_referer( NONCE_KEY, 's' );
     }
@@ -68,58 +54,11 @@ function csl_generic_ajax_call() {
     $extension = isset($_REQUEST['q']) ? substr($operation, -3) : '';
     $filename  = CSL_NAME . '_' . date('YmdHis') . '_export.' . $extension;
     $curtim    = current_time('timestamp');
-
     switch($operation) {
-        case 'credentials':
-        	$credentials = array();
-			$authentic = isset($_REQUEST['u']) ? esc_sql($_REQUEST['u']) : NULL;
-			$aut_crd = explode('@', $authentic);
-			$aut_uid = htmlspecialchars($aut_crd[0]);
-			$aut_pwd = htmlspecialchars($aut_crd[1]);
-        	$aut_usr = get_user_by('login', $aut_uid);
-        	if(!wp_check_password($aut_pwd, $aut_usr->data->user_pass, $aut_usr->ID)) {
-	        	$credentials['credentials'] = array( 
-	        		'cuser' => $aut_uid, 
-	        		'cauth' => false, 
-	        		'ctime' => current_time( 'mysql' ), 
-	        		'caddr' => get_the_user_ip() 
-	        	);
-			} else {
-	        	$credentials['credentials'] = array( 
-	        		'cuser' => $aut_uid, 
-	        		'cauth' => true, 
-	        		'ctime' => current_time( 'mysql' ), 
-	        		'caddr' => get_the_user_ip() 
-	        	);
-			}
-        	break;
         case 'geoda':
-        	$credentials = array();
-			$authentic = isset($_REQUEST['u']) ? esc_sql($_REQUEST['u']) : NULL;
-			$aut_crd = explode('@', $authentic);
-			$aut_uid = htmlspecialchars($aut_crd[0]);
-			$aut_pwd = htmlspecialchars($aut_crd[1]);
-        	$aut_usr = get_user_by('login', $aut_uid);
-        	if(!wp_check_password($aut_pwd, $aut_usr->data->user_pass, $aut_usr->ID)) {
-	        	$credentials['credentials'] = array( 
-	        		'cuser' => $aut_uid, 
-	        		'cauth' => false, 
-	        		'ctime' => current_time( 'mysql' ), 
-	        		'caddr' => get_the_user_ip() 
-	        	);
-			} else {
-	        	$credentials['credentials'] = array( 
-	        		'cuser' => $aut_uid, 
-	        		'cauth' => true, 
-	        		'ctime' => current_time( 'mysql' ), 
-	        		'caddr' => get_the_user_ip() 
-	        	);
-			}
         	switch( $param ){
 	        	case 'm':
 					$query = 
-						wp_check_password($aut_pwd, $aut_usr->data->user_pass, $aut_usr->ID) 
-						? 
 						"
 						SELECT
 							post_id AS ID,
@@ -132,14 +71,10 @@ function csl_generic_ajax_call() {
 							meta_key IN(\"" . implode( '","', CSL_META_FIELDS_FOR_QUERIES ). "\")
 							AND
 							SUBSTRING(meta_key, 1, 5) = \"_cp__\";
-						" 
-						:
-						"SELECT 0 AS ID, 0 AS meta_id, \"NOT VALID ID\" AS meta_key, \"NOT VALID ID\" AS meta_value FROM DUAL";						
+						";
 					break;
 				case 't':
 					$query = 
-						wp_check_password($aut_pwd, $aut_usr->data->user_pass, $aut_usr->ID) 
-						? 
 						"
 						SELECT 
 							tr.object_id AS ID,
@@ -158,15 +93,11 @@ function csl_generic_ajax_call() {
 						    (t.term_id = tt.term_id)
 						WHERE
 							SUBSTRING(tt.taxonomy, 1, 4) = \"tax_\";
-						" 
-						: 
-						"SELECT 0 AS ID, 0 AS term_id, \"NOT VALID ID\" AS taxonomy, \"NOT VALID ID\" AS term FROM DUAL";						
+						";
 					break;
 				case 'p':
 				default:
 					$query = 
-						wp_check_password($aut_pwd, $aut_usr->data->user_pass, $aut_usr->ID) 
-						? 
 						"
 						SELECT
 							ID,
@@ -178,17 +109,11 @@ function csl_generic_ajax_call() {
 							post_type IN (\"entity\",\"book\",\"person\",\"company\",\"exhibition\",\"artwork\")
 							AND
 							post_status = \"publish\"
-						" 
-						:
-						"SELECT 0 AS ID, \"NOT VALID ID\" AS post_type, \"NOT VALID ID\" AS post_title FROM DUAL";					
+						";
 					break;
 			}
-            if( $param == 'c' ) {
-				$values = $credentials;	            
-            } else {
-				$values = $wpdb->get_results( $query, ARRAY_A );
-            }
-			
+            $values = $wpdb->get_results( $query, ARRAY_A );
+
             $caches = 1 * 24 * 60 * 60; // 30 days * 24 hours * 60 minutes * 60 seconds
             $cachee = gmdate("D, d M Y H:i:s", time() + $caches) . " GMT";
             switch( $outformat ) {
@@ -206,142 +131,7 @@ function csl_generic_ajax_call() {
                     header( "Expires: $cachee" );  
                     header( "Pragma: cache" );  
                     header( "Cache-Control: max-age=$caches" );  
-                    header( "Content-type: text/tab-separated-values");
-                    ob_end_flush();                     
-                	break;
-                default:
-                    header( "Content-Length: " . mb_strlen( json_encode( $values ) ) );
-        			header( "Content-Type:application/json", true );
-                    header( "Expires: $cachee" );  
-                    header( "Pragma: cache" );  
-                    header( "Cache-Control: max-age=$caches" );  
-                    echo json_encode( $values, JSON_NUMERIC_CHECK );
-                    break;
-            }
-            break;
-        case 'pathfinder':
-        	$credentials = array();
-			$authentic = isset($_REQUEST['u']) ? esc_sql($_REQUEST['u']) : NULL;
-			$aut_crd = explode('@', $authentic);
-			$aut_uid = htmlspecialchars($aut_crd[0]);
-			$aut_pwd = htmlspecialchars($aut_crd[1]);
-        	$aut_usr = get_user_by('login', $aut_uid);
-        	if(!wp_check_password($aut_pwd, $aut_usr->data->user_pass, $aut_usr->ID)) {
-	        	$credentials['credentials'] = array( 
-	        		'cuser' => $aut_uid, 
-	        		'cauth' => false, 
-	        		'ctime' => current_time( 'mysql' ), 
-	        		'caddr' => get_the_user_ip() 
-	        	);
-			} else {
-	        	$credentials['credentials'] = array( 
-	        		'cuser' => $aut_uid, 
-	        		'cauth' => true, 
-	        		'ctime' => current_time( 'mysql' ), 
-	        		'caddr' => get_the_user_ip() 
-	        	);
-			}
-        	switch( $param ){
-	        	case 'm':
-				$query = 
-					wp_check_password($aut_pwd, $aut_usr->data->user_pass, $aut_usr->ID) 
-					? 
-					"
-					SELECT
-						m.post_id AS ID,
-						\"met\" AS rtype,
-						m.meta_key AS rkey,
-						m.meta_value AS value
-					FROM
-						{$wpdb->postmeta} m INNER JOIN {$wpdb->posts} p ON m.post_id = p.ID 
-					WHERE 
-						m.meta_key IN(\"" . implode( '","', CSL_META_FIELDS_FOR_QUERIES ). "\")
-						AND
-						SUBSTRING(m.meta_key, 1, 5) = \"_cp__\" 
-						AND 
-						p.post_status = \"publish\";
-					" 
-					:
-					"SELECT 0 AS ID, \"met\" AS rtype, \"NOT VALID USER ID\" AS rkey, \"NOT VALID USER ID\" AS value FROM DUAL";	
-				break;
-			case 't':
-				$query = 
-					wp_check_password($aut_pwd, $aut_usr->data->user_pass, $aut_usr->ID) 
-					? 
-					"
-					SELECT 
-						tr.object_id AS ID,
-						\"tax\" AS rtype,
-						tt.taxonomy AS rkey,
-						t.name AS value
-					FROM 
-					    {$wpdb->term_relationships} AS tr 
-					    INNER JOIN 
-					    {$wpdb->term_taxonomy} AS tt 
-					    ON 
-					    (tr.term_taxonomy_id = tt.term_taxonomy_id)
-					    INNER JOIN 
-					    {$wpdb->terms} AS t 
-					    ON 
-					    (t.term_id = tt.term_id) 
-					    INNER JOIN 
-					    {$wpdb->posts} p  
-					    ON 
-					    tr.object_id = p.ID 
-					WHERE
-						SUBSTRING(tt.taxonomy, 1, 4) = \"tax_\" 
-						AND 
-						p.post_status = \"publish\";
-					" 
-					: 
-					"SELECT 0 AS ID, \"tax\" AS rtype, \"NOT VALID USER ID\" AS rkey, \"NOT VALID USER ID\" AS value FROM DUAL";						
-				break;
-			case 'p':
-			default:
-				$query = 
-					wp_check_password($aut_pwd, $aut_usr->data->user_pass, $aut_usr->ID) 
-					? 
-					"
-					SELECT
-						ID,
-						\"pos\" AS rtype,
-						post_type AS rkey,
-						post_title AS value
-					FROM 
-						{$wpdb->posts}
-					WHERE
-						post_type IN (\"entity\",\"book\",\"person\",\"company\",\"exhibition\",\"artwork\")
-						AND
-						post_status = \"publish\"
-					" 
-					:
-					"SELECT 0 AS ID, \"pos\" AS rtype, \"NOT VALID USER ID\" AS rkey, \"NOT VALID USER ID\" AS value FROM DUAL";					
-				break;
-			}
-            if( $param == 'c' ) {
-				$values = $credentials;	            
-            } else {
-				$values = $wpdb->get_results( $query, ARRAY_A );
-            }
-			
-            $caches = 1 * 24 * 60 * 60; // 30 days * 24 hours * 60 minutes * 60 seconds
-            $cachee = gmdate("D, d M Y H:i:s", time() + $caches) . " GMT";
-            switch( $outformat ) {
-                case 'tsv':
-                    ob_start();
-                	$title = array_keys( $values[0] );
-                    echo implode( "\t", $title ) . PHP_EOL;
-                    foreach( $values as $value ) {
-        				echo implode( "\t", $value ) . PHP_EOL;
-                    }                    
-                    $length = ob_get_length();
-                    header( "Content-Length: $length" );
-                    header( "X-Content-Length: $length" );
-                    header( "Accept-Ranges: bytes" );
-                    header( "Expires: $cachee" );  
-                    header( "Pragma: cache" );  
-                    header( "Cache-Control: max-age=$caches" );  
-                    header( "Content-type: text/tab-separated-values");
+                    header("Content-type: text/tab-separated-values");
                     ob_end_flush();                     
                 	break;
                 default:

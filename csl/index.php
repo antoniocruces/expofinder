@@ -1,20 +1,9 @@
 <?php
 
-if ( ( is_single() || is_front_page() || is_page() )  && !is_page( 'login' ) && !is_user_logged_in() ) { 
-    //auth_redirect(); 
-	//if(isset($_GET['xl'])) {
-	//	auth_redirect(); 	
-	//} else {
-		header("Location: http://expofinder.uma.es/web");
-		die();
-		
-	//}
+	if ( ( is_single() || is_front_page() || is_page() )  && !is_page( 'login' ) && !is_user_logged_in() ) { 
+    auth_redirect(); 
 } 
 	
-if(isset($_GET['xl'])) {
-	auth_redirect(); 	
-}
-
 global $wp_query;
 global $current_user;
 wp_get_current_user();

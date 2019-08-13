@@ -1,0 +1,102 @@
+<?php
+	
+$findex = array();
+$findex[path] = array();
+$findex[file] = array();
+ 
+$extensions = array('.cfm','.html','.htm','.css','.php','.gif','.jpg','.png','.jpeg','.js');
+$excludes = array('.svn');
+ 
+function rec_scandir($dir) {
+    $files = array();
+    global $findex;
+    global $extensions;
+    global $excludes;
+
+    if ( $handle = opendir($dir) ) 
+    {
+    while ( ($file = readdir($handle)) !== false ) 
+        {
+        if ( $file != ".." && $file != "." ) 
+        	{
+            if ( is_dir($dir . "/" . $file) ) 
+                    {
+                    $files[$file] = rec_scandir($dir . "/" . $file);
+                    }
+            else 
+                    {
+                    for ($i=0;$i<sizeof($extensions);$i++)
+                    	{
+                        if (strpos(strtolower($file),strtolower($extensions[$i])) > 0)
+                        	{
+                            $found = true;
+                            }
+                        }
+                    for ($i=0;$i<sizeof($excludes);$i++)
+                    	{ 
+                        if (strpos(strtolower($file),strtolower($excludes[$i])) > 0)
+                        	{
+                            $found = false;
+                            }
+                        }
+                    if ($found)
+                        {
+                        $files[] = $file;
+                    	$dirlink = $dir . "/" . $file;
+                        array_push($findex[path],$dirlink);
+                    	array_push($findex[file],$file);
+                        }
+                    $found = false;
+                    }
+           		}
+        	}
+        closedir($handle);
+        return $findex;
+    	}
+	}
+ 
+header('Content-Type: text/plain; charset=utf-8');
+header("Cache-Control: no-store, no-cache, must-revalidate, max-age=0");
+header("Cache-Control: post-check=0, pre-check=0", false);
+header("Pragma: no-cache");
+
+ 
+$dir = "/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl";
+ 
+echo "\n";
+echo " Searching ". $dir ." for matching files\n";
+ 
+$files = rec_scandir($dir);
+ 
+echo " Found " . sizeof($files[file]) . " matching extensions\n";
+ 
+echo " Scanning for orphaned files....\n";
+ 
+$findex[found] = array();
+ 
+for ($i=0;$i<sizeof($findex[path]);$i++)
+        {
+        echo $i . " ";
+        $contents = file_get_contents($findex[path][$i]);
+        for ($j=0;$j<sizeof($findex[file]);$j++)
+                {
+                if (strpos($contents,$findex[file][$j]) > 0)
+                        {
+                        $findex[found][$j] = 1;
+                        }
+                }
+        }
+ 
+echo "\n";
+ 
+$counter=1;
+for ($i=0;$i<sizeof($findex[path]);$i++)
+        {
+        if ($findex[found][$i] != 1)
+                {
+                echo  " " . $counter . ") " .  substr($findex[path][$i],0,1000) . " is orphaned\n";
+                $counter++;
+                }
+        }
+ 
+?>

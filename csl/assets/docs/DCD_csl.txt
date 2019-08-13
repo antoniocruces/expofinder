@@ -1,0 +1,906 @@
+phpdcd 1.0.2 by Sebastian Bergmann.
+
+  - CLS_Taxonomies_Management::handle_change_tax()
+    LOC: 47, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_terms_management_helper.php:245
+
+  - CLS_Taxonomies_Management::handle_merge()
+    LOC: 29, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_terms_management_helper.php:181
+
+  - CLS_Taxonomies_Management::handle_set_parent()
+    LOC: 15, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_terms_management_helper.php:220
+
+  - CLS_Taxonomies_Management::handler()
+    LOC: 33, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_terms_management_helper.php:79
+
+  - CLS_Taxonomies_Management::input_change_tax()
+    LOC: 15, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_terms_management_helper.php:345
+
+  - CLS_Taxonomies_Management::input_merge()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_terms_management_helper.php:333
+
+  - CLS_Taxonomies_Management::input_set_parent()
+    LOC: 11, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_terms_management_helper.php:371
+
+  - CLS_Taxonomies_Management::inputs()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_terms_management_helper.php:315
+
+  - CLS_Taxonomies_Management::notice()
+    LOC: 14, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_terms_management_helper.php:156
+
+  - CLS_Taxonomies_Management::script()
+    LOC: 5, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_terms_management_helper.php:300
+
+  - CSL_Custom_Post_Helper::add_custom_js_css()
+    LOC: 6, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_post_helper.php:803
+
+  - CSL_Custom_Post_Helper::add_custom_scripts()
+    LOC: 31, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_post_helper.php:810
+
+  - CSL_Custom_Post_Helper::calculateRGB()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_post_helper.php:842
+
+  - CSL_Custom_Post_Helper::register_post_type()
+    LOC: 60, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_post_helper.php:37
+
+  - CSL_Dashboard_Chat::updateMessage()
+    LOC: 11, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_chat.php:194
+
+  - CSL_Idle_Logout::check_for_inactivity()
+    LOC: 20, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_idle_autologout.php:85
+
+  - CSL_Idle_Logout::idle_message()
+    LOC: 7, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_idle_autologout.php:126
+
+  - CSL_Idle_Logout::initialize_options()
+    LOC: 40, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_idle_autologout.php:170
+
+  - CSL_Idle_Logout::login_key_refresh()
+    LOC: 5, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_idle_autologout.php:70
+
+  - CSL_Idle_Logout::options_menu()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_idle_autologout.php:139
+
+  - CSL_Idle_Logout::options_page()
+    LOC: 10, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_idle_autologout.php:154
+
+  - CSL_Idle_Logout::render_idle_message_option()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_idle_autologout.php:226
+
+  - CSL_Idle_Logout::render_idle_time_option()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_idle_autologout.php:216
+
+  - CSL_Local_Avatars::__construct()
+    LOC: 29, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:19
+
+  - CSL_Local_Avatars::action_remove_csl_local_avatar()
+    LOC: 16, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:452
+
+  - CSL_Local_Avatars::admin_enqueue_scripts()
+    LOC: 20, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:183
+
+  - CSL_Local_Avatars::admin_init()
+    LOC: 35, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:142
+
+  - CSL_Local_Avatars::ajax_assign_csl_local_avatar_media()
+    LOC: 16, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:472
+
+  - CSL_Local_Avatars::avatar_defaults()
+    LOC: 5, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:492
+
+  - CSL_Local_Avatars::avatar_settings_field()
+    LOC: 16, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:223
+
+  - CSL_Local_Avatars::avatar_settings_user_field()
+    LOC: 24, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:245
+
+  - CSL_Local_Avatars::default_avatar_select()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:501
+
+  - CSL_Local_Avatars::edit_user_profile()
+    LOC: 66, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:275
+
+  - CSL_Local_Avatars::edit_user_profile_update()
+    LOC: 61, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:377
+
+  - CSL_Local_Avatars::get_avatar()
+    LOC: 82, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:59
+
+  - CSL_Local_Avatars::sanitize_options()
+    LOC: 7, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:210
+
+  - CSL_Local_Avatars::unique_filename_callback()
+    LOC: 13, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:544
+
+  - CSL_Local_Avatars::upload_size_limit()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:445
+
+  - CSL_Local_Avatars::user_edit_form_tag()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:345
+
+  - CSL_Local_Avatars::user_profile_update_errors()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_local_avatars.php:563
+
+  - Crawler::__construct()
+    LOC: 10, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/Crawler.class.php:39
+
+  - Crawler::crawl()
+    LOC: 8, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/Crawler.class.php:50
+
+  - Crawler::getResults()
+    LOC: 1, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/Crawler.class.php:30
+
+  - ExportData::addRow()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1743
+
+  - ExportData::finalize()
+    LOC: 18, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1747
+
+  - ExportData::getString()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1766
+
+  - ExportData::initialize()
+    LOC: 17, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1725
+
+  - ExportDataCSV::generateRow()
+    LOC: 8, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1824
+
+  - ExportDataCSV::sendHttpHeaders()
+    LOC: 5, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1833
+
+  - ExportDataExcel::generateFooter()
+    LOC: 11, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1881
+
+  - ExportDataExcel::generateHeader()
+    LOC: 15, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1865
+
+  - ExportDataExcel::generateRow()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1893
+
+  - ExportDataExcel::sendHttpHeaders()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1939
+
+  - ExportDataTSV::generateRow()
+    LOC: 8, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1804
+
+  - ExportDataTSV::sendHttpHeaders()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1813
+
+  - JSLikeHTMLElement::__get()
+    LOC: 14, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/Readability/JSLikeHTMLElement.php:90
+
+  - JSLikeHTMLElement::__set()
+    LOC: 40, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/Readability/JSLikeHTMLElement.php:43
+
+  - JSLikeHTMLElement::__toString()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/Readability/JSLikeHTMLElement.php:105
+
+  - Node::__construct()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:248
+
+  - Node::parse()
+    LOC: 191, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:293
+
+  - Node::rank()
+    LOC: 22, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:265
+
+  - OpenCrawler::__construct()
+    LOC: 5, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:62
+
+  - OpenCrawler::absoluteUrl()
+    LOC: 221, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:625
+
+  - OpenCrawler::ajaxUrlTransform()
+    LOC: 24, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:1106
+
+  - OpenCrawler::cleanUrl()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:561
+
+  - OpenCrawler::clearHistory()
+    LOC: 5, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:550
+
+  - OpenCrawler::crawlerAccess()
+    LOC: 32, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:504
+
+  - OpenCrawler::filloutParse()
+    LOC: 23, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:847
+
+  - OpenCrawler::getHistory()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:541
+
+  - OpenCrawler::isValid()
+    LOC: 28, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:571
+
+  - OpenCrawler::loadAjaxLinks()
+    LOC: 12, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:1089
+
+  - OpenCrawler::loadContent()
+    LOC: 28, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:374
+
+  - OpenCrawler::loadLinks()
+    LOC: 38, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:460
+
+  - OpenCrawler::loadNext()
+    LOC: 49, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:406
+
+  - OpenCrawler::loadSitemaps()
+    LOC: 174, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:910
+
+  - OpenCrawler::loadUrl()
+    LOC: 186, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:72
+
+  - OpenCrawler::parseHeaders()
+    LOC: 42, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:325
+
+  - OpenCrawler::parseRobots()
+    LOC: 52, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:267
+
+  - OpenCrawler::parseSegments()
+    LOC: 33, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:871
+
+  - OpenCrawler::pushLink()
+    LOC: 14, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:605
+
+  - Readability::addFlag()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/Readability/Readability.php:1131
+
+  - Readability::init()
+    LOC: 60, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/Readability/Readability.php:160
+
+  - Readability::parse()
+    LOC: 8, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:1510
+
+  - WCMphpmailerException()
+    LOC: 38, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_mail_helper.php:16
+
+  - XMLRPCS_Profile::admin_enqueues()
+    LOC: 25, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:31
+
+  - XMLRPCS_Profile::append_secure_keys()
+    LOC: 17, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:62
+
+  - XMLRPCS_Profile::authenticate()
+    LOC: 55, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:194
+
+  - XMLRPCS_Profile::init()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:13
+
+  - XMLRPCS_Profile::new_app()
+    LOC: 25, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:120
+
+  - XMLRPCS_Profile::profile_update()
+    LOC: 33, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:151
+
+  - XMLRPCS_Profile::server()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_xmlrpcs_profile.php:24
+
+  - ajax()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_chat.php:231
+
+  - b8_degenerator_default::__construct()
+    LOC: 25, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/degenerator/degenerator_default.php:46
+
+  - b8_degenerator_default::degenerate()
+    LOC: 11, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/degenerator/degenerator_default.php:80
+
+  - b8_lexer_default::__construct()
+    LOC: 30, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/lexer/lexer_default.php:67
+
+  - b8_lexer_default::get_tokens()
+    LOC: 49, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/lexer/lexer_default.php:106
+
+  - b8_storage_base::get()
+    LOC: 67, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_base.php:110
+
+  - b8_storage_base::process_text()
+    LOC: 100, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_base.php:188
+
+  - b8_storage_dba::__construct()
+    LOC: 51, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_dba.php:47
+
+  - b8_storage_dba::__destruct()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_dba.php:106
+
+  - b8_storage_dba::_commit()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_dba.php:225
+
+  - b8_storage_dba::_del()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_dba.php:213
+
+  - b8_storage_dba::_get_query()
+    LOC: 40, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_dba.php:119
+
+  - b8_storage_dba::_put()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_dba.php:187
+
+  - b8_storage_dba::_update()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_dba.php:200
+
+  - b8_storage_mysql::__construct()
+    LOC: 73, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_mysql.php:57
+
+  - b8_storage_mysql::__destruct()
+    LOC: 11, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_mysql.php:138
+
+  - b8_storage_mysql::_del()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_mysql.php:269
+
+  - b8_storage_mysql::_get_query()
+    LOC: 58, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_mysql.php:158
+
+  - b8_storage_mysql::_put()
+    LOC: 12, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_mysql.php:226
+
+  - b8_storage_mysql::_update()
+    LOC: 12, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_mysql.php:248
+
+  - b8_storage_mysqli::__construct()
+    LOC: 73, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_mysqli.php:58
+
+  - b8_storage_mysqli::__destruct()
+    LOC: 11, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_mysqli.php:139
+
+  - b8_storage_mysqli::_del()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_mysqli.php:270
+
+  - b8_storage_mysqli::_get_query()
+    LOC: 58, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_mysqli.php:159
+
+  - b8_storage_mysqli::_put()
+    LOC: 12, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_mysqli.php:227
+
+  - b8_storage_mysqli::_update()
+    LOC: 12, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_mysqli.php:249
+
+  - b8_storage_postgresql::__construct()
+    LOC: 78, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_postgresql.php:60
+
+  - b8_storage_postgresql::__destruct()
+    LOC: 11, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_postgresql.php:146
+
+  - b8_storage_postgresql::_del()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_postgresql.php:259
+
+  - b8_storage_postgresql::_get_query()
+    LOC: 54, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_postgresql.php:166
+
+  - b8_storage_postgresql::_update()
+    LOC: 6, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/b8/storage/storage_postgresql.php:244
+
+  - chromefix_inline_css()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:1920
+
+  - cls_edit_artwork_load()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3201
+
+  - cls_edit_book_load()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2166
+
+  - cls_edit_company_load()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2352
+
+  - cls_edit_entity_load()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1623
+
+  - cls_edit_exhibition_load()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2984
+
+  - cls_edit_person_load()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1863
+
+  - cls_error_message_for_no_managers_adding_taxonomies()
+    LOC: 7, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3782
+
+  - cls_lock_adding_new_taxonomies_for_authors()
+    LOC: 13, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3767
+
+  - cls_st_process_sc()
+    LOC: 6, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_ajax_helper.php:1177
+
+  - contains_all_s()
+    LOC: 12, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:114
+
+  - csl_RDA_Remove_Access::dashboard_redirect()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:54
+
+  - csl_RDA_Remove_Access::hide_menus()
+    LOC: 15, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:38
+
+  - csl_RDA_Remove_Access::hide_toolbar_items()
+    LOC: 13, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:64
+
+  - csl_RDA_Remove_Access::is_user_allowed()
+    LOC: 7, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:24
+
+  - csl_Rabin_Karp()
+    LOC: 36, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:128
+
+  - csl_acpt_add_post_meta_box()
+    LOC: 10, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_admin_posts_helper.php:122
+
+  - csl_acpt_generic_custom_default_title()
+    LOC: 10, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_admin_posts_helper.php:305
+
+  - csl_acpt_post_meta_box_setup()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_admin_posts_helper.php:115
+
+  - csl_acpt_query_metadata_meta_box()
+    LOC: 47, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_admin_posts_helper.php:133
+
+  - csl_acpt_register_post_type()
+    LOC: 46, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_admin_posts_helper.php:24
+
+  - csl_acpt_register_taxonomies()
+    LOC: 20, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_admin_posts_helper.php:78
+
+  - csl_acpt_save_metadata()
+    LOC: 122, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_admin_posts_helper.php:181
+
+  - csl_acpt_title_like_posts_where()
+    LOC: 8, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_admin_posts_helper.php:100
+
+  - csl_activate_exhibitions_filters()
+    LOC: 17, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2956
+
+  - csl_add_categories_and_tags_for_pages()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:875
+
+  - csl_add_cron_new_intervals()
+    LOC: 15, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:101
+
+  - csl_add_custom_post_types_to_query()
+    LOC: 13, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:911
+
+  - csl_admin_bar_customization()
+    LOC: 37, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:1837
+
+  - csl_admin_scripts()
+    LOC: 90, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_scripts_helper.php:64
+
+  - csl_all_settings_for_administrator_link()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:355
+
+  - csl_artwork_edit_columns()
+    LOC: 16, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3129
+
+  - csl_artwork_sortable_columns()
+    LOC: 7, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3192
+
+  - csl_book_edit_columns()
+    LOC: 14, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2100
+
+  - csl_book_sortable_columns()
+    LOC: 5, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2159
+
+  - csl_bug_form_shortcode()
+    LOC: 8, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:1012
+
+  - csl_change_dashboard_start_admin_menu()
+    LOC: 18, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:1886
+
+  - csl_change_footer_admin()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:214
+
+  - csl_change_footer_version()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:217
+
+  - csl_companies_status_meta_box_add()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2285
+
+  - csl_companies_status_meta_box_render()
+    LOC: 7, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2289
+
+  - csl_company_edit_columns()
+    LOC: 13, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2300
+
+  - csl_company_sortable_columns()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2346
+
+  - csl_contact_form_shortcode()
+    LOC: 7, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:855
+
+  - csl_convert_id_to_term_in_query()
+    LOC: 12, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:2177
+
+  - csl_create_activity_log_table()
+    LOC: 90, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_log_helper.php:28
+
+  - csl_cron_beagle_function()
+    LOC: 20, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:137
+
+  - csl_crossfilter_shortcode()
+    LOC: 21, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:1064
+
+  - csl_custom_help_tabs()
+    LOC: 54, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3643
+
+  - csl_custom_menu_settings_page_paint()
+    LOC: 251, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:1579
+
+  - csl_custom_menu_spp_msg_connected_managers()
+    LOC: 22, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:190
+
+  - csl_custom_menu_status_page()
+    LOC: 12, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:363
+
+  - csl_custom_menu_status_page_paint()
+    LOC: 43, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:397
+
+  - csl_custom_more_link()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1133
+
+  - csl_custom_posts_orderby()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:934
+
+  - csl_custom_users_fields()
+    LOC: 16, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:244
+
+  - csl_delete_log()
+    LOC: 13, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_log_helper.php:593
+
+  - csl_document_edit_columns()
+    LOC: 13, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3293
+
+  - csl_entities_status_meta_box_add()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1540
+
+  - csl_entities_status_meta_box_render()
+    LOC: 7, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1544
+
+  - csl_entity_edit_columns()
+    LOC: 14, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1564
+
+  - csl_entity_sortable_columns()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1617
+
+  - csl_error_backtrace()
+    LOC: 12, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_profiling_tools.php:43
+
+  - csl_exhibition_edit_columns()
+    LOC: 18, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2770
+
+  - csl_exhibition_sortable_columns()
+    LOC: 7, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2975
+
+  - csl_extra_profile_fields()
+    LOC: 54, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:261
+
+  - csl_filter_by_post_type()
+    LOC: 10, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:997
+
+  - csl_filter_post_type_by_taxonomy()
+    LOC: 17, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:2154
+
+  - csl_flush_buffer()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:359
+
+  - csl_frontend_scripts()
+    LOC: 106, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_scripts_helper.php:161
+
+  - csl_generic_ajax_call()
+    LOC: 1050, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_ajax_helper.php:38
+
+  - csl_generic_custom_default_title()
+    LOC: 10, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_post_helper.php:883
+
+  - csl_generic_custom_updated_messages()
+    LOC: 38, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3371
+
+  - csl_geochart_shortcode()
+    LOC: 83, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:1086
+
+  - csl_get_rss_uris_array()
+    LOC: 32, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_data_retrieval_helper.php:1026
+
+  - csl_get_title_content_from_html()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_data_retrieval_helper.php:882
+
+  - csl_get_user_posts()
+    LOC: 56, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1639
+
+  - csl_html_js_class()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_scripts_helper.php:8
+
+  - csl_if_featured_image_class()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1139
+
+  - csl_init_routines()
+    LOC: 28, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:881
+
+  - csl_initialize_buffer()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:347
+
+  - csl_insert_language_variable_in_head()
+    LOC: 6, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_scripts_helper.php:15
+
+  - csl_keyword_count_sort()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3490
+
+  - csl_leaflet_shortcode()
+    LOC: 21, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:1042
+
+  - csl_load_be_style_files()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_scripts_helper.php:271
+
+  - csl_load_fe_style_files()
+    LOC: 29, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_scripts_helper.php:28
+
+  - csl_log_status_change_action()
+    LOC: 10, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3629
+
+  - csl_log_trash_action()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3607
+
+  - csl_log_untrash_action()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3618
+
+  - csl_login_URL()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1045
+
+  - csl_login_URL_text()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1050
+
+  - csl_login_logo()
+    LOC: 22, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1019
+
+  - csl_login_message()
+    LOC: 21, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1056
+
+  - csl_login_stylesheet()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1014
+
+  - csl_manage_artwork_columns()
+    LOC: 43, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3147
+
+  - csl_manage_book_columns()
+    LOC: 41, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2116
+
+  - csl_manage_company_columns()
+    LOC: 29, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2315
+
+  - csl_manage_document_columns()
+    LOC: 31, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3308
+
+  - csl_manage_entity_columns()
+    LOC: 35, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1580
+
+  - csl_manage_exhibition_columns()
+    LOC: 111, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2790
+
+  - csl_manage_person_columns()
+    LOC: 29, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1826
+
+  - csl_manage_users_columns()
+    LOC: 5, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:96
+
+  - csl_manage_users_custom_column()
+    LOC: 13, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:112
+
+  - csl_microtime_float()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:396
+
+  - csl_new_chat_activity_notice()
+    LOC: 17, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:729
+
+  - csl_new_rss_capture()
+    LOC: 28, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:1216
+
+  - csl_no_wp_logo_admin_bar_remove()
+    LOC: 21, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:1510
+
+  - csl_numbers_between()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:290
+
+  - csl_person_edit_columns()
+    LOC: 13, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1811
+
+  - csl_person_sortable_columns()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1857
+
+  - csl_posts_link_attributes_newer()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1126
+
+  - csl_posts_link_attributes_older()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1123
+
+  - csl_purge_transients()
+    LOC: 36, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1327
+
+  - csl_redirect_dashboard()
+    LOC: 8, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:1876
+
+  - csl_remove_comment_support()
+    LOC: 6, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:235
+
+  - csl_replace_howdy()
+    LOC: 8, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:224
+
+  - csl_restrict_exhibitions_by_country()
+    LOC: 24, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2930
+
+  - csl_restrict_exhibitions_by_start_date()
+    LOC: 24, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2904
+
+  - csl_revisions_to_keep()
+    LOC: 6, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3413
+
+  - csl_safe_force_numeric()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1629
+
+  - csl_sanitize_settings()
+    LOC: 19, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:1554
+
+  - csl_save_extra_profile_fields()
+    LOC: 31, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:316
+
+  - csl_search_distinct()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:981
+
+  - csl_search_join()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:949
+
+  - csl_search_where()
+    LOC: 11, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:964
+
+  - csl_self_ajax_lookup()
+    LOC: 32, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_ajax_helper.php:3
+
+  - csl_settings_add()
+    LOC: 12, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:1540
+
+  - csl_settings_register()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_dashboard_helper.php:1535
+
+  - csl_setup()
+    LOC: 8, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1089
+
+  - csl_shc_base_stats()
+    LOC: 273, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:345
+
+  - csl_shc_custom_queries()
+    LOC: 156, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:180
+
+  - csl_shc_documents()
+    LOC: 55, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:686
+
+  - csl_shc_expofinder()
+    LOC: 5, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:13
+
+  - csl_shc_posts_pivot()
+    LOC: 40, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:131
+
+  - csl_shc_project_stats()
+    LOC: 87, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:43
+
+  - csl_shc_project_status()
+    LOC: 7, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:27
+
+  - csl_shc_splash()
+    LOC: 50, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:627
+
+  - csl_sort_artworks()
+    LOC: 24, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3205
+
+  - csl_sort_books()
+    LOC: 22, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2170
+
+  - csl_sort_companies()
+    LOC: 14, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2356
+
+  - csl_sort_entities()
+    LOC: 14, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1627
+
+  - csl_sort_exhibitions()
+    LOC: 38, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:2988
+
+  - csl_sort_people()
+    LOC: 14, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1867
+
+  - csl_st_process()
+    LOC: 28, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_ajax_helper.php:1104
+
+  - csl_st_set_option()
+    LOC: 3, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_ajax_helper.php:1136
+
+  - csl_st_show_screen_options()
+    LOC: 31, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_ajax_helper.php:1140
+
+  - csl_string_contains_array_element()
+    LOC: 8, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:411
+
+  - csl_survey_add_columns_admin()
+    LOC: 13, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_survey_helper.php:366
+
+  - csl_survey_add_metabox_count()
+    LOC: 75, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_survey_helper.php:257
+
+  - csl_survey_add_metaboxes()
+    LOC: 10, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_survey_helper.php:246
+
+  - csl_survey_clear_evals()
+    LOC: 13, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_survey_helper.php:163
+
+  - csl_survey_create_eval_post_type()
+    LOC: 0, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_survey_helper.php:180
+
+  - csl_survey_handle_filtering()
+    LOC: 10, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_survey_helper.php:447
+
+  - csl_survey_manage_columns_admin()
+    LOC: 62, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_survey_helper.php:382
+
+  - csl_survey_save_meta_content()
+    LOC: 24, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_survey_helper.php:334
+
+  - csl_survey_single_ajax()
+    LOC: 14, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_survey_helper.php:145
+
+  - csl_theme_switch_routines()
+    LOC: 705, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:168
+
+  - csl_track_login()
+    LOC: 16, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1170
+
+  - csl_track_logout()
+    LOC: 11, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1188
+
+  - csl_update_log()
+    LOC: 25, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_log_helper.php:242
+
+  - csl_voronoi_shortcode()
+    LOC: 20, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_shortcodes_helper.php:1021
+
+  - csl_wp_title()
+    LOC: 12, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1108
+
+  - extractKeyWords()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:186
+
+  - force_404()
+    LOC: 14, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1151
+
+  - get_uris_by_user_id()
+    LOC: 28, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1564
+
+  - get_user_id_by_display_name()
+    LOC: 6, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:1557
+
+  - insert_footer_hidden_popup()
+    LOC: 7, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:1552
+
+  - query_set_only_author()
+    LOC: 6, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/functions.php:3793
+
+  - secure_xmlrpc_server::__construct()
+    LOC: 7, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_class_secure_xmlrpc_server.php:24
+
+  - secure_xmlrpc_server::add_methods()
+    LOC: 10, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_class_secure_xmlrpc_server.php:129
+
+  - secure_xmlrpc_server::remove_methods()
+    LOC: 90, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_class_secure_xmlrpc_server.php:32
+
+  - secure_xmlrpc_server::wp_getPosts()
+    LOC: 65, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_class_secure_xmlrpc_server.php:181
+
+  - secure_xmlrpc_server::wp_getValidTermsData()
+    LOC: 52, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_class_secure_xmlrpc_server.php:253
+
+  - secure_xmlrpc_server::xmlrpcs_createApplication()
+    LOC: 41, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/XMLRPC/csl_class_secure_xmlrpc_server.php:315
+
+  - send_smtp_email()
+    LOC: 11, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_mail_helper.php:56
+
+  - wp_bootstrap_navwalker::display_element()
+    LOC: 9, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:124
+
+  - wp_bootstrap_navwalker::fallback()
+    LOC: 25, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:144
+
+  - wp_bootstrap_navwalker::start_el()
+    LOC: 70, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:34
+
+  - wp_bootstrap_navwalker::start_lvl()
+    LOC: 4, declared in /var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_global_helper.php:20
+
+Time: 586 ms, Memory: 20.00Mb

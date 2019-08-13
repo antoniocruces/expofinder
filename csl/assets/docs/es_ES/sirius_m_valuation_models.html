@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	<meta name="description" content="">
+	<meta name="author" content="">
+	
+	<title>Starter Template for Bootstrap</title>
+	
+	<!-- Bootstrap core CSS and Font Awesome CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+	<style>
+        body {
+            padding-top: 50px;
+        }
+        .starter-template {
+            padding: 40px 15px;
+            text-align: center;
+        }
+		@media print {
+		    .noprint {display: none;}
+		}
+	</style>
+</head>
+
+<body>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#"><i class="fa fa-diamond" style="color: #2d99e5; margin-right: 10px;"></i>SIRIUS<span style="color: #c0c0c0; font-weight: bolder;">-</span><span style="color: #2d99e5; font-weight: bolder;">M</span></a>
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li><a href="# "onClick="window.print();"><i class="fa fa-print"></i>&nbsp;Imprimir&hellip;</a></li>
+                </ul>
+            </div><!--/.nav-collapse -->
+        </div>
+    </nav>
+    <div class="container">
+        <div class="starter-template">
+            <h1><i class="fa fa-diamond" style="color: #2d99e5; margin-right: 10px;"></i>SIRIUS<span style="color: #c0c0c0; font-weight: bolder;">-</span><span style="color: #2d99e5; font-weight: bolder;">M</span></h1>
+            <p class="lead">Sistema de evaluación de calidad y presencia de museos e instituciones culturales en Internet.</p>
+        </div>
+	    <div class="row" style="margin-bottom: 30px;">
+		    <div class="col-md-12">
+                <div role="tabpanel">
+                    <!-- Nav tabs -->
+                    <ul id="tabpanelmodels" class="nav nav-tabs noprint" role="tablist">
+                        <li role="presentation" class="active"><a href="#models" aria-controls="models" role="tab" data-toggle="tab">Modelos</a></li>
+                        <li role="presentation"><a href="#values" aria-controls="values" role="tab" data-toggle="tab">Valores</a></li>
+                    </ul>
+                
+                    <!-- Tab panes -->
+                    <div class="tab-content">
+                        <div role="tabpanel" class="tab-pane active" id="models">
+            			    <h3><em>Dominios</em> de valoración</h3>
+            			    <p id="printable-domains-help" style="width: 100% !important;"> 
+            					<ol>
+            						<li style="margin-bottom: 10px;">
+            							<p style="margin-bottom: 10px;"><strong>Aspectos generales (cada elemento: 1 punto)</strong></p>
+            							<ul style="list-style-type: square; margin-left: 30px;">
+            								<li>Objetivos del sitio web concretos y bien definidos</li>
+            								<li>Contenidos y servicios ofrecidos precisos y completos</li> 
+            								<li>Estructura general del sitio web orientada al usuario</li>
+            								<li>Look & Feel general se corresponde con los objetivos, características, contenidos y servicios del sitio web</li>
+            								<li>Diseño general del sitio web reconocible</li>
+            								<li>Diseño general del sitio web coherente</li>
+            								<li>Se utiliza el idioma del usuario</li>
+            								<li>Se da soporte a otro/s idioma/s</li>
+            								<li>Traducción del sitio completa y correcta</li> 
+            								<li>Sitio web actualizado periódicamente</li>
+            							</ul>
+            						</li>
+            						<li style="margin-bottom: 10px;">
+            							<p style="margin-bottom: 10px;"><strong>Identidad e información (cada elemento: 1,4 puntos; ajustar a 10)</strong></p>
+            							<ul style="list-style-type: square; margin-left: 30px;">
+            								<li>Identidad o logotipo significativo, identificable y suficientemente visible</li>
+            								<li>Identidad del sitio en todas las páginas</li>
+            								<li>Eslogan o <em>tagline</em> adecuado al objetivo del sitio</li>
+            								<li>Se ofrece información sobre el sitio web, empresa</li>
+            								<li>Existen mecanismos de contacto</li>
+            								<li>Se ofrece información sobre la protección de datos de carácter personal o los derechos de autor de los contenidos del sitio web</li>
+            								<li>Se ofrece información sobre el autor, fuentes y fechas de creación y revisión en artículos, noticias, informes</li>
+            							</ul>
+            						</li>
+            						<li style="margin-bottom: 10px;">
+            							<p style="margin-bottom: 10px;"><strong>Estructura y navegación (cada elemento: 0,7 puntos; ajustar a 10)</strong></p>
+            							<ul style="list-style-type: square; margin-left: 30px;">
+            								<li>Se ha evitado pantalla de bienvenida</li>
+            								<li>Estructura de organización y navegación adecuada</li>
+            								<li>Organización de elementos consistente con las convenciones</li>
+            								<li>Control del número de elementos y de términos por elemento en los menús de navegación</li>
+            								<li>Equilibrio entre profundidad y anchura en el caso de estructura jerárquica</li>
+            								<li>Enlaces fácilmente reconocibles como tales</li>
+            								<li>La caracterización de los enlaces indica su estado (visitados, activos)</li>
+            								<li>No hay redundancia de enlaces</li>
+            								<li>No hay enlaces rotos</li>
+            								<li>No hay enlaces que lleven a la misma página que se está visualizando</li>
+            								<li>En las imágenes de enlace se indica el contenido al que se va a acceder</li>
+            								<li>Existe un enlace para volver al inicio en cada página</li>
+            								<li>Existen elementos de navegación que orienten al usuario acerca de dónde está y cómo deshacer su navegación (ej: migas)</li>
+            								<li>Existe mapa del sitio para acceder directamente a los contenidos sin navegar</li>
+            							</ul>
+            						</li>
+            						<li style="margin-bottom: 10px;">
+            							<p style="margin-bottom: 10px;"><strong>Rotulado (cada elemento: 1,7 puntos; ajustar a 10)</strong></p>
+            							<ul style="list-style-type: square; margin-left: 30px;">
+            								<li>Rótulos significativos</li>
+            								<li>Sistema de rotulado controlado y preciso</li>
+            								<li>Título de las páginas, correcto y planificado</li>
+            								<li>URL página principal correcta, clara y fácil de recordar</li>
+            								<li>URLs de páginas internas claras</li>
+            								<li>URLs de páginas internas permanentes</li>
+            							</ul>
+            						</li>
+            						<li style="margin-bottom: 10px;">
+            							<p style="margin-bottom: 10px;"><strong>Disposición de la página (cada elemento: 1 punto)</strong></p>
+            							<ul style="list-style-type: square; margin-left: 30px;">
+            								<li>Se aprovechan las zonas de alta jerarquía informativa de la página para contenidos de mayor relevancia</li>
+            								<li>Se ha evitado la sobrecarga informativa</li>
+            								<li>Es una interfaz limpia, sin ruido visual</li>
+            								<li>Existen zonas en blanco entre los objetos informativos de la página para poder descansar la vista</li>
+            								<li>Uso correcto del espacio visual de la página</li>
+            								<li>Se utiliza correctamente la jerarquía visual para expresar las relaciones del tipo "parte de" entre los elementos de la página</li>
+            								<li>Se ha controlado la longitud de página</li>
+            								<li>La versión impresa de la página es correcta</li>
+            								<li>El texto de la página se lee sin dificultad</li>
+            								<li>Se ha evitado el texto parpadeante / deslizante</li>
+            							</ul>
+            						</li>
+            						<li style="margin-bottom: 10px;">
+            							<p style="margin-bottom: 10px;"><strong>Comprensibilidad y facilidades (cada elemento: 1,4 puntos; ajustar a 10)</strong></p>
+            							<ul style="list-style-type: square; margin-left: 30px;">
+            								<li>Se emplea un lenguaje claro y conciso</li>
+            								<li>Lenguaje  amigable, familiar y cercano</li>
+            								<li>Cada párrafo expresa una idea</li>
+            								<li>Uso consistente de los controles de la interfaz</li>
+            								<li>Metáforas visuales reconocibles y comprensibles por cualquier usuario (ej.: iconos)</li>
+            								<li>Si se usan menús desplegables, orden coherente o alfabético</li>
+            								<li>Si el usuario tiene que rellenar un campo, las opciones  disponibles se pueden seleccionar en vez de tener que escribirlas</li>
+            							</ul>
+            						</li>
+            						<li style="margin-bottom: 10px;">
+            							<p style="margin-bottom: 10px;"><strong>Control y retroalimentación (cada elemento: 1 punto)</strong></p>
+            							<ul style="list-style-type: square; margin-left: 30px;">
+            								<li>El usuario tiene todo el control sobre la interfaz</li>
+            								<li>Se informa al usuario acerca de lo que está pasando</li>
+            								<li>Se informa al usuario de lo que ha pasado</li>
+            								<li>Existen sistemas de validación antes de que el usuario envíe información para tratar de evitar errores</li>
+            								<li>Cuando se produce un error, se informa de forma clara y no alarmista al usuario de lo ocurrido y de cómo solucionar el problema</li>
+            								<li>Se ha controlado el tiempo de respuesta</li>
+            								<li>Se ha evitado que las ventanas del sitio anulen o se superpongan a la del navegador</li>
+            								<li>Se ha evitado la proliferación de ventanas en la pantalla del usuario</li>
+            								<li>Se ha evitado la descarga por parte del usuario de plugins adicionales</li>
+            								<li>Si existen tareas de varios pasos, se indica al usuario en cual está y cuantos faltan para completar la tarea</li>
+            							</ul>
+            						</li>
+            						<li style="margin-bottom: 10px;">
+            							<p style="margin-bottom: 10px;"><strong>Elementos multimedios (cada elemento: 1,7 puntos; ajustar a 10)</strong></p>
+            							<ul style="list-style-type: square; margin-left: 30px;">
+            								<li>Fotografías bien recortadas</li>
+            								<li>Fotografías comprensibles</li>
+            								<li>Fotografías con correcta resolución</li>
+            								<li>El uso de imágenes o animaciones proporciona algún tipo de valor añadido</li>
+            								<li>Se ha evitado el uso de animaciones cíclicas</li>
+            								<li>El uso de sonido proporciona algún tipo de valor añadido</li>
+            							</ul>
+            						</li>
+            						<li style="margin-bottom: 10px;">
+            							<p style="margin-bottom: 10px;"><strong>Búsqueda (cada elemento: 1,25 puntos)</strong></p>
+            							<ul style="list-style-type: square; margin-left: 30px;">
+            								<li>La búsqueda, si  es necesaria, se encuentra accesible desde todas las páginas del sitio</li>
+            								<li>Es fácilmente reconocible como tal</li>
+            								<li>Se encuentra fácilmente accesible</li>
+            								<li>La caja de texto es lo suficientemente ancha</li>
+            								<li>Sistema de búsqueda simple y claro</li>
+            								<li>Permite la búsqueda avanzada</li>
+            								<li>Muestra los resultados de la búsqueda de forma comprensible para el usuario</li>
+            								<li>Asiste al usuario en caso de no poder ofrecer resultados para una consultada dada</li>
+            							</ul>
+            						</li>
+            						<li style="margin-bottom: 10px;">
+            							<p style="margin-bottom: 10px;"><strong>Ayuda (cada elemento: 2 puntos)</strong></p>
+            							<ul style="list-style-type: square; margin-left: 30px;">
+            								<li>El enlace a la sección de Ayuda está colocado en una zona visible y estándar</li>
+            								<li>Fácil acceso y retorno al/del sistema de ayuda</li>
+            								<li>Se ofrece ayuda contextual en tareas complejas</li>
+            								<li>FAQs (si las hay) correcta la elección como la redacción de las preguntas</li>
+            								<li>FAQs (si las hay) correcta la redacción de las respuestas</li>		
+            							</ul>
+            						</li>
+            						<li style="margin-bottom: 10px;">
+            							<p style="margin-bottom: 10px;"><strong>Posicionamiento en Google (cada elemento: 2 puntos)</strong></p>
+            							<ul style="list-style-type: square; margin-left: 30px;">
+            								<li>La primera referencia al organismo se encuentra entre los resultados 1 al 5</li>
+            								<li>La primera referencia al organismo se encuentra entre los resultados 6 al 10</li>
+            								<li>La primera referencia al organismo se encuentra entre los resultados 11 al 15</li>
+            								<li>La primera referencia al organismo se encuentra más allá del resultado 15, pero en la primera página de resultados</li>
+            								<li>La primera referencia al organismo se encuentra más allá de la primera página de resultados</li>
+            							</ul>
+            						</li>
+            						<li style="margin-bottom: 10px;">
+            							<p style="margin-bottom: 10px;"><strong>Presencia en redes sociales (cada elemento: 2 puntos)</strong></p>
+            							<ul style="list-style-type: square; margin-left: 30px;">
+            								<li>Presencia en Facebook</li>
+            								<li>Presencia en Twitter</li>
+            								<li>Presencia en Google+</li>
+            								<li>La presencia en cualquiera de las redes está actualizada</li>
+            								<li>Recomienda sus páginas en alguna de las tres redes</li>
+            							</ul>
+            						</li>
+            					</ol>
+            			    </p>
+                        
+                        </div>
+                        <div role="tabpanel" class="tab-pane" id="values">
+            			    <h3>Modelo de ficha de valoración</h3>
+            			    <table class="table table-striped table-hover table-condensed">
+            			        <thead>
+            			        <tr>
+            			            <th id="dominio" class="manage-column column-columnname" scope="col" rowspan="2" width="25%">Dominio</th>
+            			            <th id="title" class="manage-column column-columnname" scope="col" colspan="14" style="text-align: center;">Número de criterios que cumple</th>
+            			        </tr>
+            			        <tr>
+            			            <th id="point01" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">1</th>
+            			            <th id="point02" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">2</th>
+            			            <th id="point03" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">3</th>
+            			            <th id="point04" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">4</th>
+            			            <th id="point05" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">5</th>
+            			            <th id="point06" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">6</th>
+            			            <th id="point07" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">7</th>
+            			            <th id="point08" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">8</th>
+            			            <th id="point09" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">9</th>
+            			            <th id="point10" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">10</th>
+            			            <th id="point11" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">11</th>
+            			            <th id="point12" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">12</th>
+            			            <th id="point13" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">13</th>
+            			            <th id="point14" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">14</th>
+            			        </tr>
+            			        </thead>
+            			        <tfoot>
+            			        <tr>
+            			            <th id="dominio" class="manage-column column-columnname" scope="col" rowspan="2" width="20%">Dominio</th>
+            			            <th id="point01" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">1</th>
+            			            <th id="point02" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">2</th>
+            			            <th id="point03" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">3</th>
+            			            <th id="point04" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">4</th>
+            			            <th id="point05" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">5</th>
+            			            <th id="point06" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">6</th>
+            			            <th id="point07" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">7</th>
+            			            <th id="point08" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">8</th>
+            			            <th id="point09" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">9</th>
+            			            <th id="point10" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">10</th>
+            			            <th id="point11" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">11</th>
+            			            <th id="point12" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">12</th>
+            			            <th id="point13" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">13</th>
+            			            <th id="point14" class="manage-column column-columnname num" scope="col" style="font-size: 9px;">14</th>
+            			        </tr>
+            			        <tr>
+            			            <th id="title" class="manage-column column-columnname" scope="col" colspan="14" style="text-align: center;">Número de criterios que cumple</th>
+            			        </tr>
+            			        </tfoot>
+            			        <tbody>
+            			            <tr class="alternate">
+            			                <td class="column-columnname" style="font-size: 9px;">Aspectos generales</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">1</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">2</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">3</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">4</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">5</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">6</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">7</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">8</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">9</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">10</td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			            </tr>
+            			            <tr>
+            			                <td class="column-columnname" style="font-size: 9px;">Identidad e información</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">1</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">3</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">4</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">6</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">7</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">8</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">10</td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			            </tr>
+            			            <tr class="alternate">
+            			                <td class="column-columnname" style="font-size: 9px;">Estructura y navegación</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">1</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">1</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">2</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">3</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">4</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">4</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">5</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">6</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">6</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">7</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">8</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">8</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">9</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">10</td>
+            			            </tr>
+            			            <tr>
+            			                <td class="column-columnname" style="font-size: 9px;">Rotulado</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">2</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">3</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">5</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">7</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">9</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">10</td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			            </tr>
+            			            <tr class="alternate">
+            			                <td class="column-columnname" style="font-size: 9px;">Descripción de la página</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">1</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">2</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">3</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">4</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">5</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">6</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">7</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">8</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">9</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">10</td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			            </tr>
+            			            <tr>
+            			                <td class="column-columnname" style="font-size: 9px;">Ccomprensibilidad y facilidades</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">1</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">3</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">4</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">6</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">7</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">8</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">10</td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			            </tr>
+            			            <tr class="alternate">
+            			                <td class="column-columnname" style="font-size: 9px;">Control y retroalimentación</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">1</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">2</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">3</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">4</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">5</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">6</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">7</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">8</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">9</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">10</td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			            </tr>
+            			            <tr>
+            			                <td class="column-columnname" style="font-size: 9px;">Elementos multimedios</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">2</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">3</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">5</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">7</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">9</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">10</td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			            </tr>
+            			            <tr class="alternate">
+            			                <td class="column-columnname" style="font-size: 9px;">Búsqueda</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">1</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">3</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">4</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">5</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">6</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">8</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">9</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">10</td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			            </tr>
+            			            <tr>
+            			                <td class="column-columnname" style="font-size: 9px;">Ayuda</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">2</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">4</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">6</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">8</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">10</td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			            </tr>
+            			            <tr class="alternate">
+            			                <td class="column-columnname" style="font-size: 9px;">Posicionamiento en Google</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">2</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">4</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">6</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">8</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">10</td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			            </tr>
+            			            <tr>
+            			                <td class="column-columnname" style="font-size: 9px;">Presencia en redes sociales</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">2</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">4</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">6</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">8</td>
+            			                <td class="column-columnname num" style="font-size: 9px;">10</td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			                <td class="column-columnname num" style="font-size: 9px;"></td>
+            			            </tr>
+            			        </tbody>
+            			    </table>            
+                        </div>
+                    </div>
+                </div>            
+		    </div>
+	    </div>
+    </div>
+    <script type="text/javascript" src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+        $('#tabpanelmodels a').click(function (e) {
+            e.preventDefault()
+            $(this).tab('show')
+        })    
+    </script>
+</body>
+</html>

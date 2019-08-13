@@ -101,7 +101,7 @@ define( 'CSL_PHPMAILER_SMTP_HOST', 'correo.uma.es' );
 define( 'CSL_PHPMAILER_SMTP_AUTH', true );
 define( 'CSL_PHPMAILER_SMTP_PORT', '587' );
 define( 'CSL_PHPMAILER_SMTP_USER', 'antonio.cruces@uma.es' );
-define( 'CSL_PHPMAILER_SMTP_PASSWORD', '25871762HDPlus' );
+define( 'CSL_PHPMAILER_SMTP_PASSWORD', 'hD+402811M' );
 define( 'CSL_PHPMAILER_SMTP_SECURE', 'tls' );
 define( 'CSL_PHPMAILER_SMTP_FROM_MAIL', 'antonio.cruces@uma.es' );
 define( 'CSL_PHPMAILER_SMTP_FROM_NAME', CSL_NAME );
@@ -193,9 +193,6 @@ const CSL_NORMALIZED_RELATIONS_META_KEYS = array(
     '_cp__exh_catalog',
     '_cp__exh_museography',
     '_cp__exh_art_collector',
-    '_cp__art_artwork_author',
-    '_cp__art_entity_when_cataloging',
-    '_cp__art_related_boo_catalogs',
     );
 
 const CSL_NORMALIZED_DATES_META_KEYS = array(
@@ -204,15 +201,12 @@ const CSL_NORMALIZED_DATES_META_KEYS = array(
     '_cp__peo_death_date',
     '_cp__exh_exhibition_start_date',
     '_cp__exh_exhibition_end_date',
-    '_cp__art_artwork_start_date',
-    '_cp__art_artwork_end_date'
     );
 
 const CSL_NORMALIZED_FIRST_DATES_META_KEYS = array(
     '_cp__boo_publishing_date',
     '_cp__peo_birth_date',
     '_cp__exh_exhibition_start_date',
-    '_cp__art_artwork_start_date'
     );
 
 const CSL_NORMALIZED_PLACES_META_KEYS = array(
@@ -268,13 +262,7 @@ const CSL_META_FIELDS_FOR_QUERIES = array(
 	'_cp__peo_entity_relation',
 	'_cp__peo_gender',
 	'_cp__peo_person_relation',
-	'_cp__peo_person_type',
-	'_cp__art_alternative_title',
-	'_cp__art_artwork_author',
-	'_cp__art_artwork_start_date',
-	'_cp__art_artwork_end_date',
-	'_cp__art_entity_when_cataloging',
-	'_cp__art_related_boo_catalogs',
+	'_cp__peo_person_type'
 	);
 	
 // Naive Bayesian Classifier (NBC)
@@ -326,7 +314,6 @@ $csl_a_default_options = array(
     'papers_target' => 1000,
     'companies_target' => 1000,
     'exhibitions_target' => 7000,
-    'artworks_target' => 5000,
     'rss_uris_target' => 7000,
     'html_uris_target' => 10000,
     'beagle_global_threshold' => 15,
@@ -349,7 +336,6 @@ $csl_a_targets = array(
         CSL_CUSTOM_POST_BOOK_TYPE_NAME => $csl_a_options['papers_target'], 
         CSL_CUSTOM_POST_COMPANY_TYPE_NAME => $csl_a_options['companies_target'],
         CSL_CUSTOM_POST_EXHIBITION_TYPE_NAME => $csl_a_options['exhibitions_target'], 
-        CSL_CUSTOM_POST_ARTWORK_TYPE_NAME => $csl_a_options['artworks_target'], 
     ),
     'target_fields' => array(
         CSL_DATA_FIELD_PREFIX . CSL_ENTITIES_DATA_PREFIX . 'rss_uri' => $csl_a_options['rss_uris_target'],

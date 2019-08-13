@@ -1,0 +1,13 @@
+Parser API Key
+Access the content parser that we use to make the Web a pretty place. Documentation
+
+ExpoFinder
+Token: a6313138c154e60c0e3800d896da52124b5bccbd
+Note: The Parser API is freely available for non-commercial use. If you’ve hit your request cap or would like to use the Parser API for commercial use, get in touch with us at licensing@readability.com to learn about our licensing options.
+
+Reader API Key
+Access Readabilty users' Recommendations, Bookmarks, Favorites, and profile info. Documentation
+
+ExpoFinder
+Key: expofinder
+Secret: n4PtC7gQmKnxGPj4sFABHsLYchBBDEpu

@@ -1,0 +1,40 @@
+phpcpd 2.0.2 by Sebastian Bergmann.
+
+Found 11 exact clones with 477 duplicated lines in 4 files:
+
+  -	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/___BKP_csl_cron_beagle.php:201-212
+ 	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/___BKP_csl_cron_beagle.php:240-251
+ 
+  -	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/___BKP_csl_cron_beagle.php:43-116
+ 	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:42-115
+ 
+  -	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/___BKP_csl_cron_beagle.php:122-163
+ 	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:498-539
+ 
+  -	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/___BKP_csl_cron_beagle.php:185-204
+ 	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:574-593
+ 
+  -	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/___BKP_csl_cron_beagle.php:213-252
+ 	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:605-644
+ 
+  -	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/___BKP_csl_cron_beagle.php:440-573
+ 	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:838-971
+ 
+  -	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/___BKP_csl_cron_beagle.php:569-607
+ 	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:992-1030
+ 
+  -	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/___BKP_csl_cron_beagle.php:669-689
+ 	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:1227-1247
+ 
+  -	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/___BKP_csl_cron_beagle.php:780-835
+ 	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/_csl_cron_beagle.php:1338-1393
+ 
+  -	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_ajax_helper.php:425-454
+ 	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/csl_custom_ajax_helper.php:526-555
+ 
+  -	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:962-981
+ 	/var/www/html/admin.expofinder.es/public_html/wp-content/themes/csl/includes/libraries/crawler/OpenCrawler.php:1033-1052
+ 
+1.76% duplicated lines out of 27125 total lines of code.
+
+Time: 139 ms, Memory: 30.25Mb

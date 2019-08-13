@@ -1798,17 +1798,6 @@ echo '</p>';
 				</tr>
 
 				<tr valign="top">
-					<th scope="row"><label for="csl_settings[artworks_target]"><?php _e( 'Artworks target', CSL_TEXT_DOMAIN_PREFIX ); ?></label></th>
-					<td class="settings-target">
-						<p>
-						<input type="range" class="rangetarget" id="csl_settings[artworks_target]" name="csl_settings[artworks_target]" value="<?php esc_attr_e( $options['artworks_target'] ); ?>" step="500" min="0" max="100000" style="width: 50%;" oninput="val_artworks_target.value=parseInt(this.value).toLocaleString()" />
-						<output id="val_artworks_target"><?php echo number_format_i18n( $options['artworks_target'], 0 ); ?></output>
-						</p>
-						<p class="description"><?php echo __( 'Select the artworks target to get at the end of the project (between 0 and 100,000).', CSL_TEXT_DOMAIN_PREFIX ); ?></p>
-					</td>
-				</tr>
-
-				<tr valign="top">
 					<th scope="row"><label for="csl_settings[rss_uris_target]"><?php _e( 'RSS URIs target', CSL_TEXT_DOMAIN_PREFIX ); ?></label></th>
 					<td class="settings-target">
 						<p>

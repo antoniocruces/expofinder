@@ -1,0 +1,75 @@
+[[0;32mOK[0m] Logged in using credentials from debian maintenance account.
+ >>  MySQLTuner 1.5.1 - Major Hayden <major@mhtx.net>
+ >>  Bug reports, feature requests, and downloads at http://mysqltuner.com/
+ >>  Run with '--help' for additional options and output filtering
+[[0;32mOK[0m] Currently running supported MySQL version 5.6.25-0ubuntu0.15.04.1
+[[0;32mOK[0m] Operating on 64-bit architecture
+
+-------- Storage Engine Statistics -------------------------------------------
+[[0;34m--[0m] Status: [0;32m+ARCHIVE [0m[0;32m+BLACKHOLE [0m[0;32m+CSV [0m[0;31m-FEDERATED [0m[0;32m+InnoDB [0m[0;32m+MRG_MYISAM [0m
+[[0;34m--[0m] Data in MyISAM tables: 198K (Tables: 6)
+[[0;34m--[0m] Data in InnoDB tables: 40M (Tables: 29)
+[[0;31m!![0m] Total fragmented tables: 7
+
+-------- Security Recommendations  -------------------------------------------
+[[0;32mOK[0m] There is no anonymous account in all database users
+[[0;32mOK[0m] All database users have passwords assigned
+[[0;34m--[0m] There is 605 basic passwords in the list.
+
+-------- Performance Metrics -------------------------------------------------
+[[0;34m--[0m] Up for: 29d 1h 20m 41s (12M q [5.101 qps], 396K conn, TX: 31B, RX: 1B)
+[[0;34m--[0m] Reads / Writes: 81% / 19%
+[[0;34m--[0m] Binary logging is disabled
+[[0;34m--[0m] Total buffers: 192.0M global + 1.1M per thread (151 max threads)
+[[0;32mOK[0m] Maximum reached memory usage: 200.5M (0.31% of installed RAM)
+[[0;32mOK[0m] Maximum possible memory usage: 352.4M (0.55% of installed RAM)
+[[0;32mOK[0m] Slow queries: 0% (5/12M)
+[[0;32mOK[0m] Highest usage of available connections: 5% (8/151)
+[[0;32mOK[0m] Aborted connections: 0.00%  (1/396961)
+[[0;31m!![0m] Query cache is disabled
+[[0;31m!![0m] Sorts requiring temporary tables: 24% (175K temp sorts / 706K sorts)
+[[0;31m!![0m] Temporary tables created on disk: 62% (1M on disk / 2M total)
+[[0;32mOK[0m] Thread cache hit rate: 99% (8 created / 396K connections)
+[[0;31m!![0m] Table cache hit rate: 0% (211 open / 221K opened)
+[[0;32mOK[0m] Open file limit used: 8% (89/1K)
+[[0;32mOK[0m] Table locks acquired immediately: 99% (9M immediate / 9M locks)
+
+-------- MyISAM Metrics -----------------------------------------------------
+[[0;31m!![0m] Key buffer used: 18.5% (3M used / 16M cache)
+[[0;32mOK[0m] Key buffer size / total MyISAM indexes: 16.0M/164.0K
+[[0;32mOK[0m] Read Key buffer hit rate: 100.0% (141M cached / 314 reads)
+[[0;31m!![0m] Write Key buffer hit rate: 88.6% (31M cached / 3M writes)
+
+-------- InnoDB Metrics -----------------------------------------------------
+[[0;34m--[0m] InnoDB is enabled.
+[[0;32mOK[0m] InnoDB buffer pool / data size: 128.0M/40.1M
+[[0;31m!![0m] InnoDB buffer pool <= 1G and innodb_buffer_pool_instances(!=1).
+[[0;32mOK[0m] InnoDB Used buffer: 87.50% (7168 used/ 8192 total)
+[[0;32mOK[0m] InnoDB Read buffer efficiency: 100.00% (2418766103 hits/ 2418767970 total)
+[[0;31m!![0m] InnoDB Write buffer efficiency: 0.00% (0 hits/ 1 total)
+[[0;32mOK[0m] InnoDB log waits: 0.00% (0 waits / 313359 writes)
+
+-------- AriaDB Metrics -----------------------------------------------------
+[[0;34m--[0m] AriaDB is disabled.
+
+-------- Replication Metrics -------------------------------------------------
+[[0;34m--[0m] No replication slave(s) for this server.
+[[0;34m--[0m] This is a standalone server..
+
+-------- Recommendations -----------------------------------------------------
+General recommendations:
+    Run OPTIMIZE TABLE to defragment tables for better performance
+    When making adjustments, make tmp_table_size/max_heap_table_size equal
+    Reduce your SELECT DISTINCT queries without LIMIT clauses
+    Increase table_open_cache gradually to avoid file descriptor limits
+    Read this before increasing table_open_cache over 64: http://bit.ly/1mi7c4C
+    Beware that open_files_limit (1024) variable 
+    should be greater that table_open_cache ( 431)
+Variables to adjust:
+    query_cache_type (=1)
+    sort_buffer_size (> 256K)
+    read_rnd_buffer_size (> 256K)
+    tmp_table_size (> 16M)
+    max_heap_table_size (> 16M)
+    table_open_cache (> 431)
+    innodb_buffer_pool_instances (=1)

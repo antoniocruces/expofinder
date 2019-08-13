@@ -1055,7 +1055,38 @@ if ( !function_exists( 'csl_google_maps_clustered_map' ) ) :
 	            p.post_title;
 	    ",
 	    OBJECT);
-
+		/*
+	    $recount = $wpdb->get_results( "
+	        SELECT 
+	            SUBSTRING_INDEX(m.meta_value, ',', 1) AS lat,
+	            SUBSTRING_INDEX(SUBSTRING_INDEX(m.meta_value, ',', 2), ',', -1) AS lon,
+	            COUNT(p.ID) AS ntotal
+	        FROM 
+	    	    ( 
+	            {$wpdb->posts} AS p
+	            INNER JOIN
+	            {$wpdb->postmeta} m
+	            ON
+	            p.ID = m.post_id 
+	    	    )
+	            LEFT JOIN
+	            (SELECT meta_value, post_id FROM {$wpdb->postmeta} WHERE meta_key = \"{$datap}{$type}{$atype}town\") mm
+	            ON
+	            p.ID = mm.post_id
+	        WHERE 
+	            post_type = \"{$ptype}\"
+	            AND 
+	            post_status = \"publish\"
+	            AND
+	            m.meta_key = \"{$datap}{$type}coordinates\"
+	            AND
+	            m.meta_value IS NOT NULL
+	        GROUP BY
+	            SUBSTRING_INDEX(m.meta_value, ',', 1),
+	            SUBSTRING_INDEX(SUBSTRING_INDEX(m.meta_value, ',', 2), ',', -1);
+	    ",
+	    OBJECT);
+		*/
 		echo $title !== '' ? "<h$title_level class='csl-$ptype'>" . 
 			"$title <span class='alignright'>" . sprintf( 
 			__( '%s %s', CSL_TEXT_DOMAIN_PREFIX ),
@@ -1063,6 +1094,34 @@ if ( !function_exists( 'csl_google_maps_clustered_map' ) ) :
 			strtolower($dtype)
 			) . 
 			"</span></h$title_level>" . PHP_EOL : '';
+		/*
+		echo '
+			<style>
+			#floating-panel' . $type . ' {
+				position: absolute;
+				top: 10px;
+				left: 25%;
+				z-index: 5;
+				background-color: #fff;
+				padding: 5px;
+				border: 1px solid #999;
+				text-align: center;
+				font-family: "Roboto","sans-serif";
+				line-height: 30px;
+				padding-left: 10px;
+			}
+			#floating-panel' . $type . ' {
+				background-color: #fff;
+				border: 1px solid #999;
+				left: 25%;
+				padding: 5px;
+				position: absolute;
+				top: 10px;
+				z-index: 5;
+			}
+			</style>
+		';
+		*/
 	    echo '<div id="culsteredmap-canvas' . $type . '" style="height: 450px; width: 100%"></div>' . PHP_EOL;
 	    echo '<div id="selectedElement' . $type . '" style="width: 100%; height: 18px; margin-top: 5px;"></div>' . PHP_EOL;
 	    
